@@ -1,0 +1,1876 @@
+Feature,Importance,source_series,group,feat_type
+TB3SMFFM__lag6,0.020162066,TB3SMFFM,Interest and Exchange Rates,lag
+TB6SMFFM__rollmean12,0.019528756,TB6SMFFM,Interest and Exchange Rates,rolling_stat
+T1YFFM__lag6,0.019169735,T1YFFM,Interest and Exchange Rates,lag
+CPIMEDSL__mom6,0.016952367,CPIMEDSL,Prices,momentum
+FEDFUNDS__rollmean6,0.01632391,FEDFUNDS,Interest and Exchange Rates,rolling_stat
+CUSR0000SAS__mom12,0.015463443,CUSR0000SAS,Prices,momentum
+TB6SMFFM__lag6,0.014958709,TB6SMFFM,Interest and Exchange Rates,lag
+CPIMEDSL__mom12,0.013483548,CPIMEDSL,Prices,momentum
+TB3MS__rollstd12,0.013448684,TB3MS,Interest and Exchange Rates,rolling_stat
+T1YFFM__rollmean24,0.01251242,T1YFFM,Interest and Exchange Rates,rolling_stat
+TB6SMFFM__rollmean24,0.01231098,TB6SMFFM,Interest and Exchange Rates,rolling_stat
+T5YFFM__lag6,0.012208458,T5YFFM,Interest and Exchange Rates,lag
+TB6MS__rollstd12,0.011953439,TB6MS,Interest and Exchange Rates,rolling_stat
+GS1__rollstd12,0.011535442,GS1,Interest and Exchange Rates,rolling_stat
+TB3SMFFM__rollmean12,0.011336303,TB3SMFFM,Interest and Exchange Rates,rolling_stat
+SP500__mom12,0.011060945,SP500,Stock Market,momentum
+T5YFFM__rollmean24,0.010942092,T5YFFM,Interest and Exchange Rates,rolling_stat
+UEMP5TO14__mom6,0.010879979,UEMP5TO14,Labor Market,momentum
+HOUST__drawdown60,0.010450952,HOUST,Housing,drawdown
+TB3SMFFM__rollmean6,0.010413992,TB3SMFFM,Interest and Exchange Rates,rolling_stat
+AAAFFM__lag6,0.010045657,AAAFFM,Interest and Exchange Rates,lag
+USGOOD__mom3,0.009190292,USGOOD,Labor Market,momentum
+SP500__drawdown12,0.009134607,SP500,Stock Market,drawdown
+CPIAUCSL__mom12,0.009128691,CPIAUCSL,Prices,momentum
+PERMIT__rollstd12,0.009098576,PERMIT,Housing,rolling_stat
+HOUST__base,0.008760761,HOUST,Housing,base
+IPFPNSS__mom3,0.008659756,IPFPNSS,Output and Income,momentum
+CPIULFSL__mom12,0.008641055,CPIULFSL,Prices,momentum
+T1YFFM__rollmean12,0.008466471,T1YFFM,Interest and Exchange Rates,rolling_stat
+PERMITS__rollstd12,0.008271772,PERMITS,Housing,rolling_stat
+BAAFFM__mom6,0.008128728,BAAFFM,Interest and Exchange Rates,momentum
+AAAFFM__mom12,0.007948512,AAAFFM,Interest and Exchange Rates,momentum
+UNRATE__mom3,0.007884994,UNRATE,Labor Market,momentum
+CUSR0000SAS__mom6,0.0076848967,CUSR0000SAS,Prices,momentum
+BAAFFM__mom12,0.007584628,BAAFFM,Interest and Exchange Rates,momentum
+BAAFFM__lag6,0.0075651724,BAAFFM,Interest and Exchange Rates,lag
+IPMANSICS__mom3,0.007462118,IPMANSICS,Output and Income,momentum
+IPFUELS__rollz24,0.0074133105,IPFUELS,Output and Income,rolling_stat
+UNRATE__mom6,0.0072031175,UNRATE,Labor Market,momentum
+CUMFNS__mom6,0.006776889,CUMFNS,Output and Income,momentum
+IPFUELS__base,0.006559502,IPFUELS,Output and Income,base
+IPNMAT__mom12,0.0064129806,IPNMAT,Output and Income,momentum
+INDPRO__mom6,0.0058578947,INDPRO,Output and Income,momentum
+TB3SMFFM__rollmean24,0.0053437436,TB3SMFFM,Interest and Exchange Rates,rolling_stat
+IPMANSICS__mom6,0.005300234,IPMANSICS,Output and Income,momentum
+IPFUELS__rollstd12,0.005266861,IPFUELS,Output and Income,rolling_stat
+T10YFFM__lag6,0.005123842,T10YFFM,Interest and Exchange Rates,lag
+PERMIT__mom12,0.0049956846,PERMIT,Housing,momentum
+IPCONGD__mom6,0.0049708383,IPCONGD,Output and Income,momentum
+IPCONGD__mom12,0.0048792176,IPCONGD,Output and Income,momentum
+UEMP5TO14__rollstd6,0.004839565,UEMP5TO14,Labor Market,rolling_stat
+PERMIT__base,0.004723744,PERMIT,Housing,base
+CPIMEDSL__mom3,0.004660388,CPIMEDSL,Prices,momentum
+TB3MS__rollstd6,0.00463283,TB3MS,Interest and Exchange Rates,rolling_stat
+PERMITNE__base,0.0045983912,PERMITNE,Housing,base
+IPMAT__mom6,0.004574665,IPMAT,Output and Income,momentum
+AAAFFM__mom6,0.004555253,AAAFFM,Interest and Exchange Rates,momentum
+PERMITW__rollstd12,0.0044953595,PERMITW,Housing,rolling_stat
+IPFINAL__mom3,0.004481341,IPFINAL,Output and Income,momentum
+T10YFFM__lag9,0.0044769635,T10YFFM,Interest and Exchange Rates,lag
+CES3000000008__rollstd12,0.0044489177,CES3000000008,Prices,rolling_stat
+HOUSTW__base,0.004429845,HOUSTW,Housing,base
+BAAFFM__rollmean24,0.0044066366,BAAFFM,Interest and Exchange Rates,rolling_stat
+M2REAL__mom12,0.004356299,M2REAL,Money and Credit,momentum
+HOUSTMW__base,0.004274882,HOUSTMW,Housing,base
+TOTRESNS__base,0.0042634183,TOTRESNS,Money and Credit,base
+CUMFNS__rollmean6,0.004150552,CUMFNS,Output and Income,rolling_stat
+SP500__rollmean12,0.0041182153,SP500,Stock Market,rolling_stat
+PERMITW__mom12,0.004039331,PERMITW,Housing,momentum
+USGOOD__base,0.0038839672,USGOOD,Labor Market,base
+M2REAL__rollmean12,0.003882183,M2REAL,Money and Credit,rolling_stat
+BUSLOANS__base,0.0038565258,BUSLOANS,Money and Credit,base
+PAYEMS__base,0.0037430667,PAYEMS,Labor Market,base
+T10YFFM__rollmean24,0.0037188332,T10YFFM,Interest and Exchange Rates,rolling_stat
+INVEST__mom12,0.0036927888,INVEST,Money and Credit,momentum
+TB6SMFFM__rollmean6,0.003673951,TB6SMFFM,Interest and Exchange Rates,rolling_stat
+PERMITNE__mom12,0.0035937561,PERMITNE,Housing,momentum
+IPCONGD__rollmean12,0.0035072125,IPCONGD,Output and Income,rolling_stat
+TB6MS__rollstd6,0.003439757,TB6MS,Interest and Exchange Rates,rolling_stat
+IPFPNSS__mom6,0.0034203213,IPFPNSS,Output and Income,momentum
+IPNMAT__rollmean12,0.0032877456,IPNMAT,Output and Income,rolling_stat
+CUSR0000SAS__rollstd12,0.0032691127,CUSR0000SAS,Prices,rolling_stat
+PERMITW__base,0.0032021324,PERMITW,Housing,base
+USGOVT__rollmean24,0.0031346912,USGOVT,Labor Market,rolling_stat
+INDPRO__base,0.0030935796,INDPRO,Output and Income,base
+IPBUSEQ__base,0.0030782274,IPBUSEQ,Output and Income,base
+PERMITS__base,0.0030595188,PERMITS,Housing,base
+TB3MS__rollmean12,0.0028805751,TB3MS,Interest and Exchange Rates,rolling_stat
+USTPU__base,0.0028553163,USTPU,Labor Market,base
+MANEMP__rollz24,0.0028295731,MANEMP,Labor Market,rolling_stat
+USWTRADE__mom6,0.0027975899,USWTRADE,Labor Market,momentum
+CUMFNS__mom3,0.0027674478,CUMFNS,Output and Income,momentum
+USFIRE__base,0.0026849746,USFIRE,Labor Market,base
+HOUST__drawdown36,0.0026390867,HOUST,Housing,drawdown
+IPNCONGD__rollstd24,0.0025553638,IPNCONGD,Output and Income,rolling_stat
+GS10__rollz6,0.0025389232,GS10,Interest and Exchange Rates,rolling_stat
+IPBUSEQ__mom3,0.002507315,IPBUSEQ,Output and Income,momentum
+MANEMP__mom3,0.002503471,MANEMP,Labor Market,momentum
+DMANEMP__rollstd12,0.0025018079,DMANEMP,Labor Market,rolling_stat
+PERMITMW__base,0.0024863156,PERMITMW,Housing,base
+M1SL__base,0.002407714,M1SL,Money and Credit,base
+CPIULFSL__rollstd12,0.0023926692,CPIULFSL,Prices,rolling_stat
+BAA__lag6,0.0023776717,BAA,Interest and Exchange Rates,lag
+TB6MS__rollmean12,0.002275459,TB6MS,Interest and Exchange Rates,rolling_stat
+M2SL__base,0.002246374,M2SL,Money and Credit,base
+NONREVSL__mom12,0.0022339951,NONREVSL,Money and Credit,momentum
+HOUSTW__mom12,0.0022321767,HOUSTW,Housing,momentum
+USTPU__rollstd6,0.0022236279,USTPU,Labor Market,rolling_stat
+PERMIT__lag1,0.002218475,PERMIT,Housing,lag
+INDPRO__mom3,0.0021927345,INDPRO,Output and Income,momentum
+PERMITMW__mom12,0.002180452,PERMITMW,Housing,momentum
+W875RX1__base,0.002164859,W875RX1,Output and Income,base
+PERMITS__lag1,0.0021517244,PERMITS,Housing,lag
+HOUSTNE__lag1,0.002147111,HOUSTNE,Housing,lag
+BUSLOANS__mom12,0.0020548576,BUSLOANS,Money and Credit,momentum
+GS5__rollstd6,0.002013486,GS5,Interest and Exchange Rates,rolling_stat
+TB6SMFFM__lag12,0.0020097033,TB6SMFFM,Interest and Exchange Rates,lag
+GS5__rollz6,0.0019764493,GS5,Interest and Exchange Rates,rolling_stat
+HOUST__lag1,0.0019754488,HOUST,Housing,lag
+PERMITW__rollz24,0.001959909,PERMITW,Housing,rolling_stat
+PERMITW__rollmean24,0.001958215,PERMITW,Housing,rolling_stat
+IPMANSICS__rollstd6,0.001939308,IPMANSICS,Output and Income,rolling_stat
+CPIMEDSL__rollstd12,0.0019215934,CPIMEDSL,Prices,rolling_stat
+USTRADE__mom3,0.0019193066,USTRADE,Labor Market,momentum
+T1YFFM__lag12,0.0019182451,T1YFFM,Interest and Exchange Rates,lag
+BAAFFM__rollmean12,0.0019064724,BAAFFM,Interest and Exchange Rates,rolling_stat
+PERMIT__mom6,0.0018506979,PERMIT,Housing,momentum
+UEMP15T26__lag9,0.0018199622,UEMP15T26,Labor Market,lag
+DMANEMP__mom3,0.001790192,DMANEMP,Labor Market,momentum
+HOUSTW__lag1,0.0017759016,HOUSTW,Housing,lag
+M2REAL__base,0.0017647698,M2REAL,Money and Credit,base
+CUUR0000SA0L2__rollstd24,0.0017568531,CUUR0000SA0L2,Prices,rolling_stat
+UEMPMEAN__rollstd12,0.0017566864,UEMPMEAN,Labor Market,rolling_stat
+IPMAT__rollstd12,0.0017470785,IPMAT,Output and Income,rolling_stat
+PAYEMS__rollz24,0.0017397839,PAYEMS,Labor Market,rolling_stat
+DTCTHFNM__rollstd12,0.0017382656,DTCTHFNM,Money and Credit,rolling_stat
+CUSR0000SAS__mom3,0.0017001913,CUSR0000SAS,Prices,momentum
+TB3SMFFM__lag1,0.0016975522,TB3SMFFM,Interest and Exchange Rates,lag
+UEMP27OV__rollstd24,0.0016612869,UEMP27OV,Labor Market,rolling_stat
+BAA__mom12,0.001633751,BAA,Interest and Exchange Rates,momentum
+IPMANSICS__rollmean6,0.0016211149,IPMANSICS,Output and Income,rolling_stat
+USTRADE__rollstd12,0.0015967557,USTRADE,Labor Market,rolling_stat
+UEMP15OV__lag9,0.0015922392,UEMP15OV,Labor Market,lag
+TB3SMFFM__lag3,0.0015697898,TB3SMFFM,Interest and Exchange Rates,lag
+UEMP5TO14__rollmean6,0.0015605928,UEMP5TO14,Labor Market,rolling_stat
+FEDFUNDS__lag6,0.0015530117,FEDFUNDS,Interest and Exchange Rates,lag
+TB3SMFFM__base,0.0015492394,TB3SMFFM,Interest and Exchange Rates,base
+SP500__mom6,0.0015420847,SP500,Stock Market,momentum
+BAAFFM__rollz24,0.0015320944,BAAFFM,Interest and Exchange Rates,rolling_stat
+INVEST__mom6,0.001521465,INVEST,Money and Credit,momentum
+USGOVT__rollstd12,0.0014686112,USGOVT,Labor Market,rolling_stat
+CES1021000001__rollmean24,0.0014609707,CES1021000001,Labor Market,rolling_stat
+M2REAL__rollstd12,0.0014454805,M2REAL,Money and Credit,rolling_stat
+UEMPMEAN__mom12,0.0014091166,UEMPMEAN,Labor Market,momentum
+MANEMP__base,0.0014065374,MANEMP,Labor Market,base
+IPFUELS__mom3,0.0014039972,IPFUELS,Output and Income,momentum
+GS1__rollmean12,0.0013576191,GS1,Interest and Exchange Rates,rolling_stat
+DDURRG3M086SBEA__rollstd6,0.001352854,DDURRG3M086SBEA,Prices,rolling_stat
+IPDCONGD__mom6,0.0013507571,IPDCONGD,Output and Income,momentum
+IPFPNSS__base,0.001348979,IPFPNSS,Output and Income,base
+DMANEMP__base,0.0013262555,DMANEMP,Labor Market,base
+TB3SMFFM__lag9,0.0013006406,TB3SMFFM,Interest and Exchange Rates,lag
+BAAFFM__rollstd12,0.001292033,BAAFFM,Interest and Exchange Rates,rolling_stat
+AWHMAN__rollz12,0.0012673945,AWHMAN,Labor Market,rolling_stat
+T5YFFM__rollmean12,0.0012611243,T5YFFM,Interest and Exchange Rates,rolling_stat
+TB6SMFFM__lag3,0.0012278528,TB6SMFFM,Interest and Exchange Rates,lag
+IPDMAT__base,0.0012263306,IPDMAT,Output and Income,base
+UEMPLT5__mom12,0.0012261749,UEMPLT5,Labor Market,momentum
+IPDMAT__rollstd12,0.0012132224,IPDMAT,Output and Income,rolling_stat
+PERMITW__lag1,0.0011836494,PERMITW,Housing,lag
+AAAFFM__rollz24,0.0011769466,AAAFFM,Interest and Exchange Rates,rolling_stat
+IPBUSEQ__lag1,0.0011612165,IPBUSEQ,Output and Income,lag
+FEDFUNDS__rollstd6,0.0011312899,FEDFUNDS,Interest and Exchange Rates,rolling_stat
+T5YFFM__lag12,0.0011263265,T5YFFM,Interest and Exchange Rates,lag
+RPI__base,0.0011228103,RPI,Output and Income,base
+IPFUELS__rollz12,0.0011211297,IPFUELS,Output and Income,rolling_stat
+TB6SMFFM__rollstd12,0.0010990165,TB6SMFFM,Interest and Exchange Rates,rolling_stat
+TB6SMFFM__base,0.0010789059,TB6SMFFM,Interest and Exchange Rates,base
+AWHMAN__lag1,0.001074007,AWHMAN,Labor Market,lag
+USGOOD__rollz24,0.0010725732,USGOOD,Labor Market,rolling_stat
+USTPU__mom3,0.0010683397,USTPU,Labor Market,momentum
+UEMP15T26__rollstd12,0.0010447945,UEMP15T26,Labor Market,rolling_stat
+T1YFFM__lag9,0.0010359274,T1YFFM,Interest and Exchange Rates,lag
+TOTRESNS__mom6,0.0010356262,TOTRESNS,Money and Credit,momentum
+UEMP15T26__mom3,0.0010269496,UEMP15T26,Labor Market,momentum
+DPCERA3M086SBEA__mom12,0.0010056774,DPCERA3M086SBEA,"Consumption, Orders and Inventories",momentum
+CUSR0000SA0L5__rollz6,0.0010001044,CUSR0000SA0L5,Prices,rolling_stat
+HOUST__mom6,0.0009871476,HOUST,Housing,momentum
+T10YFFM__base,0.0009868718,T10YFFM,Interest and Exchange Rates,base
+GS5__mom12,0.0009785559,GS5,Interest and Exchange Rates,momentum
+T1YFFM__rollmean6,0.0009746413,T1YFFM,Interest and Exchange Rates,rolling_stat
+T5YFFM__lag9,0.0009715391,T5YFFM,Interest and Exchange Rates,lag
+USWTRADE__rollstd24,0.0009667122,USWTRADE,Labor Market,rolling_stat
+USGOOD__rollz12,0.0009560937,USGOOD,Labor Market,rolling_stat
+IPFUELS__mom6,0.00094384234,IPFUELS,Output and Income,momentum
+UEMPLT5__rollmean12,0.00093242206,UEMPLT5,Labor Market,rolling_stat
+USCONS__mom6,0.00092281663,USCONS,Labor Market,momentum
+MANEMP__lag6,0.00091582787,MANEMP,Labor Market,lag
+UNRATE__base,0.00089192716,UNRATE,Labor Market,base
+PPICMM__rollstd12,0.00089170295,PPICMM,Prices,rolling_stat
+T5YFFM__base,0.0008860649,T5YFFM,Interest and Exchange Rates,base
+HOUSTMW__lag1,0.0008811002,HOUSTMW,Housing,lag
+IPNMAT__mom6,0.00087479514,IPNMAT,Output and Income,momentum
+NDMANEMP__base,0.00087020185,NDMANEMP,Labor Market,base
+GS1__rollmean6,0.000867176,GS1,Interest and Exchange Rates,rolling_stat
+IPDCONGD__base,0.0008447872,IPDCONGD,Output and Income,base
+DPCERA3M086SBEA__mom6,0.00083117065,DPCERA3M086SBEA,"Consumption, Orders and Inventories",momentum
+CUSR0000SAS__rollstd24,0.0008132346,CUSR0000SAS,Prices,rolling_stat
+TB6SMFFM__lag9,0.0008097563,TB6SMFFM,Interest and Exchange Rates,lag
+FEDFUNDS__rollstd12,0.0008090849,FEDFUNDS,Interest and Exchange Rates,rolling_stat
+BAA__lag3,0.0008067442,BAA,Interest and Exchange Rates,lag
+MANEMP__rollz12,0.00079552963,MANEMP,Labor Market,rolling_stat
+INVEST__mom3,0.0007929614,INVEST,Money and Credit,momentum
+GS1__base,0.0007893004,GS1,Interest and Exchange Rates,base
+USWTRADE__lag3,0.00078741723,USWTRADE,Labor Market,lag
+FEDFUNDS__mom6,0.00078493037,FEDFUNDS,Interest and Exchange Rates,momentum
+TB6MS__lag6,0.00078176893,TB6MS,Interest and Exchange Rates,lag
+IPFPNSS__rollz24,0.000777925,IPFPNSS,Output and Income,rolling_stat
+NONREVSL__mom6,0.0007774657,NONREVSL,Money and Credit,momentum
+NONREVSL__rollstd6,0.0007756744,NONREVSL,Money and Credit,rolling_stat
+SRVPRD__mom3,0.00076158316,SRVPRD,Labor Market,momentum
+T1YFFM__base,0.00074542925,T1YFFM,Interest and Exchange Rates,base
+AWHMAN__lag9,0.0007436302,AWHMAN,Labor Market,lag
+AAAFFM__rollmean24,0.0007426137,AAAFFM,Interest and Exchange Rates,rolling_stat
+IPDCONGD__mom12,0.0007425192,IPDCONGD,Output and Income,momentum
+AAAFFM__rollmean12,0.00073535583,AAAFFM,Interest and Exchange Rates,rolling_stat
+USCONS__mom3,0.0007307179,USCONS,Labor Market,momentum
+CE16OV__rollstd12,0.0007209342,CE16OV,Labor Market,rolling_stat
+IPFINAL__base,0.00071831996,IPFINAL,Output and Income,base
+USCONS__rollmean6,0.00071779743,USCONS,Labor Market,rolling_stat
+T1YFFM__lag3,0.0007159462,T1YFFM,Interest and Exchange Rates,lag
+CES0600000007__base,0.00070979906,CES0600000007,Labor Market,base
+CPIULFSL__mom6,0.0007096533,CPIULFSL,Prices,momentum
+UEMP15T26__mom6,0.00069933664,UEMP15T26,Labor Market,momentum
+NDMANEMP__lag9,0.00068759866,NDMANEMP,Labor Market,lag
+PAYEMS__mom3,0.0006834711,PAYEMS,Labor Market,momentum
+UNRATE__rollstd12,0.0006795184,UNRATE,Labor Market,rolling_stat
+UEMP5TO14__base,0.0006736223,UEMP5TO14,Labor Market,base
+PERMIT__mom3,0.00067082414,PERMIT,Housing,momentum
+PAYEMS__rollmean6,0.0006687951,PAYEMS,Labor Market,rolling_stat
+USGOOD__rollz6,0.00066025514,USGOOD,Labor Market,rolling_stat
+M2REAL__mom6,0.0006522743,M2REAL,Money and Credit,momentum
+FEDFUNDS__lag3,0.0006520735,FEDFUNDS,Interest and Exchange Rates,lag
+TB3SMFFM__rollstd12,0.0006435305,TB3SMFFM,Interest and Exchange Rates,rolling_stat
+AAAFFM__lag9,0.0006379664,AAAFFM,Interest and Exchange Rates,lag
+SP500__drawdown36,0.00063496316,SP500,Stock Market,drawdown
+UEMPMEAN__rollmean12,0.00063141796,UEMPMEAN,Labor Market,rolling_stat
+PERMITW__lag9,0.00063100917,PERMITW,Housing,lag
+PERMIT__rollz6,0.0006303039,PERMIT,Housing,rolling_stat
+W875RX1__mom3,0.0006287509,W875RX1,Output and Income,momentum
+GS10__rollmean12,0.00062847504,GS10,Interest and Exchange Rates,rolling_stat
+AWHMAN__lag6,0.00061737257,AWHMAN,Labor Market,lag
+IPDCONGD__lag3,0.0006161053,IPDCONGD,Output and Income,lag
+PERMITW__mom6,0.0006142678,PERMITW,Housing,momentum
+NONREVSL__rollstd12,0.0006137658,NONREVSL,Money and Credit,rolling_stat
+DSERRG3M086SBEA__mom12,0.0006134308,DSERRG3M086SBEA,Prices,momentum
+USGOVT__mom3,0.0006094381,USGOVT,Labor Market,momentum
+NDMANEMP__lag6,0.00060252345,NDMANEMP,Labor Market,lag
+SRVPRD__base,0.0006021824,SRVPRD,Labor Market,base
+CPIMEDSL__lag3,0.0006000494,CPIMEDSL,Prices,lag
+IPCONGD__rollmean6,0.00058379746,IPCONGD,Output and Income,rolling_stat
+UEMP5TO14__lag9,0.0005828165,UEMP5TO14,Labor Market,lag
+HOUSTMW__lag9,0.00058263616,HOUSTMW,Housing,lag
+CES0600000007__lag9,0.0005744771,CES0600000007,Labor Market,lag
+DDURRG3M086SBEA__rollstd12,0.0005735912,DDURRG3M086SBEA,Prices,rolling_stat
+PAYEMS__rollz12,0.0005721893,PAYEMS,Labor Market,rolling_stat
+HOUST__lag9,0.0005606639,HOUST,Housing,lag
+GS10__lag6,0.0005579746,GS10,Interest and Exchange Rates,lag
+SP500__rollmean6,0.00055788364,SP500,Stock Market,rolling_stat
+CUMFNS__rollstd12,0.00055666675,CUMFNS,Output and Income,rolling_stat
+PCEPI__mom12,0.0005522683,PCEPI,Prices,momentum
+DTCOLNVHFNM__mom12,0.00054682104,DTCOLNVHFNM,Money and Credit,momentum
+USTPU__rollz12,0.00054411177,USTPU,Labor Market,rolling_stat
+IPB51222S__rollstd24,0.00054233224,IPB51222S,Output and Income,rolling_stat
+PERMITW__lag12,0.0005335693,PERMITW,Housing,lag
+DSERRG3M086SBEA__rollmean6,0.0005225212,DSERRG3M086SBEA,Prices,rolling_stat
+GS5__rollmean12,0.0005205639,GS5,Interest and Exchange Rates,rolling_stat
+WPSID61__base,0.000517208,WPSID61,Prices,base
+DPCERA3M086SBEA__mom3,0.00051439664,DPCERA3M086SBEA,"Consumption, Orders and Inventories",momentum
+PERMITMW__rollz24,0.0005123012,PERMITMW,Housing,rolling_stat
+BAAFFM__lag12,0.0005112924,BAAFFM,Interest and Exchange Rates,lag
+UEMP5TO14__lag12,0.0005092275,UEMP5TO14,Labor Market,lag
+PERMITS__mom12,0.0005007878,PERMITS,Housing,momentum
+UEMP15T26__base,0.0004960428,UEMP15T26,Labor Market,base
+IPNCONGD__rollstd6,0.00049440406,IPNCONGD,Output and Income,rolling_stat
+HOUSTS__base,0.000492129,HOUSTS,Housing,base
+FF_TBILL_SPREAD,0.00049121445,FF_TBILL_SPREAD,Interest and Exchange Rates,spread
+DPCERA3M086SBEA__rollz12,0.00048935274,DPCERA3M086SBEA,"Consumption, Orders and Inventories",rolling_stat
+DMANEMP__rollz24,0.00048934267,DMANEMP,Labor Market,rolling_stat
+USCONS__rollstd24,0.00048895733,USCONS,Labor Market,rolling_stat
+REALLN__rollstd12,0.00048816032,REALLN,Money and Credit,rolling_stat
+PERMITNE__lag1,0.0004858548,PERMITNE,Housing,lag
+NDMANEMP__lag1,0.0004800939,NDMANEMP,Labor Market,lag
+AWOTMAN__mom3,0.0004725391,AWOTMAN,Labor Market,momentum
+DPCERA3M086SBEA__rollz24,0.0004714179,DPCERA3M086SBEA,"Consumption, Orders and Inventories",rolling_stat
+IPFUELS__rollstd6,0.00047133394,IPFUELS,Output and Income,rolling_stat
+BAAFFM__lag9,0.0004619363,BAAFFM,Interest and Exchange Rates,lag
+WPSFD49502__rollstd12,0.0004587361,WPSFD49502,Prices,rolling_stat
+T10YFFM__rollmean12,0.0004532175,T10YFFM,Interest and Exchange Rates,rolling_stat
+BAAFFM__base,0.00045313526,BAAFFM,Interest and Exchange Rates,base
+UEMPMEAN__mom6,0.00045233846,UEMPMEAN,Labor Market,momentum
+M2SL__mom12,0.00044966812,M2SL,Money and Credit,momentum
+USTPU__rollz24,0.00044214152,USTPU,Labor Market,rolling_stat
+USWTRADE__rollmean6,0.0004418579,USWTRADE,Labor Market,rolling_stat
+TB3SMFFM__lag12,0.00043730746,TB3SMFFM,Interest and Exchange Rates,lag
+PERMITS__mom3,0.00043660417,PERMITS,Housing,momentum
+USFIRE__lag3,0.0004318762,USFIRE,Labor Market,lag
+FEDFUNDS__rollmean12,0.0004236012,FEDFUNDS,Interest and Exchange Rates,rolling_stat
+PERMITW__rollstd6,0.0004219211,PERMITW,Housing,rolling_stat
+USCONS__lag3,0.00042180961,USCONS,Labor Market,lag
+HOUSTS__lag1,0.00041722704,HOUSTS,Housing,lag
+AWOTMAN__mom6,0.00041721654,AWOTMAN,Labor Market,momentum
+TB6SMFFM__lag1,0.00041538887,TB6SMFFM,Interest and Exchange Rates,lag
+PPICMM__mom12,0.00041497694,PPICMM,Prices,momentum
+CE16OV__mom3,0.00041440682,CE16OV,Labor Market,momentum
+CUSR0000SAS__rollz12,0.0004057132,CUSR0000SAS,Prices,rolling_stat
+BAAFFM__lag1,0.00040339728,BAAFFM,Interest and Exchange Rates,lag
+NDMANEMP__rollz24,0.00040244113,NDMANEMP,Labor Market,rolling_stat
+IPMAT__base,0.00040129013,IPMAT,Output and Income,base
+GS5__base,0.00039739345,GS5,Interest and Exchange Rates,base
+CE16OV__rollz6,0.00039451924,CE16OV,Labor Market,rolling_stat
+AAA__lag3,0.00039169838,AAA,Interest and Exchange Rates,lag
+HOUSTNE__base,0.0003886832,HOUSTNE,Housing,base
+CPIMEDSL__rollstd6,0.00038830872,CPIMEDSL,Prices,rolling_stat
+GS10__rollstd6,0.00038708674,GS10,Interest and Exchange Rates,rolling_stat
+USTPU__lag12,0.00038653755,USTPU,Labor Market,lag
+NDMANEMP__rollstd12,0.00038223068,NDMANEMP,Labor Market,rolling_stat
+AWHMAN__lag3,0.00038146702,AWHMAN,Labor Market,lag
+SRVPRD__rollz24,0.00037837142,SRVPRD,Labor Market,rolling_stat
+TB6SMFFM__rollstd24,0.00037539922,TB6SMFFM,Interest and Exchange Rates,rolling_stat
+INVEST__base,0.00037259015,INVEST,Money and Credit,base
+AAA__rollstd6,0.000368942,AAA,Interest and Exchange Rates,rolling_stat
+T1YFFM__rollstd24,0.0003679382,T1YFFM,Interest and Exchange Rates,rolling_stat
+CUUR0000SA0L2__rollstd12,0.0003678089,CUUR0000SA0L2,Prices,rolling_stat
+USTRADE__base,0.00036635948,USTRADE,Labor Market,base
+IPDCONGD__rollstd12,0.00036447472,IPDCONGD,Output and Income,rolling_stat
+USTRADE__lag12,0.000363623,USTRADE,Labor Market,lag
+CONSPI__mom6,0.0003630164,CONSPI,Money and Credit,momentum
+INDPRO__rollz24,0.00036297546,INDPRO,Output and Income,rolling_stat
+USTRADE__rollmean24,0.00035910905,USTRADE,Labor Market,rolling_stat
+AWOTMAN__mom12,0.00035793992,AWOTMAN,Labor Market,momentum
+AAAFFM__base,0.00035559168,AAAFFM,Interest and Exchange Rates,base
+UEMP15T26__mom12,0.00035212951,UEMP15T26,Labor Market,momentum
+HOUSTW__lag3,0.00035041446,HOUSTW,Housing,lag
+USFIRE__rollstd24,0.00034971567,USFIRE,Labor Market,rolling_stat
+DMANEMP__rollz12,0.0003480248,DMANEMP,Labor Market,rolling_stat
+CES0600000007__rollmean6,0.000347162,CES0600000007,Labor Market,rolling_stat
+PERMITNE__rollstd12,0.0003439032,PERMITNE,Housing,rolling_stat
+PERMITMW__rollstd12,0.00034381362,PERMITMW,Housing,rolling_stat
+M2SL__mom3,0.000342885,M2SL,Money and Credit,momentum
+CPIAUCSL__mom6,0.00034001918,CPIAUCSL,Prices,momentum
+USTRADE__lag1,0.00033821055,USTRADE,Labor Market,lag
+HOUSTW__mom6,0.0003378669,HOUSTW,Housing,momentum
+HOUST__mom3,0.0003349484,HOUST,Housing,momentum
+WPSFD49207__rollstd12,0.0003349431,WPSFD49207,Prices,rolling_stat
+GS1__rollstd6,0.0003345305,GS1,Interest and Exchange Rates,rolling_stat
+IPFINAL__rollstd6,0.00033335798,IPFINAL,Output and Income,rolling_stat
+M2SL__rollstd24,0.0003251127,M2SL,Money and Credit,rolling_stat
+USWTRADE__base,0.0003237854,USWTRADE,Labor Market,base
+IPMAT__lag3,0.0003234741,IPMAT,Output and Income,lag
+CES1021000001__rollstd12,0.00032209157,CES1021000001,Labor Market,rolling_stat
+HOUSTW__rollz24,0.00031937068,HOUSTW,Housing,rolling_stat
+RPI__mom3,0.00031870426,RPI,Output and Income,momentum
+WPSID62__base,0.000318332,WPSID62,Prices,base
+AWHMAN__rollz24,0.00031766004,AWHMAN,Labor Market,rolling_stat
+PAYEMS__lag6,0.0003159245,PAYEMS,Labor Market,lag
+PERMITS__mom6,0.00031509026,PERMITS,Housing,momentum
+TB3MS__rollmean6,0.00030977212,TB3MS,Interest and Exchange Rates,rolling_stat
+CUMFNS__base,0.00030817123,CUMFNS,Output and Income,base
+TB6MS__mom6,0.00030709393,TB6MS,Interest and Exchange Rates,momentum
+HOUST__drawdown12,0.0003063741,HOUST,Housing,drawdown
+IPB51222S__rollstd6,0.0003044047,IPB51222S,Output and Income,rolling_stat
+CES0600000008__base,0.00030180812,CES0600000008,Prices,base
+USFIRE__rollmean24,0.00030167354,USFIRE,Labor Market,rolling_stat
+UEMP27OV__mom12,0.00029801248,UEMP27OV,Labor Market,momentum
+NDMANEMP__lag12,0.00029662048,NDMANEMP,Labor Market,lag
+USTRADE__rollstd6,0.0002962622,USTRADE,Labor Market,rolling_stat
+CES0600000008__rollstd12,0.00029485533,CES0600000008,Prices,rolling_stat
+RPI__mom12,0.00029458842,RPI,Output and Income,momentum
+CES0600000007__rollz6,0.00029226963,CES0600000007,Labor Market,rolling_stat
+UNRATE__mom12,0.00028979284,UNRATE,Labor Market,momentum
+UEMP15OV__lag1,0.00028979193,UEMP15OV,Labor Market,lag
+USFIRE__rollz12,0.00028727367,USFIRE,Labor Market,rolling_stat
+CES2000000008__lag9,0.00028723315,CES2000000008,Prices,lag
+CPIAPPSL__mom12,0.00028634432,CPIAPPSL,Prices,momentum
+T1YFFM__lag1,0.0002861724,T1YFFM,Interest and Exchange Rates,lag
+CES2000000008__lag6,0.00028521044,CES2000000008,Prices,lag
+TB3SMFFM__rollstd6,0.00028201798,TB3SMFFM,Interest and Exchange Rates,rolling_stat
+CES0600000008__mom12,0.00028149056,CES0600000008,Prices,momentum
+CE16OV__mom6,0.0002810258,CE16OV,Labor Market,momentum
+PERMITMW__rollstd24,0.0002781438,PERMITMW,Housing,rolling_stat
+UEMPMEAN__rollstd24,0.00027787377,UEMPMEAN,Labor Market,rolling_stat
+PAYEMS__mom6,0.00027786012,PAYEMS,Labor Market,momentum
+UEMP15T26__lag3,0.00027697955,UEMP15T26,Labor Market,lag
+SP500__realizedvol3,0.00027508874,SP500__realizedvol3,Stock Market,volatility
+IPNCONGD__lag6,0.00027492523,IPNCONGD,Output and Income,lag
+NONBORRES__base,0.0002727871,NONBORRES,Money and Credit,base
+HOUSTW__lag9,0.00027130716,HOUSTW,Housing,lag
+M2REAL__rollstd6,0.00026488793,M2REAL,Money and Credit,rolling_stat
+BUSLOANS__rollstd6,0.00026419805,BUSLOANS,Money and Credit,rolling_stat
+DDURRG3M086SBEA__rollstd24,0.00026344368,DDURRG3M086SBEA,Prices,rolling_stat
+SP500__rollstd6,0.0002599409,SP500,Stock Market,rolling_stat
+CES0600000007__lag6,0.0002584723,CES0600000007,Labor Market,lag
+GS10__mom12,0.0002577418,GS10,Interest and Exchange Rates,momentum
+WPSID61__rollstd12,0.00025730187,WPSID61,Prices,rolling_stat
+PERMITS__rollmean6,0.0002571792,PERMITS,Housing,rolling_stat
+UEMP5TO14__mom3,0.00025686264,UEMP5TO14,Labor Market,momentum
+IPB51222S__base,0.00025669255,IPB51222S,Output and Income,base
+CES0600000007__mom6,0.0002553509,CES0600000007,Labor Market,momentum
+CE16OV__rollstd6,0.00025447676,CE16OV,Labor Market,rolling_stat
+CES2000000008__rollstd24,0.00025174263,CES2000000008,Prices,rolling_stat
+DPCERA3M086SBEA__rollmean12,0.00025138992,DPCERA3M086SBEA,"Consumption, Orders and Inventories",rolling_stat
+IPB51222S__mom12,0.0002493509,IPB51222S,Output and Income,momentum
+AWHMAN__base,0.00024724356,AWHMAN,Labor Market,base
+MANEMP__lag9,0.0002472015,MANEMP,Labor Market,lag
+BUSLOANS__lag12,0.00024455204,BUSLOANS,Money and Credit,lag
+SRVPRD__rollstd24,0.0002429789,SRVPRD,Labor Market,rolling_stat
+CUUR0000SA0L2__rollstd6,0.00024281208,CUUR0000SA0L2,Prices,rolling_stat
+INDPRO__rollstd6,0.00024203597,INDPRO,Output and Income,rolling_stat
+TOTRESNS__rollstd12,0.00023966863,TOTRESNS,Money and Credit,rolling_stat
+CES1021000001__mom12,0.00023749127,CES1021000001,Labor Market,momentum
+AWHMAN__rollmean12,0.00023721524,AWHMAN,Labor Market,rolling_stat
+CLF16OV__rollmean24,0.00023499792,CLF16OV,Labor Market,rolling_stat
+DTCTHFNM__rollstd6,0.00023397635,DTCTHFNM,Money and Credit,rolling_stat
+PERMITW__mom3,0.0002323264,PERMITW,Housing,momentum
+INDPRO__lag12,0.0002319423,INDPRO,Output and Income,lag
+T10YFFM__lag1,0.00023162765,T10YFFM,Interest and Exchange Rates,lag
+SP500__rollmean24,0.00022819646,SP500,Stock Market,rolling_stat
+M2SL__mom6,0.00022803733,M2SL,Money and Credit,momentum
+CUUR0000SAD__rollstd24,0.00022774561,CUUR0000SAD,Prices,rolling_stat
+CPIMEDSL__base,0.00022765747,CPIMEDSL,Prices,base
+IPFUELS__lag6,0.00022707281,IPFUELS,Output and Income,lag
+AAAFFM__rollz12,0.00022704327,AAAFFM,Interest and Exchange Rates,rolling_stat
+DDURRG3M086SBEA__lag3,0.00022649526,DDURRG3M086SBEA,Prices,lag
+TOTRESNS__mom12,0.00022595692,TOTRESNS,Money and Credit,momentum
+DPCERA3M086SBEA__base,0.0002243444,DPCERA3M086SBEA,"Consumption, Orders and Inventories",base
+CE16OV__base,0.00022379971,CE16OV,Labor Market,base
+UEMP15OV__base,0.00022364742,UEMP15OV,Labor Market,base
+DMANEMP__lag6,0.00022142034,DMANEMP,Labor Market,lag
+CPIULFSL__lag3,0.00022029063,CPIULFSL,Prices,lag
+IPFPNSS__lag1,0.00021984905,IPFPNSS,Output and Income,lag
+CPIMEDSL__rollstd24,0.00021844449,CPIMEDSL,Prices,rolling_stat
+USCONS__lag9,0.00021829626,USCONS,Labor Market,lag
+PERMITMW__lag1,0.00021796585,PERMITMW,Housing,lag
+UEMP27OV__lag3,0.00021792433,UEMP27OV,Labor Market,lag
+SRVPRD__lag9,0.0002169943,SRVPRD,Labor Market,lag
+IPMANSICS__base,0.00021634853,IPMANSICS,Output and Income,base
+PERMIT__lag9,0.00021521881,PERMIT,Housing,lag
+AAAFFM__mom3,0.0002119797,AAAFFM,Interest and Exchange Rates,momentum
+M2REAL__rollmean6,0.00021113269,M2REAL,Money and Credit,rolling_stat
+CPITRNSL__base,0.00020916942,CPITRNSL,Prices,base
+SP500__lag6,0.00020862174,SP500,Stock Market,lag
+UEMP15OV__lag3,0.00020799832,UEMP15OV,Labor Market,lag
+T10YFFM__lag12,0.00020796352,T10YFFM,Interest and Exchange Rates,lag
+TB6MS__rollmean6,0.00020741124,TB6MS,Interest and Exchange Rates,rolling_stat
+OILPRICEx__rollstd6,0.00020582581,OILPRICEx,Prices,rolling_stat
+CUSR0000SA0L5__mom12,0.00020434168,CUSR0000SA0L5,Prices,momentum
+UEMPLT5__base,0.00020273605,UEMPLT5,Labor Market,base
+DMANEMP__lag3,0.00020170357,DMANEMP,Labor Market,lag
+UEMPLT5__rollmean24,0.00020074393,UEMPLT5,Labor Market,rolling_stat
+IPBUSEQ__rollz12,0.0001993486,IPBUSEQ,Output and Income,rolling_stat
+CPIMEDSL__lag12,0.00019934252,CPIMEDSL,Prices,lag
+AAAFFM__lag3,0.00019893309,AAAFFM,Interest and Exchange Rates,lag
+IPNMAT__rollmean6,0.00019866046,IPNMAT,Output and Income,rolling_stat
+FEDFUNDS__base,0.00019788746,FEDFUNDS,Interest and Exchange Rates,base
+IPNMAT__lag6,0.00019744986,IPNMAT,Output and Income,lag
+USGOVT__lag12,0.00019608659,USGOVT,Labor Market,lag
+CLF16OV__mom3,0.00019589215,CLF16OV,Labor Market,momentum
+IPNCONGD__mom6,0.00019563914,IPNCONGD,Output and Income,momentum
+TB6MS__base,0.00019554434,TB6MS,Interest and Exchange Rates,base
+BUSLOANS__mom6,0.00019540798,BUSLOANS,Money and Credit,momentum
+USGOVT__lag1,0.00019449645,USGOVT,Labor Market,lag
+HOUSTNE__rollstd6,0.0001923787,HOUSTNE,Housing,rolling_stat
+IPDMAT__rollz12,0.00019234423,IPDMAT,Output and Income,rolling_stat
+CUUR0000SAD__lag1,0.00019020478,CUUR0000SAD,Prices,lag
+DDURRG3M086SBEA__mom12,0.00019008183,DDURRG3M086SBEA,Prices,momentum
+IPBUSEQ__lag12,0.0001890321,IPBUSEQ,Output and Income,lag
+IPFUELS__rollstd24,0.00018890397,IPFUELS,Output and Income,rolling_stat
+HOUSTS__mom3,0.00018862152,HOUSTS,Housing,momentum
+IPDMAT__mom3,0.00018677507,IPDMAT,Output and Income,momentum
+DTCOLNVHFNM__rollstd24,0.00018605369,DTCOLNVHFNM,Money and Credit,rolling_stat
+IPDCONGD__rollz24,0.00018585911,IPDCONGD,Output and Income,rolling_stat
+NDMANEMP__mom3,0.00018435877,NDMANEMP,Labor Market,momentum
+CES1021000001__base,0.00018379181,CES1021000001,Labor Market,base
+CPITRNSL__mom6,0.00018289068,CPITRNSL,Prices,momentum
+CPIAUCSL__rollstd12,0.00018267478,CPIAUCSL,Prices,rolling_stat
+USGOOD__lag6,0.00018158113,USGOOD,Labor Market,lag
+OILPRICEx__rollstd12,0.00017983226,OILPRICEx,Prices,rolling_stat
+DTCOLNVHFNM__lag1,0.0001795128,DTCOLNVHFNM,Money and Credit,lag
+BAAFFM__mom3,0.0001773128,BAAFFM,Interest and Exchange Rates,momentum
+AWHMAN__rollmean24,0.00017598637,AWHMAN,Labor Market,rolling_stat
+DPCERA3M086SBEA__rollmean6,0.00017545221,DPCERA3M086SBEA,"Consumption, Orders and Inventories",rolling_stat
+T5YFFM__lag1,0.00017518483,T5YFFM,Interest and Exchange Rates,lag
+PERMITNE__lag3,0.00017476063,PERMITNE,Housing,lag
+PERMITMW__mom6,0.00017291502,PERMITMW,Housing,momentum
+AWHMAN__mom3,0.00017266218,AWHMAN,Labor Market,momentum
+IPDMAT__rollz24,0.00017234284,IPDMAT,Output and Income,rolling_stat
+UEMPLT5__rollstd6,0.00017193155,UEMPLT5,Labor Market,rolling_stat
+IPNCONGD__mom12,0.00017187536,IPNCONGD,Output and Income,momentum
+PERMITNE__rollz6,0.00017162976,PERMITNE,Housing,rolling_stat
+CPITRNSL__lag6,0.00017114288,CPITRNSL,Prices,lag
+UEMPLT5__mom3,0.00017098845,UEMPLT5,Labor Market,momentum
+PERMITNE__lag9,0.0001696621,PERMITNE,Housing,lag
+DTCTHFNM__mom6,0.00016941877,DTCTHFNM,Money and Credit,momentum
+UEMP5TO14__rollz24,0.0001692552,UEMP5TO14,Labor Market,rolling_stat
+WPSFD49207__mom12,0.00016823999,WPSFD49207,Prices,momentum
+M2REAL__mom3,0.00016774486,M2REAL,Money and Credit,momentum
+AAAFFM__lag1,0.00016744953,AAAFFM,Interest and Exchange Rates,lag
+IPFUELS__mom12,0.0001667283,IPFUELS,Output and Income,momentum
+UEMP5TO14__mom12,0.00016653274,UEMP5TO14,Labor Market,momentum
+SP500__mom3,0.00016580222,SP500,Stock Market,momentum
+IPFINAL__lag12,0.00016578975,IPFINAL,Output and Income,lag
+IPMANSICS__rollz24,0.00016569906,IPMANSICS,Output and Income,rolling_stat
+WPSFD49207__base,0.00016520004,WPSFD49207,Prices,base
+CES0600000008__lag9,0.00016352757,CES0600000008,Prices,lag
+USGOVT__rollstd24,0.00016288485,USGOVT,Labor Market,rolling_stat
+CUMFNS__rollz24,0.00016286451,CUMFNS,Output and Income,rolling_stat
+PAYEMS__lag3,0.00016247222,PAYEMS,Labor Market,lag
+USGOVT__mom12,0.00016015158,USGOVT,Labor Market,momentum
+CUMFNS__rollstd6,0.00016002759,CUMFNS,Output and Income,rolling_stat
+MANEMP__mom6,0.00015969215,MANEMP,Labor Market,momentum
+IPFPNSS__rollz12,0.0001578945,IPFPNSS,Output and Income,rolling_stat
+HOUSTS__mom12,0.0001572688,HOUSTS,Housing,momentum
+IPDCONGD__rollstd24,0.00015713525,IPDCONGD,Output and Income,rolling_stat
+CES0600000008__rollstd6,0.00015672517,CES0600000008,Prices,rolling_stat
+PERMIT__rollz24,0.00015647168,PERMIT,Housing,rolling_stat
+CUSR0000SAS__rollmean12,0.00015635107,CUSR0000SAS,Prices,rolling_stat
+HOUSTW__rollstd12,0.000155859,HOUSTW,Housing,rolling_stat
+PERMITNE__lag12,0.0001555407,PERMITNE,Housing,lag
+IPDCONGD__rollmean12,0.00015513002,IPDCONGD,Output and Income,rolling_stat
+SP500__drawdown60,0.00015401225,SP500,Stock Market,drawdown
+USTRADE__rollstd24,0.0001537591,USTRADE,Labor Market,rolling_stat
+USGOVT__base,0.00015346253,USGOVT,Labor Market,base
+GS1__rollstd24,0.00015295364,GS1,Interest and Exchange Rates,rolling_stat
+W875RX1__mom6,0.00015181712,W875RX1,Output and Income,momentum
+T5YFFM__rollstd24,0.00015142644,T5YFFM,Interest and Exchange Rates,rolling_stat
+IPBUSEQ__rollz6,0.00015001933,IPBUSEQ,Output and Income,rolling_stat
+M2REAL__lag9,0.00014963116,M2REAL,Money and Credit,lag
+USWTRADE__lag1,0.00014946313,USWTRADE,Labor Market,lag
+PERMITMW__lag9,0.00014806828,PERMITMW,Housing,lag
+CE16OV__rollz12,0.00014750825,CE16OV,Labor Market,rolling_stat
+SRVPRD__rollstd6,0.00014695377,SRVPRD,Labor Market,rolling_stat
+USFIRE__lag1,0.00014657737,USFIRE,Labor Market,lag
+USWTRADE__lag6,0.00014604385,USWTRADE,Labor Market,lag
+HOUSTW__rollmean24,0.00014599266,HOUSTW,Housing,rolling_stat
+PPICMM__rollstd24,0.00014562848,PPICMM,Prices,rolling_stat
+UEMPMEAN__base,0.00014407773,UEMPMEAN,Labor Market,base
+INDPRO__rollz6,0.00014394536,INDPRO,Output and Income,rolling_stat
+CES0600000007__lag1,0.00014330437,CES0600000007,Labor Market,lag
+IPDCONGD__rollmean24,0.00014319176,IPDCONGD,Output and Income,rolling_stat
+AAAFFM__rollstd6,0.000140205,AAAFFM,Interest and Exchange Rates,rolling_stat
+M1SL__mom6,0.00014016785,M1SL,Money and Credit,momentum
+CLF16OV__lag9,0.00013881394,CLF16OV,Labor Market,lag
+RPI__rollz24,0.00013814535,RPI,Output and Income,rolling_stat
+IPBUSEQ__lag9,0.0001378797,IPBUSEQ,Output and Income,lag
+CES2000000008__mom12,0.00013763692,CES2000000008,Prices,momentum
+PERMITS__rollmean12,0.00013706746,PERMITS,Housing,rolling_stat
+T10YFFM__rollstd12,0.000136999,T10YFFM,Interest and Exchange Rates,rolling_stat
+HOUSTMW__mom6,0.00013674566,HOUSTMW,Housing,momentum
+PERMITS__lag3,0.00013647717,PERMITS,Housing,lag
+PPICMM__mom6,0.00013641841,PPICMM,Prices,momentum
+WPSFD49207__rollmean12,0.00013603526,WPSFD49207,Prices,rolling_stat
+IPDMAT__lag12,0.00013558804,IPDMAT,Output and Income,lag
+DPCERA3M086SBEA__lag1,0.00013400492,DPCERA3M086SBEA,"Consumption, Orders and Inventories",lag
+NONREVSL__base,0.00013343338,NONREVSL,Money and Credit,base
+RPI__lag9,0.000131152,RPI,Output and Income,lag
+W875RX1__lag9,0.0001307556,W875RX1,Output and Income,lag
+IPNMAT__base,0.00013054813,IPNMAT,Output and Income,base
+CUUR0000SAD__rollmean24,0.00013038355,CUUR0000SAD,Prices,rolling_stat
+IPFUELS__lag12,0.0001298633,IPFUELS,Output and Income,lag
+CES3000000008__mom12,0.00012981988,CES3000000008,Prices,momentum
+NDMANEMP__rollz6,0.00012979726,NDMANEMP,Labor Market,rolling_stat
+RPI__rollstd6,0.00012932846,RPI,Output and Income,rolling_stat
+USFIRE__lag6,0.00012904342,USFIRE,Labor Market,lag
+WPSID61__rollstd6,0.00012854468,WPSID61,Prices,rolling_stat
+CPIAPPSL__mom6,0.00012840518,CPIAPPSL,Prices,momentum
+AAAFFM__rollstd12,0.00012791215,AAAFFM,Interest and Exchange Rates,rolling_stat
+IPFPNSS__rollz6,0.00012704566,IPFPNSS,Output and Income,rolling_stat
+WPSID62__mom12,0.00012681945,WPSID62,Prices,momentum
+BAA__base,0.00012656486,BAA,Interest and Exchange Rates,base
+UEMPLT5__lag1,0.00012525238,UEMPLT5,Labor Market,lag
+NDMANEMP__rollstd6,0.00012431509,NDMANEMP,Labor Market,rolling_stat
+MANEMP__lag12,0.00012372999,MANEMP,Labor Market,lag
+UEMP15OV__mom12,0.00012331166,UEMP15OV,Labor Market,momentum
+GS10__rollstd12,0.00012302812,GS10,Interest and Exchange Rates,rolling_stat
+IPDCONGD__mom3,0.00012266292,IPDCONGD,Output and Income,momentum
+UEMP27OV__mom6,0.00012118558,UEMP27OV,Labor Market,momentum
+CPITRNSL__rollstd24,0.00012112831,CPITRNSL,Prices,rolling_stat
+HOUST__rollmean6,0.000120812365,HOUST,Housing,rolling_stat
+CUUR0000SAD__rollmean6,0.00012000045,CUUR0000SAD,Prices,rolling_stat
+IPB51222S__rollstd12,0.00011961498,IPB51222S,Output and Income,rolling_stat
+CES0600000008__lag6,0.00011952946,CES0600000008,Prices,lag
+USGOOD__rollstd12,0.00011820426,USGOOD,Labor Market,rolling_stat
+AAA__rollmean24,0.0001177047,AAA,Interest and Exchange Rates,rolling_stat
+IPBUSEQ__lag3,0.00011737316,IPBUSEQ,Output and Income,lag
+IPNCONGD__lag3,0.000117100775,IPNCONGD,Output and Income,lag
+PERMITMW__rollz6,0.00011678352,PERMITMW,Housing,rolling_stat
+BAA__lag9,0.00011667174,BAA,Interest and Exchange Rates,lag
+AAA__mom12,0.000116058865,AAA,Interest and Exchange Rates,momentum
+CES0600000008__mom3,0.00011543183,CES0600000008,Prices,momentum
+UNRATE__rollz12,0.00011515868,UNRATE,Labor Market,rolling_stat
+BUSLOANS__mom3,0.00011514607,BUSLOANS,Money and Credit,momentum
+MANEMP__rollstd12,0.00011491009,MANEMP,Labor Market,rolling_stat
+IPDCONGD__lag1,0.00011481195,IPDCONGD,Output and Income,lag
+IPDCONGD__rollz6,0.00011423822,IPDCONGD,Output and Income,rolling_stat
+USWTRADE__rollz12,0.00011383514,USWTRADE,Labor Market,rolling_stat
+UEMP15OV__rollstd24,0.00011339578,UEMP15OV,Labor Market,rolling_stat
+CLF16OV__rollstd24,0.000113363436,CLF16OV,Labor Market,rolling_stat
+IPDCONGD__lag12,0.00011331209,IPDCONGD,Output and Income,lag
+HOUSTW__rollstd24,0.00011282638,HOUSTW,Housing,rolling_stat
+UEMPMEAN__lag6,0.00011269423,UEMPMEAN,Labor Market,lag
+W875RX1__mom12,0.00011230352,W875RX1,Output and Income,momentum
+USGOOD__lag12,0.00011217885,USGOOD,Labor Market,lag
+INDPRO__rollz12,0.00011173425,INDPRO,Output and Income,rolling_stat
+UEMP15OV__mom6,0.00011110713,UEMP15OV,Labor Market,momentum
+INDPRO__lag3,0.00011091351,INDPRO,Output and Income,lag
+USGOOD__lag3,0.00011081655,USGOOD,Labor Market,lag
+PERMITNE__mom6,0.00011012888,PERMITNE,Housing,momentum
+PERMITS__lag12,0.000109973524,PERMITS,Housing,lag
+USCONS__base,0.00010964501,USCONS,Labor Market,base
+HOUSTW__lag6,0.00010949918,HOUSTW,Housing,lag
+HOUSTW__rollz12,0.00010908821,HOUSTW,Housing,rolling_stat
+CUUR0000SAD__base,0.00010889307,CUUR0000SAD,Prices,base
+M2REAL__lag3,0.00010746299,M2REAL,Money and Credit,lag
+IPFPNSS__lag12,0.000106934676,IPFPNSS,Output and Income,lag
+DDURRG3M086SBEA__base,0.00010677046,DDURRG3M086SBEA,Prices,base
+CUUR0000SAD__rollstd12,0.000106609776,CUUR0000SAD,Prices,rolling_stat
+WPSID62__rollmean12,0.00010640141,WPSID62,Prices,rolling_stat
+CPITRNSL__mom12,0.000105832994,CPITRNSL,Prices,momentum
+CLF16OV__rollz12,0.00010583061,CLF16OV,Labor Market,rolling_stat
+WPSID61__mom12,0.0001049423,WPSID61,Prices,momentum
+HOUSTNE__lag9,0.00010437075,HOUSTNE,Housing,lag
+WPSID62__mom3,0.0001041397,WPSID62,Prices,momentum
+PERMIT__lag12,0.00010383589,PERMIT,Housing,lag
+IPBUSEQ__rollstd24,0.00010379944,IPBUSEQ,Output and Income,rolling_stat
+UEMP15T26__lag1,0.00010339865,UEMP15T26,Labor Market,lag
+FEDFUNDS__rollstd24,0.00010328034,FEDFUNDS,Interest and Exchange Rates,rolling_stat
+DPCERA3M086SBEA__rollstd12,0.000102743266,DPCERA3M086SBEA,"Consumption, Orders and Inventories",rolling_stat
+CES0600000007__rollstd6,0.00010273918,CES0600000007,Labor Market,rolling_stat
+NDMANEMP__rollz12,0.00010272545,NDMANEMP,Labor Market,rolling_stat
+WPSID61__mom3,0.00010271442,WPSID61,Prices,momentum
+PERMITNE__rollmean6,0.00010268835,PERMITNE,Housing,rolling_stat
+USWTRADE__lag12,0.00010216348,USWTRADE,Labor Market,lag
+IPCONGD__base,0.00010162855,IPCONGD,Output and Income,base
+CPIAPPSL__lag3,0.00010129498,CPIAPPSL,Prices,lag
+DNDGRG3M086SBEA__rollstd6,0.00010110893,DNDGRG3M086SBEA,Prices,rolling_stat
+SP500__lag1,0.000101063575,SP500,Stock Market,lag
+CES1021000001__mom6,0.00010100239,CES1021000001,Labor Market,momentum
+UEMP15OV__mom3,0.00010070787,UEMP15OV,Labor Market,momentum
+IPDMAT__mom6,0.000100687685,IPDMAT,Output and Income,momentum
+IPDMAT__lag6,9.992111e-05,IPDMAT,Output and Income,lag
+M2SL__rollstd6,9.987898e-05,M2SL,Money and Credit,rolling_stat
+CES3000000008__rollstd24,9.97052e-05,CES3000000008,Prices,rolling_stat
+WPSID62__mom6,9.94122e-05,WPSID62,Prices,momentum
+CES1021000001__lag12,9.922566e-05,CES1021000001,Labor Market,lag
+PERMITNE__rollstd24,9.918674e-05,PERMITNE,Housing,rolling_stat
+IPNMAT__rollstd24,9.8680604e-05,IPNMAT,Output and Income,rolling_stat
+T10YFFM__rollmean6,9.778348e-05,T10YFFM,Interest and Exchange Rates,rolling_stat
+DMANEMP__lag12,9.7782024e-05,DMANEMP,Labor Market,lag
+DTCTHFNM__rollstd24,9.766317e-05,DTCTHFNM,Money and Credit,rolling_stat
+RPI__lag3,9.735353e-05,RPI,Output and Income,lag
+AAAFFM__lag12,9.7342796e-05,AAAFFM,Interest and Exchange Rates,lag
+M2SL__rollstd12,9.6150245e-05,M2SL,Money and Credit,rolling_stat
+PAYEMS__rollstd12,9.603454e-05,PAYEMS,Labor Market,rolling_stat
+CUUR0000SA0L2__rollmean6,9.486259e-05,CUUR0000SA0L2,Prices,rolling_stat
+PERMITMW__lag6,9.447278e-05,PERMITMW,Housing,lag
+IPNCONGD__base,9.445865e-05,IPNCONGD,Output and Income,base
+SRVPRD__mom12,9.436673e-05,SRVPRD,Labor Market,momentum
+CE16OV__lag9,9.4250325e-05,CE16OV,Labor Market,lag
+USTPU__mom12,9.3281196e-05,USTPU,Labor Market,momentum
+W875RX1__lag1,9.312601e-05,W875RX1,Output and Income,lag
+HOUST__mom12,9.306049e-05,HOUST,Housing,momentum
+PERMITNE__rollmean12,9.296371e-05,PERMITNE,Housing,rolling_stat
+HOUSTMW__mom12,9.291924e-05,HOUSTMW,Housing,momentum
+CPIULFSL__rollmean24,9.18896e-05,CPIULFSL,Prices,rolling_stat
+UEMP5TO14__lag3,9.1365546e-05,UEMP5TO14,Labor Market,lag
+UEMP27OV__rollstd6,9.085414e-05,UEMP27OV,Labor Market,rolling_stat
+BAA__mom6,9.0126996e-05,BAA,Interest and Exchange Rates,momentum
+IPNMAT__lag3,8.966575e-05,IPNMAT,Output and Income,lag
+CONSPI__base,8.9626075e-05,CONSPI,Money and Credit,base
+CLF16OV__mom6,8.952969e-05,CLF16OV,Labor Market,momentum
+IPCONGD__lag12,8.9407426e-05,IPCONGD,Output and Income,lag
+AWHMAN__lag12,8.936267e-05,AWHMAN,Labor Market,lag
+WPSID62__rollmean24,8.824281e-05,WPSID62,Prices,rolling_stat
+T1YFFM__rollz12,8.7780645e-05,T1YFFM,Interest and Exchange Rates,rolling_stat
+IPMAT__lag12,8.766108e-05,IPMAT,Output and Income,lag
+IPCONGD__rollstd6,8.752408e-05,IPCONGD,Output and Income,rolling_stat
+HOUSTMW__rollstd24,8.748002e-05,HOUSTMW,Housing,rolling_stat
+HOUSTS__mom6,8.7278626e-05,HOUSTS,Housing,momentum
+HOUSTS__rollz24,8.6774424e-05,HOUSTS,Housing,rolling_stat
+DPCERA3M086SBEA__rollstd6,8.633295e-05,DPCERA3M086SBEA,"Consumption, Orders and Inventories",rolling_stat
+CONSPI__rollstd24,8.619379e-05,CONSPI,Money and Credit,rolling_stat
+IPMANSICS__lag1,8.619051e-05,IPMANSICS,Output and Income,lag
+IPDCONGD__rollmean6,8.611834e-05,IPDCONGD,Output and Income,rolling_stat
+CES3000000008__lag6,8.600979e-05,CES3000000008,Prices,lag
+DDURRG3M086SBEA__rollmean24,8.586906e-05,DDURRG3M086SBEA,Prices,rolling_stat
+CES0600000007__lag12,8.583528e-05,CES0600000007,Labor Market,lag
+AWHMAN__rollz6,8.576206e-05,AWHMAN,Labor Market,rolling_stat
+INVEST__rollstd24,8.559004e-05,INVEST,Money and Credit,rolling_stat
+TB3MS__mom6,8.5588035e-05,TB3MS,Interest and Exchange Rates,momentum
+CPITRNSL__mom3,8.548921e-05,CPITRNSL,Prices,momentum
+USGOVT__lag6,8.5442945e-05,USGOVT,Labor Market,lag
+PPICMM__base,8.539969e-05,PPICMM,Prices,base
+CE16OV__mom12,8.4980566e-05,CE16OV,Labor Market,momentum
+SP500__base,8.473682e-05,SP500,Stock Market,base
+GS5__rollmean24,8.4708634e-05,GS5,Interest and Exchange Rates,rolling_stat
+UNRATE__rollmean6,8.4669875e-05,UNRATE,Labor Market,rolling_stat
+TOTRESNS__mom3,8.462769e-05,TOTRESNS,Money and Credit,momentum
+GS5__lag6,8.4339496e-05,GS5,Interest and Exchange Rates,lag
+TOTRESNS__rollmean12,8.433583e-05,TOTRESNS,Money and Credit,rolling_stat
+CUUR0000SA0L2__mom12,8.363341e-05,CUUR0000SA0L2,Prices,momentum
+UEMP5TO14__lag1,8.297024e-05,UEMP5TO14,Labor Market,lag
+PERMITS__rollz6,8.2854545e-05,PERMITS,Housing,rolling_stat
+DNDGRG3M086SBEA__mom3,8.270766e-05,DNDGRG3M086SBEA,Prices,momentum
+T10YFFM__lag3,8.263347e-05,T10YFFM,Interest and Exchange Rates,lag
+USGOOD__lag9,8.26249e-05,USGOOD,Labor Market,lag
+PAYEMS__lag12,8.2574436e-05,PAYEMS,Labor Market,lag
+CONSPI__lag9,8.2549835e-05,CONSPI,Money and Credit,lag
+DNDGRG3M086SBEA__mom6,8.239777e-05,DNDGRG3M086SBEA,Prices,momentum
+CUSR0000SAS__base,8.2317056e-05,CUSR0000SAS,Prices,base
+OILPRICEx__lag6,8.19031e-05,OILPRICEx,Prices,lag
+TERM_SPREAD_10Y3M,8.181218e-05,TERM_SPREAD_10Y3M,Interest and Exchange Rates,spread
+SP500__realizedvol6,8.1667495e-05,SP500__realizedvol6,Stock Market,volatility
+IPFINAL__rollz24,8.137868e-05,IPFINAL,Output and Income,rolling_stat
+PERMITS__rollmean24,8.137757e-05,PERMITS,Housing,rolling_stat
+CES0600000007__lag3,8.092735e-05,CES0600000007,Labor Market,lag
+IPNMAT__lag1,8.0531565e-05,IPNMAT,Output and Income,lag
+CES3000000008__lag9,8.045474e-05,CES3000000008,Prices,lag
+W875RX1__rollmean24,8.043915e-05,W875RX1,Output and Income,rolling_stat
+UEMP27OV__base,8.0321435e-05,UEMP27OV,Labor Market,base
+REALLN__base,7.9868565e-05,REALLN,Money and Credit,base
+IPMAT__rollmean6,7.949855e-05,IPMAT,Output and Income,rolling_stat
+IPCONGD__lag1,7.947285e-05,IPCONGD,Output and Income,lag
+TB3MS__base,7.944692e-05,TB3MS,Interest and Exchange Rates,base
+NONREVSL__lag6,7.923835e-05,NONREVSL,Money and Credit,lag
+IPB51222S__lag1,7.874624e-05,IPB51222S,Output and Income,lag
+CPIAPPSL__rollstd12,7.8419114e-05,CPIAPPSL,Prices,rolling_stat
+UNRATE__rollz24,7.814615e-05,UNRATE,Labor Market,rolling_stat
+USFIRE__rollstd6,7.808595e-05,USFIRE,Labor Market,rolling_stat
+WPSID61__lag6,7.7967066e-05,WPSID61,Prices,lag
+UEMPLT5__lag9,7.7445744e-05,UEMPLT5,Labor Market,lag
+HOUSTS__rollz6,7.727305e-05,HOUSTS,Housing,rolling_stat
+CPIAUCSL__base,7.7040895e-05,CPIAUCSL,Prices,base
+USGOVT__lag3,7.575861e-05,USGOVT,Labor Market,lag
+INDPRO__lag6,7.5753094e-05,INDPRO,Output and Income,lag
+USGOVT__lag9,7.5665805e-05,USGOVT,Labor Market,lag
+IPFUELS__rollmean6,7.560357e-05,IPFUELS,Output and Income,rolling_stat
+OILPRICEx__mom3,7.500167e-05,OILPRICEx,Prices,momentum
+USTPU__lag3,7.4755415e-05,USTPU,Labor Market,lag
+CUMFNS__lag6,7.4566364e-05,CUMFNS,Output and Income,lag
+BUSLOANS__rollstd12,7.4252566e-05,BUSLOANS,Money and Credit,rolling_stat
+UEMP15OV__rollmean24,7.404168e-05,UEMP15OV,Labor Market,rolling_stat
+CONSPI__lag3,7.39729e-05,CONSPI,Money and Credit,lag
+INVEST__rollmean24,7.386929e-05,INVEST,Money and Credit,rolling_stat
+IPB51222S__lag6,7.3697294e-05,IPB51222S,Output and Income,lag
+BAA__rollmean24,7.3363735e-05,BAA,Interest and Exchange Rates,rolling_stat
+PERMITW__rollz12,7.321054e-05,PERMITW,Housing,rolling_stat
+WPSFD49207__mom6,7.3182266e-05,WPSFD49207,Prices,momentum
+UNRATE__rollmean24,7.2573835e-05,UNRATE,Labor Market,rolling_stat
+W875RX1__rollz24,7.254613e-05,W875RX1,Output and Income,rolling_stat
+USFIRE__mom3,7.194917e-05,USFIRE,Labor Market,momentum
+IPNCONGD__lag1,7.1937706e-05,IPNCONGD,Output and Income,lag
+UEMPLT5__rollstd12,7.191785e-05,UEMPLT5,Labor Market,rolling_stat
+USFIRE__mom6,7.126947e-05,USFIRE,Labor Market,momentum
+PERMITS__lag6,7.1170994e-05,PERMITS,Housing,lag
+CES1021000001__lag6,7.113959e-05,CES1021000001,Labor Market,lag
+GS1__rollz12,7.103406e-05,GS1,Interest and Exchange Rates,rolling_stat
+CPIMEDSL__rollz24,7.067036e-05,CPIMEDSL,Prices,rolling_stat
+UEMP5TO14__rollmean24,7.050477e-05,UEMP5TO14,Labor Market,rolling_stat
+IPFUELS__lag3,7.0271635e-05,IPFUELS,Output and Income,lag
+AAAFFM__rollmean6,7.020394e-05,AAAFFM,Interest and Exchange Rates,rolling_stat
+WPSFD49502__base,6.985074e-05,WPSFD49502,Prices,base
+UEMPLT5__rollstd24,6.9750735e-05,UEMPLT5,Labor Market,rolling_stat
+CLF16OV__base,6.972076e-05,CLF16OV,Labor Market,base
+PERMIT__rollstd6,6.948383e-05,PERMIT,Housing,rolling_stat
+CPIULFSL__mom3,6.928059e-05,CPIULFSL,Prices,momentum
+UEMPMEAN__rollstd6,6.872763e-05,UEMPMEAN,Labor Market,rolling_stat
+BAA__rollstd12,6.851082e-05,BAA,Interest and Exchange Rates,rolling_stat
+USTRADE__mom6,6.815797e-05,USTRADE,Labor Market,momentum
+CUSR0000SA0L5__rollstd6,6.8071684e-05,CUSR0000SA0L5,Prices,rolling_stat
+FEDFUNDS__lag1,6.7853514e-05,FEDFUNDS,Interest and Exchange Rates,lag
+UEMP27OV__lag9,6.775942e-05,UEMP27OV,Labor Market,lag
+CUMFNS__rollz12,6.773994e-05,CUMFNS,Output and Income,rolling_stat
+T10YFFM__rollz24,6.7339046e-05,T10YFFM,Interest and Exchange Rates,rolling_stat
+INVEST__rollmean6,6.73201e-05,INVEST,Money and Credit,rolling_stat
+HOUSTMW__rollz24,6.6440654e-05,HOUSTMW,Housing,rolling_stat
+PERMITMW__mom3,6.615243e-05,PERMITMW,Housing,momentum
+TB3MS__rollz12,6.615079e-05,TB3MS,Interest and Exchange Rates,rolling_stat
+CUMFNS__lag3,6.5903165e-05,CUMFNS,Output and Income,lag
+UEMP5TO14__rollstd12,6.5577886e-05,UEMP5TO14,Labor Market,rolling_stat
+UEMPLT5__rollz12,6.556018e-05,UEMPLT5,Labor Market,rolling_stat
+NONREVSL__lag1,6.5278946e-05,NONREVSL,Money and Credit,lag
+USWTRADE__rollstd6,6.5164495e-05,USWTRADE,Labor Market,rolling_stat
+PPICMM__lag6,6.49263e-05,PPICMM,Prices,lag
+INVEST__rollmean12,6.482844e-05,INVEST,Money and Credit,rolling_stat
+CONSPI__rollmean12,6.4675376e-05,CONSPI,Money and Credit,rolling_stat
+USTPU__lag9,6.460578e-05,USTPU,Labor Market,lag
+CPIULFSL__base,6.414883e-05,CPIULFSL,Prices,base
+PAYEMS__lag9,6.411311e-05,PAYEMS,Labor Market,lag
+IPFINAL__lag3,6.393657e-05,IPFINAL,Output and Income,lag
+M2REAL__rollstd24,6.387674e-05,M2REAL,Money and Credit,rolling_stat
+UEMP5TO14__rollz12,6.384909e-05,UEMP5TO14,Labor Market,rolling_stat
+PPICMM__lag9,6.383232e-05,PPICMM,Prices,lag
+HOUSTNE__mom6,6.3619365e-05,HOUSTNE,Housing,momentum
+IPDMAT__lag3,6.309645e-05,IPDMAT,Output and Income,lag
+UEMP15OV__lag6,6.272498e-05,UEMP15OV,Labor Market,lag
+CONSPI__lag1,6.230948e-05,CONSPI,Money and Credit,lag
+IPNCONGD__rollmean24,6.2143634e-05,IPNCONGD,Output and Income,rolling_stat
+IPB51222S__rollmean12,6.212401e-05,IPB51222S,Output and Income,rolling_stat
+IPCONGD__lag6,6.21041e-05,IPCONGD,Output and Income,lag
+CES2000000008__mom6,6.197462e-05,CES2000000008,Prices,momentum
+RPI__lag12,6.15082e-05,RPI,Output and Income,lag
+HOUSTMW__rollmean12,6.147096e-05,HOUSTMW,Housing,rolling_stat
+CPIMEDSL__rollz6,6.13653e-05,CPIMEDSL,Prices,rolling_stat
+USGOOD__mom6,6.1309125e-05,USGOOD,Labor Market,momentum
+USFIRE__lag9,6.0995044e-05,USFIRE,Labor Market,lag
+CES2000000008__rollstd12,6.053466e-05,CES2000000008,Prices,rolling_stat
+PERMITMW__rollmean24,6.036467e-05,PERMITMW,Housing,rolling_stat
+FEDFUNDS__lag9,6.0148806e-05,FEDFUNDS,Interest and Exchange Rates,lag
+M1SL__mom3,5.9840273e-05,M1SL,Money and Credit,momentum
+IPMAT__lag6,5.9634374e-05,IPMAT,Output and Income,lag
+CES1021000001__lag3,5.9126192e-05,CES1021000001,Labor Market,lag
+NONBORRES__rollstd12,5.9062077e-05,NONBORRES,Money and Credit,rolling_stat
+HOUSTMW__rollz12,5.9006958e-05,HOUSTMW,Housing,rolling_stat
+IPMAT__lag9,5.9004928e-05,IPMAT,Output and Income,lag
+USFIRE__mom12,5.8994574e-05,USFIRE,Labor Market,momentum
+DDURRG3M086SBEA__rollmean12,5.889877e-05,DDURRG3M086SBEA,Prices,rolling_stat
+IPDCONGD__rollstd6,5.888384e-05,IPDCONGD,Output and Income,rolling_stat
+CUMFNS__lag12,5.8543188e-05,CUMFNS,Output and Income,lag
+CES0600000007__mom12,5.839377e-05,CES0600000007,Labor Market,momentum
+UEMP15T26__rollstd6,5.81521e-05,UEMP15T26,Labor Market,rolling_stat
+UEMP27OV__lag1,5.808709e-05,UEMP27OV,Labor Market,lag
+USGOVT__rollstd6,5.790162e-05,USGOVT,Labor Market,rolling_stat
+USTPU__rollmean24,5.7417627e-05,USTPU,Labor Market,rolling_stat
+GS1__mom6,5.7299912e-05,GS1,Interest and Exchange Rates,momentum
+CPIAPPSL__mom3,5.7017278e-05,CPIAPPSL,Prices,momentum
+DDURRG3M086SBEA__lag1,5.696417e-05,DDURRG3M086SBEA,Prices,lag
+USTRADE__lag9,5.677291e-05,USTRADE,Labor Market,lag
+WPSID62__lag6,5.6119643e-05,WPSID62,Prices,lag
+UEMP15T26__rollmean24,5.574543e-05,UEMP15T26,Labor Market,rolling_stat
+HOUSTW__mom3,5.541357e-05,HOUSTW,Housing,momentum
+IPDCONGD__lag9,5.5245036e-05,IPDCONGD,Output and Income,lag
+RPI__mom6,5.5105127e-05,RPI,Output and Income,momentum
+HOUSTMW__rollmean6,5.5018496e-05,HOUSTMW,Housing,rolling_stat
+NONREVSL__rollmean12,5.4954933e-05,NONREVSL,Money and Credit,rolling_stat
+CE16OV__lag6,5.491405e-05,CE16OV,Labor Market,lag
+CES3000000008__base,5.477416e-05,CES3000000008,Prices,base
+TOTRESNS__rollstd24,5.4673226e-05,TOTRESNS,Money and Credit,rolling_stat
+PAYEMS__rollz6,5.457424e-05,PAYEMS,Labor Market,rolling_stat
+WPSID61__mom6,5.453885e-05,WPSID61,Prices,momentum
+HOUSTNE__lag12,5.443833e-05,HOUSTNE,Housing,lag
+UEMP5TO14__lag6,5.4134154e-05,UEMP5TO14,Labor Market,lag
+TOTRESNS__lag9,5.4052703e-05,TOTRESNS,Money and Credit,lag
+TB3MS__rollstd24,5.4031723e-05,TB3MS,Interest and Exchange Rates,rolling_stat
+DSERRG3M086SBEA__rollstd6,5.402096e-05,DSERRG3M086SBEA,Prices,rolling_stat
+CE16OV__rollz24,5.39981e-05,CE16OV,Labor Market,rolling_stat
+IPNCONGD__lag12,5.38832e-05,IPNCONGD,Output and Income,lag
+HOUST__lag3,5.3823613e-05,HOUST,Housing,lag
+W875RX1__lag12,5.377901e-05,W875RX1,Output and Income,lag
+IPMAT__rollmean24,5.3626067e-05,IPMAT,Output and Income,rolling_stat
+IPBUSEQ__rollstd12,5.3563104e-05,IPBUSEQ,Output and Income,rolling_stat
+TB3SMFFM__mom6,5.354511e-05,TB3SMFFM,Interest and Exchange Rates,momentum
+DTCOLNVHFNM__mom3,5.3248412e-05,DTCOLNVHFNM,Money and Credit,momentum
+WPSID61__rollmean12,5.2998083e-05,WPSID61,Prices,rolling_stat
+CLF16OV__lag3,5.2920706e-05,CLF16OV,Labor Market,lag
+CES2000000008__mom3,5.2643634e-05,CES2000000008,Prices,momentum
+USGOOD__lag1,5.222164e-05,USGOOD,Labor Market,lag
+PERMITW__lag3,5.2131265e-05,PERMITW,Housing,lag
+INDPRO__lag9,5.206746e-05,INDPRO,Output and Income,lag
+GS10__base,5.173539e-05,GS10,Interest and Exchange Rates,base
+CUUR0000SA0L2__lag6,5.1714636e-05,CUUR0000SA0L2,Prices,lag
+IPFPNSS__lag3,5.1689913e-05,IPFPNSS,Output and Income,lag
+W875RX1__lag3,5.1558607e-05,W875RX1,Output and Income,lag
+PPICMM__rollstd6,5.1414383e-05,PPICMM,Prices,rolling_stat
+PERMITS__lag9,5.11782e-05,PERMITS,Housing,lag
+CES0600000007__rollz24,5.115702e-05,CES0600000007,Labor Market,rolling_stat
+IPNCONGD__lag9,5.054796e-05,IPNCONGD,Output and Income,lag
+MANEMP__lag3,5.016055e-05,MANEMP,Labor Market,lag
+CE16OV__lag3,4.9821298e-05,CE16OV,Labor Market,lag
+TB6SMFFM__mom3,4.9605824e-05,TB6SMFFM,Interest and Exchange Rates,momentum
+IPCONGD__mom3,4.93227e-05,IPCONGD,Output and Income,momentum
+T10YFFM__rollstd24,4.931491e-05,T10YFFM,Interest and Exchange Rates,rolling_stat
+NONREVSL__rollz12,4.9293973e-05,NONREVSL,Money and Credit,rolling_stat
+DSERRG3M086SBEA__lag1,4.9188933e-05,DSERRG3M086SBEA,Prices,lag
+PERMIT__lag6,4.9122955e-05,PERMIT,Housing,lag
+USGOVT__mom6,4.91139e-05,USGOVT,Labor Market,momentum
+PCEPI__rollstd12,4.9110182e-05,PCEPI,Prices,rolling_stat
+TB6MS__rollz12,4.892875e-05,TB6MS,Interest and Exchange Rates,rolling_stat
+BUSLOANS__lag3,4.875515e-05,BUSLOANS,Money and Credit,lag
+CPIAPPSL__lag6,4.8490183e-05,CPIAPPSL,Prices,lag
+USFIRE__lag12,4.8440386e-05,USFIRE,Labor Market,lag
+CES1021000001__lag1,4.8347007e-05,CES1021000001,Labor Market,lag
+PCEPI__rollstd6,4.8324633e-05,PCEPI,Prices,rolling_stat
+FEDFUNDS__mom3,4.817013e-05,FEDFUNDS,Interest and Exchange Rates,momentum
+PERMITNE__lag6,4.8132697e-05,PERMITNE,Housing,lag
+NONBORRES__mom6,4.7875285e-05,NONBORRES,Money and Credit,momentum
+DNDGRG3M086SBEA__rollmean24,4.7690617e-05,DNDGRG3M086SBEA,Prices,rolling_stat
+USCONS__lag12,4.7553414e-05,USCONS,Labor Market,lag
+TOTRESNS__lag12,4.677368e-05,TOTRESNS,Money and Credit,lag
+CE16OV__rollstd24,4.662016e-05,CE16OV,Labor Market,rolling_stat
+INDPRO__drawdown12,4.6145262e-05,INDPRO,Output and Income,drawdown
+USWTRADE__lag9,4.5848905e-05,USWTRADE,Labor Market,lag
+IPBUSEQ__rollz24,4.578669e-05,IPBUSEQ,Output and Income,rolling_stat
+CONSPI__lag12,4.567396e-05,CONSPI,Money and Credit,lag
+DMANEMP__rollz6,4.5597048e-05,DMANEMP,Labor Market,rolling_stat
+CPIULFSL__rollstd6,4.553362e-05,CPIULFSL,Prices,rolling_stat
+IPFINAL__lag9,4.5342575e-05,IPFINAL,Output and Income,lag
+CPIMEDSL__rollz12,4.526886e-05,CPIMEDSL,Prices,rolling_stat
+IPNCONGD__rollstd12,4.515378e-05,IPNCONGD,Output and Income,rolling_stat
+PCEPI__rollmean6,4.4974513e-05,PCEPI,Prices,rolling_stat
+USCONS__rollstd12,4.474523e-05,USCONS,Labor Market,rolling_stat
+IPMANSICS__lag3,4.4432167e-05,IPMANSICS,Output and Income,lag
+USTPU__lag6,4.438071e-05,USTPU,Labor Market,lag
+AWOTMAN__rollmean12,4.4363624e-05,AWOTMAN,Labor Market,rolling_stat
+IPCONGD__rollstd24,4.4324886e-05,IPCONGD,Output and Income,rolling_stat
+SRVPRD__lag1,4.359783e-05,SRVPRD,Labor Market,lag
+UEMP15OV__rollstd12,4.350757e-05,UEMP15OV,Labor Market,rolling_stat
+DPCERA3M086SBEA__rollstd24,4.3222706e-05,DPCERA3M086SBEA,"Consumption, Orders and Inventories",rolling_stat
+BAAFFM__rollz6,4.3210523e-05,BAAFFM,Interest and Exchange Rates,rolling_stat
+IPB51222S__mom6,4.3195985e-05,IPB51222S,Output and Income,momentum
+USTRADE__mom12,4.3152646e-05,USTRADE,Labor Market,momentum
+HOUSTNE__lag3,4.3037864e-05,HOUSTNE,Housing,lag
+CONSPI__mom3,4.2964966e-05,CONSPI,Money and Credit,momentum
+NONREVSL__mom3,4.2813153e-05,NONREVSL,Money and Credit,momentum
+HOUST__lag12,4.2478958e-05,HOUST,Housing,lag
+M1SL__rollstd24,4.2466327e-05,M1SL,Money and Credit,rolling_stat
+M2REAL__lag1,4.2405467e-05,M2REAL,Money and Credit,lag
+M2SL__lag9,4.240234e-05,M2SL,Money and Credit,lag
+CUUR0000SA0L2__mom6,4.2392883e-05,CUUR0000SA0L2,Prices,momentum
+CPITRNSL__lag12,4.23421e-05,CPITRNSL,Prices,lag
+CES0600000007__rollstd12,4.2224474e-05,CES0600000007,Labor Market,rolling_stat
+IPMANSICS__rollz12,4.221717e-05,IPMANSICS,Output and Income,rolling_stat
+CLF16OV__lag6,4.219802e-05,CLF16OV,Labor Market,lag
+TB3SMFFM__rollz12,4.2153177e-05,TB3SMFFM,Interest and Exchange Rates,rolling_stat
+HOUSTMW__lag6,4.1594387e-05,HOUSTMW,Housing,lag
+CPIAUCSL__lag3,4.1563777e-05,CPIAUCSL,Prices,lag
+W875RX1__rollz12,4.154034e-05,W875RX1,Output and Income,rolling_stat
+M1SL__mom12,4.139666e-05,M1SL,Money and Credit,momentum
+HOUST__lag6,4.1260235e-05,HOUST,Housing,lag
+SRVPRD__lag3,4.1132982e-05,SRVPRD,Labor Market,lag
+M1SL__lag9,4.109199e-05,M1SL,Money and Credit,lag
+GS1__rollz24,4.093096e-05,GS1,Interest and Exchange Rates,rolling_stat
+FEDFUNDS__rollz6,4.070362e-05,FEDFUNDS,Interest and Exchange Rates,rolling_stat
+PERMITW__rollmean6,4.0562358e-05,PERMITW,Housing,rolling_stat
+CPIAUCSL__lag6,4.011043e-05,CPIAUCSL,Prices,lag
+CES2000000008__base,3.9873692e-05,CES2000000008,Prices,base
+IPNCONGD__rollmean12,3.975153e-05,IPNCONGD,Output and Income,rolling_stat
+USTRADE__rollz24,3.9531344e-05,USTRADE,Labor Market,rolling_stat
+HOUST__rollz24,3.9482216e-05,HOUST,Housing,rolling_stat
+OILPRICEx__base,3.941828e-05,OILPRICEx,Prices,base
+IPMAT__rollz24,3.9227893e-05,IPMAT,Output and Income,rolling_stat
+W875RX1__lag6,3.8948132e-05,W875RX1,Output and Income,lag
+CES1021000001__rollstd24,3.8896902e-05,CES1021000001,Labor Market,rolling_stat
+TB3SMFFM__rollz24,3.8786362e-05,TB3SMFFM,Interest and Exchange Rates,rolling_stat
+USGOVT__rollmean12,3.873159e-05,USGOVT,Labor Market,rolling_stat
+HOUSTS__rollmean6,3.8584916e-05,HOUSTS,Housing,rolling_stat
+IPFPNSS__rollmean6,3.8493232e-05,IPFPNSS,Output and Income,rolling_stat
+IPDMAT__lag1,3.844919e-05,IPDMAT,Output and Income,lag
+TB6MS__lag3,3.8340964e-05,TB6MS,Interest and Exchange Rates,lag
+USTPU__rollstd24,3.8279508e-05,USTPU,Labor Market,rolling_stat
+CPIMEDSL__rollmean12,3.816567e-05,CPIMEDSL,Prices,rolling_stat
+UNRATE__lag3,3.8063736e-05,UNRATE,Labor Market,lag
+BAA__rollmean6,3.7994883e-05,BAA,Interest and Exchange Rates,rolling_stat
+T5YFFM__mom12,3.784242e-05,T5YFFM,Interest and Exchange Rates,momentum
+TB3SMFFM__rollstd24,3.7810063e-05,TB3SMFFM,Interest and Exchange Rates,rolling_stat
+IPB51222S__lag3,3.777028e-05,IPB51222S,Output and Income,lag
+WPSFD49502__lag9,3.7571983e-05,WPSFD49502,Prices,lag
+IPFPNSS__rollstd6,3.7516904e-05,IPFPNSS,Output and Income,rolling_stat
+SRVPRD__rollstd12,3.7201655e-05,SRVPRD,Labor Market,rolling_stat
+CE16OV__lag12,3.6822945e-05,CE16OV,Labor Market,lag
+CES3000000008__mom6,3.681667e-05,CES3000000008,Prices,momentum
+IPB51222S__lag9,3.6635323e-05,IPB51222S,Output and Income,lag
+CE16OV__lag1,3.6435966e-05,CE16OV,Labor Market,lag
+PERMITS__rollz12,3.6373243e-05,PERMITS,Housing,rolling_stat
+CUSR0000SAC__base,3.627644e-05,CUSR0000SAC,Prices,base
+CUSR0000SAC__mom12,3.6263253e-05,CUSR0000SAC,Prices,momentum
+RPI__rollz12,3.6044654e-05,RPI,Output and Income,rolling_stat
+PERMITW__lag6,3.6030433e-05,PERMITW,Housing,lag
+REALLN__rollstd6,3.5995377e-05,REALLN,Money and Credit,rolling_stat
+CES3000000008__rollstd6,3.588418e-05,CES3000000008,Prices,rolling_stat
+IPFINAL__rollz6,3.5786794e-05,IPFINAL,Output and Income,rolling_stat
+GS10__lag3,3.55735e-05,GS10,Interest and Exchange Rates,lag
+NONREVSL__rollstd24,3.5382556e-05,NONREVSL,Money and Credit,rolling_stat
+T5YFFM__rollstd6,3.5342968e-05,T5YFFM,Interest and Exchange Rates,rolling_stat
+CONSPI__rollmean6,3.5273173e-05,CONSPI,Money and Credit,rolling_stat
+M1SL__lag3,3.5158675e-05,M1SL,Money and Credit,lag
+T5YFFM__rollstd12,3.5151123e-05,T5YFFM,Interest and Exchange Rates,rolling_stat
+INVEST__rollz12,3.5129062e-05,INVEST,Money and Credit,rolling_stat
+CONSPI__mom12,3.5025914e-05,CONSPI,Money and Credit,momentum
+CUSR0000SAS__rollmean24,3.49835e-05,CUSR0000SAS,Prices,rolling_stat
+IPNMAT__lag9,3.494112e-05,IPNMAT,Output and Income,lag
+DPCERA3M086SBEA__lag12,3.4759716e-05,DPCERA3M086SBEA,"Consumption, Orders and Inventories",lag
+CES0600000008__lag12,3.4691402e-05,CES0600000008,Prices,lag
+MANEMP__lag1,3.4591412e-05,MANEMP,Labor Market,lag
+IPB51222S__lag12,3.4523797e-05,IPB51222S,Output and Income,lag
+HOUSTS__lag12,3.4490753e-05,HOUSTS,Housing,lag
+DSERRG3M086SBEA__mom6,3.44533e-05,DSERRG3M086SBEA,Prices,momentum
+CUSR0000SAC__mom3,3.4365275e-05,CUSR0000SAC,Prices,momentum
+UEMPMEAN__lag9,3.433752e-05,UEMPMEAN,Labor Market,lag
+REALLN__lag12,3.427238e-05,REALLN,Money and Credit,lag
+CES0600000007__rollstd24,3.423177e-05,CES0600000007,Labor Market,rolling_stat
+AAA__lag12,3.3973763e-05,AAA,Interest and Exchange Rates,lag
+AAA__mom6,3.3966182e-05,AAA,Interest and Exchange Rates,momentum
+CPITRNSL__lag9,3.386307e-05,CPITRNSL,Prices,lag
+INVEST__rollstd6,3.3756034e-05,INVEST,Money and Credit,rolling_stat
+USCONS__lag6,3.3591234e-05,USCONS,Labor Market,lag
+DTCTHFNM__base,3.3514058e-05,DTCTHFNM,Money and Credit,base
+HOUSTMW__lag12,3.3419485e-05,HOUSTMW,Housing,lag
+CUSR0000SAC__rollstd6,3.3309156e-05,CUSR0000SAC,Prices,rolling_stat
+BAA__mom3,3.3225988e-05,BAA,Interest and Exchange Rates,momentum
+M1SL__rollstd6,3.313971e-05,M1SL,Money and Credit,rolling_stat
+T5YFFM__rollz12,3.301957e-05,T5YFFM,Interest and Exchange Rates,rolling_stat
+WPSFD49207__rollstd6,3.2722095e-05,WPSFD49207,Prices,rolling_stat
+HOUSTS__lag6,3.2715463e-05,HOUSTS,Housing,lag
+IPDMAT__lag9,3.2540094e-05,IPDMAT,Output and Income,lag
+UEMPMEAN__mom3,3.244678e-05,UEMPMEAN,Labor Market,momentum
+WPSID62__lag9,3.225855e-05,WPSID62,Prices,lag
+MANEMP__rollz6,3.2086806e-05,MANEMP,Labor Market,rolling_stat
+UNRATE__lag6,3.2048632e-05,UNRATE,Labor Market,lag
+AWOTMAN__rollstd24,3.195067e-05,AWOTMAN,Labor Market,rolling_stat
+CREDIT_SPREAD_BAA_10Y,3.1517186e-05,CREDIT_SPREAD_BAA_10Y,Interest and Exchange Rates,spread
+NONBORRES__mom12,3.149185e-05,NONBORRES,Money and Credit,momentum
+AAA__lag6,3.147267e-05,AAA,Interest and Exchange Rates,lag
+RPI__lag6,3.140964e-05,RPI,Output and Income,lag
+USWTRADE__rollz24,3.13843e-05,USWTRADE,Labor Market,rolling_stat
+DMANEMP__rollstd24,3.1377665e-05,DMANEMP,Labor Market,rolling_stat
+SRVPRD__lag6,3.13476e-05,SRVPRD,Labor Market,lag
+UEMP27OV__rollmean12,3.1347554e-05,UEMP27OV,Labor Market,rolling_stat
+NDMANEMP__mom6,3.132668e-05,NDMANEMP,Labor Market,momentum
+CUUR0000SA0L2__lag1,3.128681e-05,CUUR0000SA0L2,Prices,lag
+DSERRG3M086SBEA__base,3.1221007e-05,DSERRG3M086SBEA,Prices,base
+CES1021000001__rollz6,3.1208143e-05,CES1021000001,Labor Market,rolling_stat
+IPMANSICS__rollz6,3.1185038e-05,IPMANSICS,Output and Income,rolling_stat
+HOUSTS__rollstd6,3.1150623e-05,HOUSTS,Housing,rolling_stat
+IPBUSEQ__rollmean24,3.112613e-05,IPBUSEQ,Output and Income,rolling_stat
+TB6MS__mom3,3.112223e-05,TB6MS,Interest and Exchange Rates,momentum
+T10YFFM__rollz12,3.111687e-05,T10YFFM,Interest and Exchange Rates,rolling_stat
+AWOTMAN__rollz24,3.1048123e-05,AWOTMAN,Labor Market,rolling_stat
+HOUSTS__rollstd24,3.055667e-05,HOUSTS,Housing,rolling_stat
+CPIAUCSL__lag9,3.053627e-05,CPIAUCSL,Prices,lag
+WPSFD49207__mom3,3.0417075e-05,WPSFD49207,Prices,momentum
+CUSR0000SA0L5__mom6,3.0320567e-05,CUSR0000SA0L5,Prices,momentum
+INDPRO__rollmean24,3.0319863e-05,INDPRO,Output and Income,rolling_stat
+PERMIT__rollmean6,2.998776e-05,PERMIT,Housing,rolling_stat
+DMANEMP__lag9,2.997588e-05,DMANEMP,Labor Market,lag
+CES0600000007__rollz12,2.9945806e-05,CES0600000007,Labor Market,rolling_stat
+CPIULFSL__lag6,2.9823828e-05,CPIULFSL,Prices,lag
+NONBORRES__lag12,2.98033e-05,NONBORRES,Money and Credit,lag
+CUSR0000SA0L5__base,2.97875e-05,CUSR0000SA0L5,Prices,base
+IPFPNSS__rollstd24,2.965394e-05,IPFPNSS,Output and Income,rolling_stat
+HOUST__rollstd6,2.956113e-05,HOUST,Housing,rolling_stat
+PCEPI__rollmean24,2.9542663e-05,PCEPI,Prices,rolling_stat
+IPFPNSS__lag9,2.9529854e-05,IPFPNSS,Output and Income,lag
+PCEPI__base,2.9374354e-05,PCEPI,Prices,base
+IPCONGD__rollz6,2.9228979e-05,IPCONGD,Output and Income,rolling_stat
+CES2000000008__lag1,2.922386e-05,CES2000000008,Prices,lag
+OILPRICEx__lag3,2.9172492e-05,OILPRICEx,Prices,lag
+IPFPNSS__mom12,2.9083252e-05,IPFPNSS,Output and Income,momentum
+CUSR0000SAS__rollstd6,2.900672e-05,CUSR0000SAS,Prices,rolling_stat
+FEDFUNDS__rollmean24,2.8962895e-05,FEDFUNDS,Interest and Exchange Rates,rolling_stat
+WPSFD49502__lag12,2.8863054e-05,WPSFD49502,Prices,lag
+INVEST__lag12,2.8762212e-05,INVEST,Money and Credit,lag
+DPCERA3M086SBEA__lag3,2.8716093e-05,DPCERA3M086SBEA,"Consumption, Orders and Inventories",lag
+INDPRO__lag1,2.8350672e-05,INDPRO,Output and Income,lag
+PPICMM__rollmean6,2.8348804e-05,PPICMM,Prices,rolling_stat
+DDURRG3M086SBEA__lag12,2.831061e-05,DDURRG3M086SBEA,Prices,lag
+GS1__lag9,2.8292123e-05,GS1,Interest and Exchange Rates,lag
+T1YFFM__mom6,2.8048515e-05,T1YFFM,Interest and Exchange Rates,momentum
+NONBORRES__lag6,2.8047076e-05,NONBORRES,Money and Credit,lag
+CPIMEDSL__lag9,2.7990991e-05,CPIMEDSL,Prices,lag
+M1SL__lag6,2.7982831e-05,M1SL,Money and Credit,lag
+NONBORRES__rollstd6,2.7948015e-05,NONBORRES,Money and Credit,rolling_stat
+IPNMAT__lag12,2.7857792e-05,IPNMAT,Output and Income,lag
+CPIAPPSL__rollstd24,2.7757937e-05,CPIAPPSL,Prices,rolling_stat
+AWOTMAN__rollmean6,2.7723247e-05,AWOTMAN,Labor Market,rolling_stat
+WPSFD49207__lag1,2.7695167e-05,WPSFD49207,Prices,lag
+NDMANEMP__mom12,2.7640954e-05,NDMANEMP,Labor Market,momentum
+INVEST__lag9,2.7550948e-05,INVEST,Money and Credit,lag
+CUSR0000SA0L5__lag9,2.7480924e-05,CUSR0000SA0L5,Prices,lag
+M1SL__lag12,2.7437683e-05,M1SL,Money and Credit,lag
+CONSPI__rollstd12,2.7383334e-05,CONSPI,Money and Credit,rolling_stat
+REALLN__mom6,2.7212614e-05,REALLN,Money and Credit,momentum
+HOUSTNE__mom12,2.7170558e-05,HOUSTNE,Housing,momentum
+MANEMP__mom12,2.7168113e-05,MANEMP,Labor Market,momentum
+TOTRESNS__lag3,2.7094835e-05,TOTRESNS,Money and Credit,lag
+IPCONGD__rollstd12,2.706325e-05,IPCONGD,Output and Income,rolling_stat
+W875RX1__rollstd24,2.704165e-05,W875RX1,Output and Income,rolling_stat
+T5YFFM__rollmean6,2.7038952e-05,T5YFFM,Interest and Exchange Rates,rolling_stat
+CUSR0000SAC__mom6,2.698599e-05,CUSR0000SAC,Prices,momentum
+HOUST__rollz12,2.6845708e-05,HOUST,Housing,rolling_stat
+CUSR0000SAS__rollz6,2.6803058e-05,CUSR0000SAS,Prices,rolling_stat
+CPITRNSL__rollmean24,2.6777336e-05,CPITRNSL,Prices,rolling_stat
+M2REAL__lag6,2.6754513e-05,M2REAL,Money and Credit,lag
+HOUST__rollmean12,2.6752023e-05,HOUST,Housing,rolling_stat
+HOUSTS__lag3,2.6559854e-05,HOUSTS,Housing,lag
+GS10__mom6,2.6432475e-05,GS10,Interest and Exchange Rates,momentum
+IPFUELS__lag1,2.6426686e-05,IPFUELS,Output and Income,lag
+PCEPI__lag12,2.6244861e-05,PCEPI,Prices,lag
+M2REAL__rollz24,2.6225709e-05,M2REAL,Money and Credit,rolling_stat
+UEMPMEAN__rollmean6,2.6217163e-05,UEMPMEAN,Labor Market,rolling_stat
+CPIAUCSL__rollstd24,2.618416e-05,CPIAUCSL,Prices,rolling_stat
+CLF16OV__rollstd12,2.616472e-05,CLF16OV,Labor Market,rolling_stat
+IPBUSEQ__lag6,2.6141846e-05,IPBUSEQ,Output and Income,lag
+PERMITW__rollstd24,2.6137817e-05,PERMITW,Housing,rolling_stat
+GS1__mom12,2.6132113e-05,GS1,Interest and Exchange Rates,momentum
+T5YFFM__lag3,2.6039523e-05,T5YFFM,Interest and Exchange Rates,lag
+TB6SMFFM__rollstd6,2.5965792e-05,TB6SMFFM,Interest and Exchange Rates,rolling_stat
+REALLN__rollmean12,2.593618e-05,REALLN,Money and Credit,rolling_stat
+CPIAPPSL__lag9,2.585969e-05,CPIAPPSL,Prices,lag
+CES1021000001__rollstd6,2.5825551e-05,CES1021000001,Labor Market,rolling_stat
+NONBORRES__lag3,2.5770129e-05,NONBORRES,Money and Credit,lag
+BAAFFM__rollmean6,2.5665498e-05,BAAFFM,Interest and Exchange Rates,rolling_stat
+SP500__rollstd12,2.5597426e-05,SP500,Stock Market,rolling_stat
+PAYEMS__lag1,2.5568717e-05,PAYEMS,Labor Market,lag
+T1YFFM__rollstd12,2.5481504e-05,T1YFFM,Interest and Exchange Rates,rolling_stat
+CES0600000008__rollstd24,2.5480724e-05,CES0600000008,Prices,rolling_stat
+IPDMAT__rollstd24,2.524755e-05,IPDMAT,Output and Income,rolling_stat
+BUSLOANS__lag9,2.524173e-05,BUSLOANS,Money and Credit,lag
+GS10__lag12,2.5001651e-05,GS10,Interest and Exchange Rates,lag
+CUUR0000SA0L2__base,2.4987374e-05,CUUR0000SA0L2,Prices,base
+REALLN__rollstd24,2.4924679e-05,REALLN,Money and Credit,rolling_stat
+USTRADE__lag6,2.4906838e-05,USTRADE,Labor Market,lag
+PPICMM__rollmean12,2.4886205e-05,PPICMM,Prices,rolling_stat
+HOUSTMW__rollstd6,2.4771809e-05,HOUSTMW,Housing,rolling_stat
+CES3000000008__rollz6,2.4653855e-05,CES3000000008,Prices,rolling_stat
+MANEMP__rollmean6,2.4652914e-05,MANEMP,Labor Market,rolling_stat
+DNDGRG3M086SBEA__rollmean6,2.4644758e-05,DNDGRG3M086SBEA,Prices,rolling_stat
+USGOVT__rollz12,2.4526022e-05,USGOVT,Labor Market,rolling_stat
+DTCOLNVHFNM__base,2.437532e-05,DTCOLNVHFNM,Money and Credit,base
+CUSR0000SAC__lag6,2.4342246e-05,CUSR0000SAC,Prices,lag
+OILPRICEx__rollstd24,2.4336881e-05,OILPRICEx,Prices,rolling_stat
+CPITRNSL__rollstd6,2.4153838e-05,CPITRNSL,Prices,rolling_stat
+RPI__rollz6,2.410921e-05,RPI,Output and Income,rolling_stat
+CES0600000008__mom6,2.4103563e-05,CES0600000008,Prices,momentum
+CES3000000008__lag12,2.4102837e-05,CES3000000008,Prices,lag
+UEMP15T26__lag12,2.4025745e-05,UEMP15T26,Labor Market,lag
+CREDIT_SPREAD_BAA_AAA,2.3979828e-05,CREDIT_SPREAD_BAA_AAA,Interest and Exchange Rates,spread
+PERMITS__rollstd6,2.3855571e-05,PERMITS,Housing,rolling_stat
+WPSFD49207__rollmean24,2.3744617e-05,WPSFD49207,Prices,rolling_stat
+CES0600000008__rollz6,2.3667148e-05,CES0600000008,Prices,rolling_stat
+IPNCONGD__rollz6,2.3615976e-05,IPNCONGD,Output and Income,rolling_stat
+CES3000000008__mom3,2.3538456e-05,CES3000000008,Prices,momentum
+IPB51222S__rollmean24,2.3535978e-05,IPB51222S,Output and Income,rolling_stat
+HOUSTS__rollmean12,2.340898e-05,HOUSTS,Housing,rolling_stat
+IPFUELS__lag9,2.334586e-05,IPFUELS,Output and Income,lag
+DDURRG3M086SBEA__lag6,2.3306113e-05,DDURRG3M086SBEA,Prices,lag
+CES0600000007__rollmean24,2.3243681e-05,CES0600000007,Labor Market,rolling_stat
+SRVPRD__lag12,2.3221035e-05,SRVPRD,Labor Market,lag
+TB3MS__mom3,2.3165763e-05,TB3MS,Interest and Exchange Rates,momentum
+HOUSTW__rollz6,2.3064691e-05,HOUSTW,Housing,rolling_stat
+USTRADE__lag3,2.2802438e-05,USTRADE,Labor Market,lag
+OILPRICEx__mom12,2.278017e-05,OILPRICEx,Prices,momentum
+CPITRNSL__lag1,2.277165e-05,CPITRNSL,Prices,lag
+CUUR0000SA0L2__rollz24,2.2625416e-05,CUUR0000SA0L2,Prices,rolling_stat
+WPSFD49207__lag9,2.2609478e-05,WPSFD49207,Prices,lag
+CPIAUCSL__rollmean12,2.257082e-05,CPIAUCSL,Prices,rolling_stat
+UEMP27OV__mom3,2.2470931e-05,UEMP27OV,Labor Market,momentum
+AWHMAN__mom6,2.2419772e-05,AWHMAN,Labor Market,momentum
+UEMP15T26__rollz6,2.2412274e-05,UEMP15T26,Labor Market,rolling_stat
+DTCOLNVHFNM__mom6,2.237402e-05,DTCOLNVHFNM,Money and Credit,momentum
+CUSR0000SAC__rollmean6,2.2320715e-05,CUSR0000SAC,Prices,rolling_stat
+PAYEMS__rollstd6,2.2303959e-05,PAYEMS,Labor Market,rolling_stat
+NONREVSL__lag9,2.2244132e-05,NONREVSL,Money and Credit,lag
+CUUR0000SA0L2__mom3,2.2212007e-05,CUUR0000SA0L2,Prices,momentum
+AWHMAN__rollstd12,2.2188146e-05,AWHMAN,Labor Market,rolling_stat
+CES0600000007__mom3,2.2142289e-05,CES0600000007,Labor Market,momentum
+TB3MS__rollz6,2.2045626e-05,TB3MS,Interest and Exchange Rates,rolling_stat
+CUSR0000SAC__lag12,2.2032087e-05,CUSR0000SAC,Prices,lag
+DTCOLNVHFNM__lag3,2.1964564e-05,DTCOLNVHFNM,Money and Credit,lag
+IPMANSICS__rollstd24,2.1938944e-05,IPMANSICS,Output and Income,rolling_stat
+NONREVSL__rollz24,2.190467e-05,NONREVSL,Money and Credit,rolling_stat
+IPMANSICS__lag9,2.1789352e-05,IPMANSICS,Output and Income,lag
+CPIAPPSL__base,2.1746913e-05,CPIAPPSL,Prices,base
+PPICMM__mom3,2.1659707e-05,PPICMM,Prices,momentum
+IPFINAL__mom6,2.1599864e-05,IPFINAL,Output and Income,momentum
+NONBORRES__lag9,2.151491e-05,NONBORRES,Money and Credit,lag
+CUUR0000SAD__rollstd6,2.1505519e-05,CUUR0000SAD,Prices,rolling_stat
+HOUSTW__lag12,2.148698e-05,HOUSTW,Housing,lag
+OILPRICEx__mom6,2.1461687e-05,OILPRICEx,Prices,momentum
+DDURRG3M086SBEA__rollmean6,2.1401638e-05,DDURRG3M086SBEA,Prices,rolling_stat
+IPMAT__rollz6,2.1375197e-05,IPMAT,Output and Income,rolling_stat
+M2REAL__lag12,2.1247164e-05,M2REAL,Money and Credit,lag
+USCONS__lag1,2.1168702e-05,USCONS,Labor Market,lag
+CPITRNSL__rollmean12,2.1128155e-05,CPITRNSL,Prices,rolling_stat
+CPIULFSL__rollmean12,2.1102718e-05,CPIULFSL,Prices,rolling_stat
+WPSID62__rollstd12,2.1098618e-05,WPSID62,Prices,rolling_stat
+AWOTMAN__base,2.1046202e-05,AWOTMAN,Labor Market,base
+UEMP15OV__rollz6,2.1008253e-05,UEMP15OV,Labor Market,rolling_stat
+IPNMAT__rollstd6,2.089969e-05,IPNMAT,Output and Income,rolling_stat
+BUSLOANS__rollmean6,2.0897776e-05,BUSLOANS,Money and Credit,rolling_stat
+M1SL__rollmean6,2.0872896e-05,M1SL,Money and Credit,rolling_stat
+IPFPNSS__rollstd12,2.0834106e-05,IPFPNSS,Output and Income,rolling_stat
+T1YFFM__mom3,2.0822803e-05,T1YFFM,Interest and Exchange Rates,momentum
+USFIRE__rollz24,2.082209e-05,USFIRE,Labor Market,rolling_stat
+M1SL__rollmean24,2.0808362e-05,M1SL,Money and Credit,rolling_stat
+DNDGRG3M086SBEA__base,2.0786038e-05,DNDGRG3M086SBEA,Prices,base
+GS5__mom3,2.074792e-05,GS5,Interest and Exchange Rates,momentum
+DMANEMP__mom6,2.0674632e-05,DMANEMP,Labor Market,momentum
+HOUST__rollstd12,2.0669211e-05,HOUST,Housing,rolling_stat
+GS10__rollmean24,2.0544938e-05,GS10,Interest and Exchange Rates,rolling_stat
+WPSID61__rollmean24,2.033698e-05,WPSID61,Prices,rolling_stat
+NONREVSL__rollmean6,2.0301484e-05,NONREVSL,Money and Credit,rolling_stat
+IPMANSICS__lag12,2.0270512e-05,IPMANSICS,Output and Income,lag
+HOUSTNE__rollstd24,2.0195583e-05,HOUSTNE,Housing,rolling_stat
+CUSR0000SAS__rollmean6,2.0162535e-05,CUSR0000SAS,Prices,rolling_stat
+DTCTHFNM__lag1,2.0129384e-05,DTCTHFNM,Money and Credit,lag
+USFIRE__rollstd12,1.99981e-05,USFIRE,Labor Market,rolling_stat
+TB3MS__rollz24,1.9990415e-05,TB3MS,Interest and Exchange Rates,rolling_stat
+PERMITMW__lag12,1.9959913e-05,PERMITMW,Housing,lag
+BAA__lag1,1.9938514e-05,BAA,Interest and Exchange Rates,lag
+CES1021000001__rollz24,1.9923285e-05,CES1021000001,Labor Market,rolling_stat
+CPIAPPSL__lag1,1.9894851e-05,CPIAPPSL,Prices,lag
+DDURRG3M086SBEA__mom3,1.984704e-05,DDURRG3M086SBEA,Prices,momentum
+WPSID61__rollstd24,1.9800109e-05,WPSID61,Prices,rolling_stat
+GS1__lag1,1.9786401e-05,GS1,Interest and Exchange Rates,lag
+REALLN__lag9,1.968573e-05,REALLN,Money and Credit,lag
+UEMP15OV__rollz12,1.951732e-05,UEMP15OV,Labor Market,rolling_stat
+UEMP5TO14__rollz6,1.9470795e-05,UEMP5TO14,Labor Market,rolling_stat
+UEMP5TO14__rollmean12,1.9453799e-05,UEMP5TO14,Labor Market,rolling_stat
+RPI__rollmean12,1.9437924e-05,RPI,Output and Income,rolling_stat
+DTCTHFNM__rollmean12,1.9425699e-05,DTCTHFNM,Money and Credit,rolling_stat
+IPBUSEQ__rollstd6,1.9418756e-05,IPBUSEQ,Output and Income,rolling_stat
+CES3000000008__rollmean12,1.938901e-05,CES3000000008,Prices,rolling_stat
+UEMPLT5__mom6,1.9352447e-05,UEMPLT5,Labor Market,momentum
+DSERRG3M086SBEA__mom3,1.9322702e-05,DSERRG3M086SBEA,Prices,momentum
+CLF16OV__rollstd6,1.9320514e-05,CLF16OV,Labor Market,rolling_stat
+DSERRG3M086SBEA__rollstd24,1.9217125e-05,DSERRG3M086SBEA,Prices,rolling_stat
+WPSFD49502__lag3,1.914068e-05,WPSFD49502,Prices,lag
+GS5__lag9,1.906646e-05,GS5,Interest and Exchange Rates,lag
+WPSID61__rollmean6,1.9053921e-05,WPSID61,Prices,rolling_stat
+CPIAUCSL__mom3,1.9046869e-05,CPIAUCSL,Prices,momentum
+UNRATE__rollstd24,1.8899267e-05,UNRATE,Labor Market,rolling_stat
+CPIMEDSL__rollmean24,1.8888071e-05,CPIMEDSL,Prices,rolling_stat
+WPSID61__lag1,1.8744386e-05,WPSID61,Prices,lag
+BUSLOANS__rollmean12,1.872107e-05,BUSLOANS,Money and Credit,rolling_stat
+UNRATE__rollstd6,1.8470175e-05,UNRATE,Labor Market,rolling_stat
+CES1021000001__rollmean12,1.83975e-05,CES1021000001,Labor Market,rolling_stat
+DTCOLNVHFNM__lag6,1.839693e-05,DTCOLNVHFNM,Money and Credit,lag
+PERMITW__rollz6,1.8305776e-05,PERMITW,Housing,rolling_stat
+NDMANEMP__rollmean24,1.8271168e-05,NDMANEMP,Labor Market,rolling_stat
+IPDMAT__rollstd6,1.8244433e-05,IPDMAT,Output and Income,rolling_stat
+IPB51222S__rollz24,1.8145543e-05,IPB51222S,Output and Income,rolling_stat
+TB6MS__rollz6,1.8136798e-05,TB6MS,Interest and Exchange Rates,rolling_stat
+UEMP15T26__rollstd24,1.798306e-05,UEMP15T26,Labor Market,rolling_stat
+BAA__lag12,1.7910832e-05,BAA,Interest and Exchange Rates,lag
+IPDMAT__rollz6,1.7874421e-05,IPDMAT,Output and Income,rolling_stat
+IPMAT__lag1,1.7852042e-05,IPMAT,Output and Income,lag
+PERMITNE__mom3,1.7780694e-05,PERMITNE,Housing,momentum
+CES2000000008__rollstd6,1.7743803e-05,CES2000000008,Prices,rolling_stat
+DSERRG3M086SBEA__lag9,1.7599552e-05,DSERRG3M086SBEA,Prices,lag
+M2REAL__rollz12,1.7597751e-05,M2REAL,Money and Credit,rolling_stat
+BUSLOANS__rollstd24,1.7587447e-05,BUSLOANS,Money and Credit,rolling_stat
+M1SL__rollstd12,1.7579277e-05,M1SL,Money and Credit,rolling_stat
+BAA__rollz24,1.7485158e-05,BAA,Interest and Exchange Rates,rolling_stat
+CUSR0000SA0L5__lag3,1.739149e-05,CUSR0000SA0L5,Prices,lag
+GS10__mom3,1.721739e-05,GS10,Interest and Exchange Rates,momentum
+CUSR0000SA0L5__mom3,1.7210854e-05,CUSR0000SA0L5,Prices,momentum
+CPIAPPSL__rollmean6,1.7177237e-05,CPIAPPSL,Prices,rolling_stat
+INVEST__rollz6,1.7150274e-05,INVEST,Money and Credit,rolling_stat
+CUMFNS__lag9,1.711575e-05,CUMFNS,Output and Income,lag
+AWOTMAN__rollstd12,1.7003842e-05,AWOTMAN,Labor Market,rolling_stat
+PERMITMW__rollmean12,1.6999596e-05,PERMITMW,Housing,rolling_stat
+DPCERA3M086SBEA__lag6,1.6897871e-05,DPCERA3M086SBEA,"Consumption, Orders and Inventories",lag
+PERMITNE__rollz24,1.687861e-05,PERMITNE,Housing,rolling_stat
+IPCONGD__lag3,1.687049e-05,IPCONGD,Output and Income,lag
+IPMANSICS__lag6,1.6837885e-05,IPMANSICS,Output and Income,lag
+DSERRG3M086SBEA__lag3,1.6743652e-05,DSERRG3M086SBEA,Prices,lag
+CPIAPPSL__lag12,1.6743363e-05,CPIAPPSL,Prices,lag
+PERMITS__rollz24,1.6683807e-05,PERMITS,Housing,rolling_stat
+DNDGRG3M086SBEA__lag3,1.6663931e-05,DNDGRG3M086SBEA,Prices,lag
+SRVPRD__rollz6,1.6646181e-05,SRVPRD,Labor Market,rolling_stat
+USTRADE__rollz12,1.6631282e-05,USTRADE,Labor Market,rolling_stat
+IPNCONGD__mom3,1.6534985e-05,IPNCONGD,Output and Income,momentum
+CUUR0000SAD__lag6,1.6517586e-05,CUUR0000SAD,Prices,lag
+USWTRADE__rollz6,1.6358554e-05,USWTRADE,Labor Market,rolling_stat
+GS10__rollstd24,1.624903e-05,GS10,Interest and Exchange Rates,rolling_stat
+USFIRE__rollz6,1.624857e-05,USFIRE,Labor Market,rolling_stat
+W875RX1__rollstd6,1.6159265e-05,W875RX1,Output and Income,rolling_stat
+IPFPNSS__lag6,1.604e-05,IPFPNSS,Output and Income,lag
+UEMP27OV__rollstd12,1.5990969e-05,UEMP27OV,Labor Market,rolling_stat
+CPIAPPSL__rollmean24,1.5979886e-05,CPIAPPSL,Prices,rolling_stat
+UEMP15T26__lag6,1.5888349e-05,UEMP15T26,Labor Market,lag
+USCONS__mom12,1.5885977e-05,USCONS,Labor Market,momentum
+CES0600000008__rollz24,1.5879958e-05,CES0600000008,Prices,rolling_stat
+IPNCONGD__rollmean6,1.5780073e-05,IPNCONGD,Output and Income,rolling_stat
+HOUSTS__lag9,1.5736907e-05,HOUSTS,Housing,lag
+CPIAUCSL__rollmean6,1.5722426e-05,CPIAUCSL,Prices,rolling_stat
+BAAFFM__rollz12,1.5693658e-05,BAAFFM,Interest and Exchange Rates,rolling_stat
+PERMIT__lag3,1.568631e-05,PERMIT,Housing,lag
+CPIULFSL__lag9,1.5645346e-05,CPIULFSL,Prices,lag
+CPIAUCSL__rollmean24,1.5621654e-05,CPIAUCSL,Prices,rolling_stat
+INVEST__rollstd12,1.552243e-05,INVEST,Money and Credit,rolling_stat
+AAA__base,1.5510695e-05,AAA,Interest and Exchange Rates,base
+NONBORRES__lag1,1.547769e-05,NONBORRES,Money and Credit,lag
+INDPRO__rollstd24,1.5476644e-05,INDPRO,Output and Income,rolling_stat
+WPSFD49502__mom12,1.5474754e-05,WPSFD49502,Prices,momentum
+AWHMAN__mom12,1.544208e-05,AWHMAN,Labor Market,momentum
+WPSID62__lag1,1.5364507e-05,WPSID62,Prices,lag
+UEMP15T26__rollmean12,1.52978e-05,UEMP15T26,Labor Market,rolling_stat
+CUUR0000SAD__mom3,1.5214679e-05,CUUR0000SAD,Prices,momentum
+WPSFD49502__rollstd6,1.5206602e-05,WPSFD49502,Prices,rolling_stat
+DNDGRG3M086SBEA__rollz24,1.5158197e-05,DNDGRG3M086SBEA,Prices,rolling_stat
+CPIAUCSL__lag1,1.5081572e-05,CPIAUCSL,Prices,lag
+TOTRESNS__rollmean24,1.5080249e-05,TOTRESNS,Money and Credit,rolling_stat
+W875RX1__rollz6,1.5021314e-05,W875RX1,Output and Income,rolling_stat
+RPI__lag1,1.49321195e-05,RPI,Output and Income,lag
+RPI__rollstd24,1.4927614e-05,RPI,Output and Income,rolling_stat
+IPBUSEQ__mom12,1.4857107e-05,IPBUSEQ,Output and Income,momentum
+CPIAUCSL__rollstd6,1.4840324e-05,CPIAUCSL,Prices,rolling_stat
+CPITRNSL__rollstd12,1.48298595e-05,CPITRNSL,Prices,rolling_stat
+CES2000000008__rollz12,1.48193885e-05,CES2000000008,Prices,rolling_stat
+CLF16OV__rollz6,1.480937e-05,CLF16OV,Labor Market,rolling_stat
+IPCONGD__rollmean24,1.4741349e-05,IPCONGD,Output and Income,rolling_stat
+UEMPLT5__lag6,1.4735421e-05,UEMPLT5,Labor Market,lag
+BUSLOANS__lag1,1.4704514e-05,BUSLOANS,Money and Credit,lag
+INVEST__lag3,1.4613059e-05,INVEST,Money and Credit,lag
+T10YFFM__mom6,1.4540562e-05,T10YFFM,Interest and Exchange Rates,momentum
+TB6MS__lag1,1.4455076e-05,TB6MS,Interest and Exchange Rates,lag
+DTCOLNVHFNM__rollmean12,1.44179585e-05,DTCOLNVHFNM,Money and Credit,rolling_stat
+M2SL__lag3,1.4372048e-05,M2SL,Money and Credit,lag
+GS10__rollmean6,1.4358384e-05,GS10,Interest and Exchange Rates,rolling_stat
+DTCTHFNM__mom12,1.4299537e-05,DTCTHFNM,Money and Credit,momentum
+CES0600000007__rollmean12,1.4241873e-05,CES0600000007,Labor Market,rolling_stat
+IPFUELS__rollmean12,1.41779365e-05,IPFUELS,Output and Income,rolling_stat
+T5YFFM__mom3,1.4159219e-05,T5YFFM,Interest and Exchange Rates,momentum
+T1YFFM__rollstd6,1.41581995e-05,T1YFFM,Interest and Exchange Rates,rolling_stat
+T5YFFM__mom6,1.4120797e-05,T5YFFM,Interest and Exchange Rates,momentum
+UEMP15OV__rollmean6,1.4087094e-05,UEMP15OV,Labor Market,rolling_stat
+IPMANSICS__rollstd12,1.4032783e-05,IPMANSICS,Output and Income,rolling_stat
+IPB51222S__mom3,1.40319125e-05,IPB51222S,Output and Income,momentum
+REALLN__rollz24,1.4012831e-05,REALLN,Money and Credit,rolling_stat
+CES1021000001__lag9,1.3971619e-05,CES1021000001,Labor Market,lag
+TB3MS__lag1,1.3934295e-05,TB3MS,Interest and Exchange Rates,lag
+UEMP15T26__rollmean6,1.3926559e-05,UEMP15T26,Labor Market,rolling_stat
+TOTRESNS__rollmean6,1.3834379e-05,TOTRESNS,Money and Credit,rolling_stat
+WPSID61__lag9,1.3811273e-05,WPSID61,Prices,lag
+FEDFUNDS__lag12,1.3799521e-05,FEDFUNDS,Interest and Exchange Rates,lag
+UEMPMEAN__rollz6,1.3757059e-05,UEMPMEAN,Labor Market,rolling_stat
+IPMAT__rollstd24,1.3742479e-05,IPMAT,Output and Income,rolling_stat
+CPIAPPSL__rollstd6,1.3736233e-05,CPIAPPSL,Prices,rolling_stat
+CUSR0000SAC__rollz6,1.3709648e-05,CUSR0000SAC,Prices,rolling_stat
+IPDCONGD__lag6,1.3685012e-05,IPDCONGD,Output and Income,lag
+TB3MS__lag6,1.36228155e-05,TB3MS,Interest and Exchange Rates,lag
+WPSID62__rollstd24,1.3570863e-05,WPSID62,Prices,rolling_stat
+BAAFFM__rollstd6,1.3517785e-05,BAAFFM,Interest and Exchange Rates,rolling_stat
+PPICMM__rollmean24,1.3492736e-05,PPICMM,Prices,rolling_stat
+HOUSTS__rollz12,1.3487673e-05,HOUSTS,Housing,rolling_stat
+HOUSTMW__mom3,1.348342e-05,HOUSTMW,Housing,momentum
+DTCTHFNM__lag9,1.3427535e-05,DTCTHFNM,Money and Credit,lag
+GS5__lag3,1.3394876e-05,GS5,Interest and Exchange Rates,lag
+IPDCONGD__rollz12,1.3137164e-05,IPDCONGD,Output and Income,rolling_stat
+AAA__rollstd24,1.308346e-05,AAA,Interest and Exchange Rates,rolling_stat
+BUSLOANS__rollz6,1.3004545e-05,BUSLOANS,Money and Credit,rolling_stat
+INVEST__lag6,1.298678e-05,INVEST,Money and Credit,lag
+CPITRNSL__lag3,1.2939368e-05,CPITRNSL,Prices,lag
+PERMITMW__lag3,1.293885e-05,PERMITMW,Housing,lag
+USWTRADE__rollstd12,1.2931304e-05,USWTRADE,Labor Market,rolling_stat
+IPFUELS__rollz6,1.29224445e-05,IPFUELS,Output and Income,rolling_stat
+T1YFFM__rollz24,1.287014e-05,T1YFFM,Interest and Exchange Rates,rolling_stat
+CES1021000001__rollz12,1.2728767e-05,CES1021000001,Labor Market,rolling_stat
+BAA__rollstd24,1.268844e-05,BAA,Interest and Exchange Rates,rolling_stat
+USTPU__lag1,1.267218e-05,USTPU,Labor Market,lag
+CE16OV__rollmean6,1.2635916e-05,CE16OV,Labor Market,rolling_stat
+BAAFFM__rollstd24,1.2624654e-05,BAAFFM,Interest and Exchange Rates,rolling_stat
+CPIULFSL__lag1,1.25399265e-05,CPIULFSL,Prices,lag
+SP500__rollstd24,1.2535144e-05,SP500,Stock Market,rolling_stat
+OILPRICEx__lag12,1.25292745e-05,OILPRICEx,Prices,lag
+CPITRNSL__rollmean6,1.244262e-05,CPITRNSL,Prices,rolling_stat
+TERM_SPREAD_10YFF,1.2439851e-05,TERM_SPREAD_10YFF,Interest and Exchange Rates,spread
+DSERRG3M086SBEA__rollstd12,1.2385319e-05,DSERRG3M086SBEA,Prices,rolling_stat
+DSERRG3M086SBEA__rollz24,1.2369751e-05,DSERRG3M086SBEA,Prices,rolling_stat
+PERMITS__rollstd24,1.2211587e-05,PERMITS,Housing,rolling_stat
+AWOTMAN__rollstd6,1.21644825e-05,AWOTMAN,Labor Market,rolling_stat
+CUUR0000SAD__lag9,1.2153533e-05,CUUR0000SAD,Prices,lag
+M1SL__lag1,1.2147661e-05,M1SL,Money and Credit,lag
+PERMIT__rollmean12,1.2131336e-05,PERMIT,Housing,rolling_stat
+DTCTHFNM__lag12,1.2131092e-05,DTCTHFNM,Money and Credit,lag
+NONBORRES__rollz24,1.2106505e-05,NONBORRES,Money and Credit,rolling_stat
+BAA__rollmean12,1.2091577e-05,BAA,Interest and Exchange Rates,rolling_stat
+IPNMAT__rollz6,1.2077172e-05,IPNMAT,Output and Income,rolling_stat
+GS5__rollstd12,1.2065293e-05,GS5,Interest and Exchange Rates,rolling_stat
+AWOTMAN__rollz12,1.2036028e-05,AWOTMAN,Labor Market,rolling_stat
+WPSID61__lag3,1.2026083e-05,WPSID61,Prices,lag
+TB6MS__rollmean24,1.1972687e-05,TB6MS,Interest and Exchange Rates,rolling_stat
+WPSFD49207__rollz6,1.1957106e-05,WPSFD49207,Prices,rolling_stat
+USTPU__rollz6,1.1952326e-05,USTPU,Labor Market,rolling_stat
+HOUSTW__rollstd6,1.1946964e-05,HOUSTW,Housing,rolling_stat
+FEDFUNDS__rollz24,1.1875341e-05,FEDFUNDS,Interest and Exchange Rates,rolling_stat
+TB3SMFFM__mom12,1.1869415e-05,TB3SMFFM,Interest and Exchange Rates,momentum
+NONBORRES__mom3,1.1868763e-05,NONBORRES,Money and Credit,momentum
+TOTRESNS__lag1,1.1791465e-05,TOTRESNS,Money and Credit,lag
+UEMPMEAN__lag3,1.1789409e-05,UEMPMEAN,Labor Market,lag
+PAYEMS__rollstd24,1.1775385e-05,PAYEMS,Labor Market,rolling_stat
+CPIMEDSL__lag1,1.16516185e-05,CPIMEDSL,Prices,lag
+IPFINAL__lag6,1.150713e-05,IPFINAL,Output and Income,lag
+HOUST__rollmean24,1.1506622e-05,HOUST,Housing,rolling_stat
+CUSR0000SAC__rollz24,1.1475712e-05,CUSR0000SAC,Prices,rolling_stat
+USGOVT__rollmean6,1.1461748e-05,USGOVT,Labor Market,rolling_stat
+CUSR0000SA0L5__lag6,1.144917e-05,CUSR0000SA0L5,Prices,lag
+AAAFFM__rollz6,1.1441685e-05,AAAFFM,Interest and Exchange Rates,rolling_stat
+M2SL__lag6,1.1264359e-05,M2SL,Money and Credit,lag
+M2SL__rollmean6,1.1219958e-05,M2SL,Money and Credit,rolling_stat
+GS10__lag1,1.1072691e-05,GS10,Interest and Exchange Rates,lag
+CUSR0000SAC__rollmean12,1.1068546e-05,CUSR0000SAC,Prices,rolling_stat
+RPI__rollstd12,1.1010814e-05,RPI,Output and Income,rolling_stat
+REALLN__rollz12,1.0990204e-05,REALLN,Money and Credit,rolling_stat
+AAA__rollz24,1.0895822e-05,AAA,Interest and Exchange Rates,rolling_stat
+RPI__rollmean24,1.0878792e-05,RPI,Output and Income,rolling_stat
+TB3MS__lag3,1.0863753e-05,TB3MS,Interest and Exchange Rates,lag
+IPCONGD__lag9,1.0847373e-05,IPCONGD,Output and Income,lag
+CONSPI__lag6,1.0806002e-05,CONSPI,Money and Credit,lag
+CUUR0000SAD__mom12,1.0760959e-05,CUUR0000SAD,Prices,momentum
+TB6SMFFM__mom6,1.07463065e-05,TB6SMFFM,Interest and Exchange Rates,momentum
+GS1__rollz6,1.07230735e-05,GS1,Interest and Exchange Rates,rolling_stat
+CUUR0000SAD__mom6,1.0715399e-05,CUUR0000SAD,Prices,momentum
+IPNMAT__mom3,1.0710195e-05,IPNMAT,Output and Income,momentum
+CUUR0000SAD__lag12,1.0601927e-05,CUUR0000SAD,Prices,lag
+WPSID62__rollmean6,1.0569817e-05,WPSID62,Prices,rolling_stat
+PERMIT__rollz12,1.05366325e-05,PERMIT,Housing,rolling_stat
+SP500__lag3,1.0464423e-05,SP500,Stock Market,lag
+OILPRICEx__lag9,1.0409633e-05,OILPRICEx,Prices,lag
+CES2000000008__lag3,1.0389915e-05,CES2000000008,Prices,lag
+CUUR0000SAD__rollz24,1.0334504e-05,CUUR0000SAD,Prices,rolling_stat
+AAA__rollz6,1.0260482e-05,AAA,Interest and Exchange Rates,rolling_stat
+CONSPI__rollstd6,1.025518e-05,CONSPI,Money and Credit,rolling_stat
+UEMPMEAN__rollz24,1.0226975e-05,UEMPMEAN,Labor Market,rolling_stat
+DTCOLNVHFNM__rollz6,1.02132735e-05,DTCOLNVHFNM,Money and Credit,rolling_stat
+REALLN__mom12,1.0203582e-05,REALLN,Money and Credit,momentum
+PCEPI__mom6,1.0176207e-05,PCEPI,Prices,momentum
+NONBORRES__rollz12,1.0164282e-05,NONBORRES,Money and Credit,rolling_stat
+SP500__lag9,1.010496e-05,SP500,Stock Market,lag
+UEMP15OV__rollstd6,1.0085903e-05,UEMP15OV,Labor Market,rolling_stat
+DTCOLNVHFNM__rollmean24,1.0049298e-05,DTCOLNVHFNM,Money and Credit,rolling_stat
+REALLN__lag6,9.9976605e-06,REALLN,Money and Credit,lag
+CPIULFSL__rollmean6,9.945e-06,CPIULFSL,Prices,rolling_stat
+UEMPLT5__lag3,9.914881e-06,UEMPLT5,Labor Market,lag
+UEMP5TO14__rollstd24,9.895443e-06,UEMP5TO14,Labor Market,rolling_stat
+IPFINAL__rollz12,9.827861e-06,IPFINAL,Output and Income,rolling_stat
+WPSFD49207__lag12,9.80925e-06,WPSFD49207,Prices,lag
+USCONS__rollz6,9.791172e-06,USCONS,Labor Market,rolling_stat
+WPSFD49502__mom6,9.790687e-06,WPSFD49502,Prices,momentum
+DDURRG3M086SBEA__rollz12,9.662171e-06,DDURRG3M086SBEA,Prices,rolling_stat
+IPFINAL__lag1,9.556039e-06,IPFINAL,Output and Income,lag
+IPMAT__rollz12,9.548527e-06,IPMAT,Output and Income,rolling_stat
+PERMITMW__rollstd6,9.517708e-06,PERMITMW,Housing,rolling_stat
+DMANEMP__rollmean24,9.441184e-06,DMANEMP,Labor Market,rolling_stat
+HOUSTMW__rollstd12,9.431041e-06,HOUSTMW,Housing,rolling_stat
+BAA__rollstd6,9.346026e-06,BAA,Interest and Exchange Rates,rolling_stat
+UEMP15T26__rollz12,9.335254e-06,UEMP15T26,Labor Market,rolling_stat
+CUSR0000SAS__lag6,9.261325e-06,CUSR0000SAS,Prices,lag
+WPSFD49502__mom3,9.223016e-06,WPSFD49502,Prices,momentum
+CE16OV__rollmean12,9.134205e-06,CE16OV,Labor Market,rolling_stat
+WPSID61__lag12,9.08056e-06,WPSID61,Prices,lag
+SRVPRD__rollz12,9.045794e-06,SRVPRD,Labor Market,rolling_stat
+CES0600000008__lag3,9.001767e-06,CES0600000008,Prices,lag
+NDMANEMP__rollstd24,8.976777e-06,NDMANEMP,Labor Market,rolling_stat
+PCEPI__rollmean12,8.962883e-06,PCEPI,Prices,rolling_stat
+DPCERA3M086SBEA__lag9,8.902626e-06,DPCERA3M086SBEA,"Consumption, Orders and Inventories",lag
+CUUR0000SA0L2__rollmean12,8.892753e-06,CUUR0000SA0L2,Prices,rolling_stat
+NONBORRES__rollz6,8.888072e-06,NONBORRES,Money and Credit,rolling_stat
+FEDFUNDS__rollz12,8.885313e-06,FEDFUNDS,Interest and Exchange Rates,rolling_stat
+CPIAUCSL__lag12,8.8197085e-06,CPIAUCSL,Prices,lag
+DTCTHFNM__mom3,8.784863e-06,DTCTHFNM,Money and Credit,momentum
+WPSID62__rollz6,8.752156e-06,WPSID62,Prices,rolling_stat
+CUSR0000SAS__lag1,8.724399e-06,CUSR0000SAS,Prices,lag
+CES0600000008__lag1,8.67542e-06,CES0600000008,Prices,lag
+DTCTHFNM__rollmean6,8.611146e-06,DTCTHFNM,Money and Credit,rolling_stat
+TOTRESNS__rollstd6,8.591482e-06,TOTRESNS,Money and Credit,rolling_stat
+DTCTHFNM__lag3,8.480678e-06,DTCTHFNM,Money and Credit,lag
+IPMAT__rollstd6,8.461023e-06,IPMAT,Output and Income,rolling_stat
+CLF16OV__lag12,8.45571e-06,CLF16OV,Labor Market,lag
+GS1__lag6,8.4187495e-06,GS1,Interest and Exchange Rates,lag
+HOUSTNE__rollmean6,8.410476e-06,HOUSTNE,Housing,rolling_stat
+PCEPI__lag1,8.378929e-06,PCEPI,Prices,lag
+NONBORRES__rollmean6,8.367551e-06,NONBORRES,Money and Credit,rolling_stat
+M2SL__lag1,8.289609e-06,M2SL,Money and Credit,lag
+CES3000000008__lag1,8.180737e-06,CES3000000008,Prices,lag
+CPIMEDSL__lag6,8.166926e-06,CPIMEDSL,Prices,lag
+TB6MS__rollstd24,8.096944e-06,TB6MS,Interest and Exchange Rates,rolling_stat
+TB6MS__rollz24,8.067666e-06,TB6MS,Interest and Exchange Rates,rolling_stat
+IPCONGD__rollz24,8.056381e-06,IPCONGD,Output and Income,rolling_stat
+NONBORRES__rollmean24,7.965982e-06,NONBORRES,Money and Credit,rolling_stat
+CLF16OV__lag1,7.957384e-06,CLF16OV,Labor Market,lag
+TB6SMFFM__rollz6,7.915817e-06,TB6SMFFM,Interest and Exchange Rates,rolling_stat
+IPBUSEQ__mom6,7.892641e-06,IPBUSEQ,Output and Income,momentum
+UEMP27OV__rollmean24,7.848036e-06,UEMP27OV,Labor Market,rolling_stat
+USGOVT__rollz24,7.846171e-06,USGOVT,Labor Market,rolling_stat
+BUSLOANS__rollmean24,7.841272e-06,BUSLOANS,Money and Credit,rolling_stat
+DTCOLNVHFNM__lag12,7.819242e-06,DTCOLNVHFNM,Money and Credit,lag
+PERMIT__rollmean24,7.798296e-06,PERMIT,Housing,rolling_stat
+TB3MS__lag9,7.7875775e-06,TB3MS,Interest and Exchange Rates,lag
+DTCTHFNM__rollmean24,7.778729e-06,DTCTHFNM,Money and Credit,rolling_stat
+UEMPMEAN__lag12,7.767431e-06,UEMPMEAN,Labor Market,lag
+CUSR0000SA0L5__rollz12,7.75625e-06,CUSR0000SA0L5,Prices,rolling_stat
+UEMP27OV__rollz6,7.717616e-06,UEMP27OV,Labor Market,rolling_stat
+DMANEMP__rollstd6,7.688667e-06,DMANEMP,Labor Market,rolling_stat
+CUSR0000SAS__rollz24,7.661989e-06,CUSR0000SAS,Prices,rolling_stat
+T5YFFM__rollz6,7.652723e-06,T5YFFM,Interest and Exchange Rates,rolling_stat
+CES3000000008__rollmean24,7.63818e-06,CES3000000008,Prices,rolling_stat
+SRVPRD__mom6,7.622978e-06,SRVPRD,Labor Market,momentum
+UEMPLT5__lag12,7.579306e-06,UEMPLT5,Labor Market,lag
+CONSPI__rollz12,7.5787807e-06,CONSPI,Money and Credit,rolling_stat
+CONSPI__rollmean24,7.568205e-06,CONSPI,Money and Credit,rolling_stat
+BAA__rollz6,7.504882e-06,BAA,Interest and Exchange Rates,rolling_stat
+GS5__rollz12,7.4942795e-06,GS5,Interest and Exchange Rates,rolling_stat
+DTCTHFNM__rollz6,7.490962e-06,DTCTHFNM,Money and Credit,rolling_stat
+CES2000000008__rollmean12,7.485386e-06,CES2000000008,Prices,rolling_stat
+M2SL__lag12,7.4358827e-06,M2SL,Money and Credit,lag
+UEMP27OV__rollmean6,7.432252e-06,UEMP27OV,Labor Market,rolling_stat
+REALLN__lag3,7.4277186e-06,REALLN,Money and Credit,lag
+IPCONGD__rollz12,7.4270292e-06,IPCONGD,Output and Income,rolling_stat
+IPDMAT__rollmean6,7.420019e-06,IPDMAT,Output and Income,rolling_stat
+AAA__lag1,7.4056843e-06,AAA,Interest and Exchange Rates,lag
+AWOTMAN__rollz6,7.375668e-06,AWOTMAN,Labor Market,rolling_stat
+UNRATE__rollz6,7.370256e-06,UNRATE,Labor Market,rolling_stat
+CPIULFSL__rollstd24,7.108845e-06,CPIULFSL,Prices,rolling_stat
+M2REAL__rollmean24,7.0749193e-06,M2REAL,Money and Credit,rolling_stat
+CES1021000001__mom3,7.0498468e-06,CES1021000001,Labor Market,momentum
+IPB51222S__rollz6,7.0470774e-06,IPB51222S,Output and Income,rolling_stat
+NONREVSL__lag3,7.0241304e-06,NONREVSL,Money and Credit,lag
+CES2000000008__lag12,6.9726534e-06,CES2000000008,Prices,lag
+CUUR0000SA0L2__lag9,6.968564e-06,CUUR0000SA0L2,Prices,lag
+PERMITNE__rollmean24,6.9518132e-06,PERMITNE,Housing,rolling_stat
+HOUSTNE__mom3,6.9415746e-06,HOUSTNE,Housing,momentum
+FEDFUNDS__mom12,6.9033586e-06,FEDFUNDS,Interest and Exchange Rates,momentum
+PAYEMS__mom12,6.872721e-06,PAYEMS,Labor Market,momentum
+DTCTHFNM__rollz24,6.869554e-06,DTCTHFNM,Money and Credit,rolling_stat
+BAA__rollz12,6.86861e-06,BAA,Interest and Exchange Rates,rolling_stat
+REALLN__rollz6,6.8652375e-06,REALLN,Money and Credit,rolling_stat
+TB3SMFFM__mom3,6.813137e-06,TB3SMFFM,Interest and Exchange Rates,momentum
+CLF16OV__mom12,6.7959645e-06,CLF16OV,Labor Market,momentum
+IPFINAL__rollstd24,6.793676e-06,IPFINAL,Output and Income,rolling_stat
+DDURRG3M086SBEA__mom6,6.754158e-06,DDURRG3M086SBEA,Prices,momentum
+DDURRG3M086SBEA__lag9,6.748601e-06,DDURRG3M086SBEA,Prices,lag
+HOUST__rollz6,6.724109e-06,HOUST,Housing,rolling_stat
+IPFPNSS__rollmean24,6.718398e-06,IPFPNSS,Output and Income,rolling_stat
+IPFINAL__mom12,6.7040937e-06,IPFINAL,Output and Income,momentum
+CES0600000008__rollz12,6.639106e-06,CES0600000008,Prices,rolling_stat
+USTPU__mom6,6.62736e-06,USTPU,Labor Market,momentum
+AWOTMAN__lag9,6.575812e-06,AWOTMAN,Labor Market,lag
+DTCOLNVHFNM__rollstd12,6.530603e-06,DTCOLNVHFNM,Money and Credit,rolling_stat
+WPSID62__lag12,6.5017566e-06,WPSID62,Prices,lag
+DSERRG3M086SBEA__lag6,6.4511955e-06,DSERRG3M086SBEA,Prices,lag
+CUSR0000SAS__lag9,6.433183e-06,CUSR0000SAS,Prices,lag
+OILPRICEx__rollmean24,6.4263695e-06,OILPRICEx,Prices,rolling_stat
+GS10__rollz12,6.42394e-06,GS10,Interest and Exchange Rates,rolling_stat
+WPSFD49502__rollz6,6.4201445e-06,WPSFD49502,Prices,rolling_stat
+IPNMAT__rollz12,6.2834024e-06,IPNMAT,Output and Income,rolling_stat
+DMANEMP__mom12,6.281963e-06,DMANEMP,Labor Market,momentum
+DDURRG3M086SBEA__rollz24,6.2201984e-06,DDURRG3M086SBEA,Prices,rolling_stat
+OILPRICEx__rollz12,6.198148e-06,OILPRICEx,Prices,rolling_stat
+HOUSTNE__lag6,6.1772116e-06,HOUSTNE,Housing,lag
+CUMFNS__lag1,6.0965904e-06,CUMFNS,Output and Income,lag
+HOUSTNE__rollstd12,6.08755e-06,HOUSTNE,Housing,rolling_stat
+W875RX1__rollmean12,6.0638545e-06,W875RX1,Output and Income,rolling_stat
+HOUSTNE__rollz12,6.009879e-06,HOUSTNE,Housing,rolling_stat
+CUSR0000SA0L5__rollmean6,5.985339e-06,CUSR0000SA0L5,Prices,rolling_stat
+REALLN__rollmean24,5.928895e-06,REALLN,Money and Credit,rolling_stat
+USTPU__rollmean6,5.8755386e-06,USTPU,Labor Market,rolling_stat
+CUMFNS__rollmean24,5.8359637e-06,CUMFNS,Output and Income,rolling_stat
+GS5__lag12,5.83499e-06,GS5,Interest and Exchange Rates,lag
+T5YFFM__rollz24,5.8158985e-06,T5YFFM,Interest and Exchange Rates,rolling_stat
+WPSFD49502__rollmean12,5.770932e-06,WPSFD49502,Prices,rolling_stat
+CPIAUCSL__rollz12,5.759765e-06,CPIAUCSL,Prices,rolling_stat
+PCEPI__lag6,5.759098e-06,PCEPI,Prices,lag
+DMANEMP__lag1,5.742194e-06,DMANEMP,Labor Market,lag
+CUUR0000SAD__rollz6,5.7366183e-06,CUUR0000SAD,Prices,rolling_stat
+DSERRG3M086SBEA__rollmean24,5.730953e-06,DSERRG3M086SBEA,Prices,rolling_stat
+T10YFFM__mom3,5.723129e-06,T10YFFM,Interest and Exchange Rates,momentum
+PERMITNE__rollstd6,5.718168e-06,PERMITNE,Housing,rolling_stat
+WPSID62__rollz24,5.689255e-06,WPSID62,Prices,rolling_stat
+CUSR0000SA0L5__rollstd12,5.6740987e-06,CUSR0000SA0L5,Prices,rolling_stat
+DSERRG3M086SBEA__rollz6,5.629191e-06,DSERRG3M086SBEA,Prices,rolling_stat
+USCONS__rollmean24,5.6173694e-06,USCONS,Labor Market,rolling_stat
+UEMP27OV__lag6,5.553363e-06,UEMP27OV,Labor Market,lag
+M1SL__rollmean12,5.543419e-06,M1SL,Money and Credit,rolling_stat
+NONREVSL__lag12,5.508177e-06,NONREVSL,Money and Credit,lag
+CONSPI__rollz24,5.493765e-06,CONSPI,Money and Credit,rolling_stat
+DTCTHFNM__lag6,5.426195e-06,DTCTHFNM,Money and Credit,lag
+M1SL__rollz12,5.414241e-06,M1SL,Money and Credit,rolling_stat
+M1SL__rollz6,5.4108655e-06,M1SL,Money and Credit,rolling_stat
+REALLN__lag1,5.392501e-06,REALLN,Money and Credit,lag
+DSERRG3M086SBEA__rollmean12,5.3665553e-06,DSERRG3M086SBEA,Prices,rolling_stat
+NDMANEMP__lag3,5.31965e-06,NDMANEMP,Labor Market,lag
+WPSID62__rollz12,5.319314e-06,WPSID62,Prices,rolling_stat
+GS10__rollz24,5.3134227e-06,GS10,Interest and Exchange Rates,rolling_stat
+CUUR0000SA0L2__lag3,5.2925143e-06,CUUR0000SA0L2,Prices,lag
+AAAFFM__rollstd24,5.2770424e-06,AAAFFM,Interest and Exchange Rates,rolling_stat
+NONREVSL__rollz6,5.2731307e-06,NONREVSL,Money and Credit,rolling_stat
+CLF16OV__rollmean6,5.25552e-06,CLF16OV,Labor Market,rolling_stat
+WPSID61__rollz24,5.249146e-06,WPSID61,Prices,rolling_stat
+IPMAT__mom3,5.1988427e-06,IPMAT,Output and Income,momentum
+SP500__rollz6,5.1868387e-06,SP500,Stock Market,rolling_stat
+PCEPI__mom3,5.089681e-06,PCEPI,Prices,momentum
+T10YFFM__rollz6,5.0443386e-06,T10YFFM,Interest and Exchange Rates,rolling_stat
+DTCOLNVHFNM__rollmean6,5.0323674e-06,DTCOLNVHFNM,Money and Credit,rolling_stat
+USGOVT__rollz6,5.021929e-06,USGOVT,Labor Market,rolling_stat
+HOUSTW__rollmean6,4.868503e-06,HOUSTW,Housing,rolling_stat
+INVEST__lag1,4.824473e-06,INVEST,Money and Credit,lag
+CUUR0000SA0L2__rollz12,4.792671e-06,CUUR0000SA0L2,Prices,rolling_stat
+CUSR0000SAC__lag3,4.7885505e-06,CUSR0000SAC,Prices,lag
+HOUSTNE__rollz24,4.71627e-06,HOUSTNE,Housing,rolling_stat
+IPFINAL__rollstd12,4.6740715e-06,IPFINAL,Output and Income,rolling_stat
+WPSFD49207__lag6,4.6553882e-06,WPSFD49207,Prices,lag
+CPIULFSL__lag12,4.644649e-06,CPIULFSL,Prices,lag
+DNDGRG3M086SBEA__rollstd24,4.6423256e-06,DNDGRG3M086SBEA,Prices,rolling_stat
+CES0600000008__rollmean12,4.575662e-06,CES0600000008,Prices,rolling_stat
+M2SL__rollmean12,4.5582387e-06,M2SL,Money and Credit,rolling_stat
+AAA__rollmean6,4.527557e-06,AAA,Interest and Exchange Rates,rolling_stat
+UEMP15OV__rollz24,4.4601397e-06,UEMP15OV,Labor Market,rolling_stat
+CUSR0000SA0L5__lag12,4.4002304e-06,CUSR0000SA0L5,Prices,lag
+DNDGRG3M086SBEA__rollstd12,4.3687864e-06,DNDGRG3M086SBEA,Prices,rolling_stat
+DPCERA3M086SBEA__rollmean24,4.363637e-06,DPCERA3M086SBEA,"Consumption, Orders and Inventories",rolling_stat
+HOUSTS__rollmean24,4.33541e-06,HOUSTS,Housing,rolling_stat
+AAA__rollz12,4.296703e-06,AAA,Interest and Exchange Rates,rolling_stat
+PPICMM__lag1,4.294739e-06,PPICMM,Prices,lag
+DTCTHFNM__rollz12,4.28929e-06,DTCTHFNM,Money and Credit,rolling_stat
+WPSFD49207__lag3,4.2858114e-06,WPSFD49207,Prices,lag
+CPIAPPSL__rollz12,4.256646e-06,CPIAPPSL,Prices,rolling_stat
+IPFINAL__rollmean24,4.2431607e-06,IPFINAL,Output and Income,rolling_stat
+CES2000000008__rollz6,4.1682165e-06,CES2000000008,Prices,rolling_stat
+GS5__rollz24,4.115211e-06,GS5,Interest and Exchange Rates,rolling_stat
+TOTRESNS__lag6,4.0939644e-06,TOTRESNS,Money and Credit,lag
+CES3000000008__lag3,4.087654e-06,CES3000000008,Prices,lag
+DDURRG3M086SBEA__rollz6,4.080606e-06,DDURRG3M086SBEA,Prices,rolling_stat
+T10YFFM__mom12,4.074526e-06,T10YFFM,Interest and Exchange Rates,momentum
+CPIAUCSL__rollz6,4.070818e-06,CPIAUCSL,Prices,rolling_stat
+PPICMM__rollz6,4.0676023e-06,PPICMM,Prices,rolling_stat
+TB3MS__rollmean24,4.0012833e-06,TB3MS,Interest and Exchange Rates,rolling_stat
+TB6SMFFM__rollz12,3.9885967e-06,TB6SMFFM,Interest and Exchange Rates,rolling_stat
+M2REAL__rollz6,3.977938e-06,M2REAL,Money and Credit,rolling_stat
+IPB51222S__rollz12,3.9543556e-06,IPB51222S,Output and Income,rolling_stat
+WPSID61__rollz6,3.9419515e-06,WPSID61,Prices,rolling_stat
+OILPRICEx__rollmean12,3.938954e-06,OILPRICEx,Prices,rolling_stat
+GS1__mom3,3.933206e-06,GS1,Interest and Exchange Rates,momentum
+DNDGRG3M086SBEA__rollmean12,3.9000506e-06,DNDGRG3M086SBEA,Prices,rolling_stat
+WPSFD49502__rollmean24,3.867439e-06,WPSFD49502,Prices,rolling_stat
+OILPRICEx__rollz24,3.8359217e-06,OILPRICEx,Prices,rolling_stat
+CES2000000008__rollmean6,3.8334647e-06,CES2000000008,Prices,rolling_stat
+CUUR0000SA0L2__rollz6,3.783552e-06,CUUR0000SA0L2,Prices,rolling_stat
+DSERRG3M086SBEA__lag12,3.729713e-06,DSERRG3M086SBEA,Prices,lag
+USTRADE__rollmean6,3.7219188e-06,USTRADE,Labor Market,rolling_stat
+OILPRICEx__rollz6,3.6980446e-06,OILPRICEx,Prices,rolling_stat
+CUSR0000SAC__rollstd24,3.6206882e-06,CUSR0000SAC,Prices,rolling_stat
+TB6MS__lag9,3.6048823e-06,TB6MS,Interest and Exchange Rates,lag
+M2SL__rollz6,3.6029808e-06,M2SL,Money and Credit,rolling_stat
+PPICMM__lag12,3.5886058e-06,PPICMM,Prices,lag
+CUSR0000SAC__rollz12,3.5757669e-06,CUSR0000SAC,Prices,rolling_stat
+HOUSTMW__rollz6,3.5715007e-06,HOUSTMW,Housing,rolling_stat
+WPSFD49502__lag6,3.5683636e-06,WPSFD49502,Prices,lag
+BUSLOANS__lag6,3.5268222e-06,BUSLOANS,Money and Credit,lag
+PPICMM__lag3,3.5261653e-06,PPICMM,Prices,lag
+UEMPMEAN__rollz12,3.5196547e-06,UEMPMEAN,Labor Market,rolling_stat
+DNDGRG3M086SBEA__lag6,3.5168332e-06,DNDGRG3M086SBEA,Prices,lag
+SP500__rollz12,3.5153105e-06,SP500,Stock Market,rolling_stat
+GS1__rollmean24,3.5082583e-06,GS1,Interest and Exchange Rates,rolling_stat
+PERMITMW__rollz12,3.4872762e-06,PERMITMW,Housing,rolling_stat
+PERMITNE__rollz12,3.4814811e-06,PERMITNE,Housing,rolling_stat
+AWOTMAN__lag1,3.4420502e-06,AWOTMAN,Labor Market,lag
+CPIAPPSL__rollmean12,3.4377895e-06,CPIAPPSL,Prices,rolling_stat
+CPIULFSL__rollz12,3.4329903e-06,CPIULFSL,Prices,rolling_stat
+DNDGRG3M086SBEA__rollz6,3.4225698e-06,DNDGRG3M086SBEA,Prices,rolling_stat
+IPFUELS__rollmean24,3.4192205e-06,IPFUELS,Output and Income,rolling_stat
+AWHMAN__rollstd24,3.4051545e-06,AWHMAN,Labor Market,rolling_stat
+UEMP27OV__lag12,3.3898887e-06,UEMP27OV,Labor Market,lag
+NONBORRES__rollstd24,3.3720773e-06,NONBORRES,Money and Credit,rolling_stat
+PCEPI__lag3,3.3541835e-06,PCEPI,Prices,lag
+MANEMP__rollstd6,3.3492956e-06,MANEMP,Labor Market,rolling_stat
+AWOTMAN__lag6,3.329625e-06,AWOTMAN,Labor Market,lag
+CUUR0000SAD__lag3,3.3255324e-06,CUUR0000SAD,Prices,lag
+UEMPMEAN__rollmean24,3.3228882e-06,UEMPMEAN,Labor Market,rolling_stat
+PCEPI__rollstd24,3.2915339e-06,PCEPI,Prices,rolling_stat
+AAA__rollstd12,3.290502e-06,AAA,Interest and Exchange Rates,rolling_stat
+USGOOD__rollstd6,3.26747e-06,USGOOD,Labor Market,rolling_stat
+HOUSTNE__rollmean24,3.2632533e-06,HOUSTNE,Housing,rolling_stat
+PERMITMW__rollmean6,3.2604069e-06,PERMITMW,Housing,rolling_stat
+AAA__rollmean12,3.2532882e-06,AAA,Interest and Exchange Rates,rolling_stat
+CPIULFSL__rollz6,3.2264047e-06,CPIULFSL,Prices,rolling_stat
+CPITRNSL__rollz12,3.209807e-06,CPITRNSL,Prices,rolling_stat
+CES3000000008__rollz24,3.2010485e-06,CES3000000008,Prices,rolling_stat
+SP500__lag12,3.1830207e-06,SP500,Stock Market,lag
+IPB51222S__rollmean6,3.1531565e-06,IPB51222S,Output and Income,rolling_stat
+WPSID62__lag3,3.1494003e-06,WPSID62,Prices,lag
+GS5__lag1,3.1352304e-06,GS5,Interest and Exchange Rates,lag
+TB6SMFFM__mom12,3.1202953e-06,TB6SMFFM,Interest and Exchange Rates,momentum
+CES3000000008__rollmean6,3.0814106e-06,CES3000000008,Prices,rolling_stat
+HOUSTMW__rollmean24,3.0607998e-06,HOUSTMW,Housing,rolling_stat
+WPSFD49502__rollz24,3.0295928e-06,WPSFD49502,Prices,rolling_stat
+NONREVSL__rollmean24,3.0239366e-06,NONREVSL,Money and Credit,rolling_stat
+PPICMM__rollz24,3.023733e-06,PPICMM,Prices,rolling_stat
+REALLN__rollmean6,2.9990874e-06,REALLN,Money and Credit,rolling_stat
+BAAFFM__lag3,2.9921146e-06,BAAFFM,Interest and Exchange Rates,lag
+GS1__lag3,2.9878124e-06,GS1,Interest and Exchange Rates,lag
+BUSLOANS__rollz24,2.9622286e-06,BUSLOANS,Money and Credit,rolling_stat
+CPITRNSL__rollz6,2.9289458e-06,CPITRNSL,Prices,rolling_stat
+TB3MS__lag12,2.8857148e-06,TB3MS,Interest and Exchange Rates,lag
+T10YFFM__rollstd6,2.8447737e-06,T10YFFM,Interest and Exchange Rates,rolling_stat
+PAYEMS__drawdown12,2.827278e-06,PAYEMS,Labor Market,drawdown
+HOUSTMW__lag3,2.8234688e-06,HOUSTMW,Housing,lag
+PPICMM__rollz12,2.7886997e-06,PPICMM,Prices,rolling_stat
+DMANEMP__rollmean6,2.7827878e-06,DMANEMP,Labor Market,rolling_stat
+AWOTMAN__rollmean24,2.7567457e-06,AWOTMAN,Labor Market,rolling_stat
+CPIULFSL__rollz24,2.7490184e-06,CPIULFSL,Prices,rolling_stat
+WPSFD49207__rollz12,2.7060314e-06,WPSFD49207,Prices,rolling_stat
+DNDGRG3M086SBEA__rollz12,2.7032802e-06,DNDGRG3M086SBEA,Prices,rolling_stat
+UEMPLT5__rollmean6,2.6998357e-06,UEMPLT5,Labor Market,rolling_stat
+REALLN__mom3,2.6898713e-06,REALLN,Money and Credit,momentum
+NDMANEMP__rollmean6,2.6634173e-06,NDMANEMP,Labor Market,rolling_stat
+PCEPI__lag9,2.6320547e-06,PCEPI,Prices,lag
+CPIMEDSL__rollmean6,2.6253383e-06,CPIMEDSL,Prices,rolling_stat
+TB3SMFFM__rollz6,2.5958025e-06,TB3SMFFM,Interest and Exchange Rates,rolling_stat
+USCONS__rollmean12,2.5653887e-06,USCONS,Labor Market,rolling_stat
+DPCERA3M086SBEA__rollz6,2.5516842e-06,DPCERA3M086SBEA,"Consumption, Orders and Inventories",rolling_stat
+USFIRE__rollmean6,2.5508314e-06,USFIRE,Labor Market,rolling_stat
+CUSR0000SAS__lag12,2.5482748e-06,CUSR0000SAS,Prices,lag
+CUSR0000SA0L5__rollstd24,2.5313673e-06,CUSR0000SA0L5,Prices,rolling_stat
+CE16OV__rollmean24,2.4766732e-06,CE16OV,Labor Market,rolling_stat
+DNDGRG3M086SBEA__lag12,2.4427382e-06,DNDGRG3M086SBEA,Prices,lag
+SRVPRD__rollmean24,2.4238466e-06,SRVPRD,Labor Market,rolling_stat
+CUMFNS__mom12,2.4030567e-06,CUMFNS,Output and Income,momentum
+IPNMAT__rollmean24,2.3954371e-06,IPNMAT,Output and Income,rolling_stat
+USCONS__rollz24,2.3882694e-06,USCONS,Labor Market,rolling_stat
+HOUSTNE__rollmean12,2.3348941e-06,HOUSTNE,Housing,rolling_stat
+WPSID61__rollz12,2.3167752e-06,WPSID61,Prices,rolling_stat
+W875RX1__rollstd12,2.292148e-06,W875RX1,Output and Income,rolling_stat
+TB6SMFFM__rollz24,2.2889808e-06,TB6SMFFM,Interest and Exchange Rates,rolling_stat
+CPIAPPSL__rollz6,2.2769987e-06,CPIAPPSL,Prices,rolling_stat
+USCONS__rollz12,2.2752956e-06,USCONS,Labor Market,rolling_stat
+UNRATE__lag9,2.2688546e-06,UNRATE,Labor Market,lag
+CONSPI__rollz6,2.1429985e-06,CONSPI,Money and Credit,rolling_stat
+IPDMAT__rollmean24,2.1287974e-06,IPDMAT,Output and Income,rolling_stat
+DTCOLNVHFNM__lag9,2.1039561e-06,DTCOLNVHFNM,Money and Credit,lag
+DNDGRG3M086SBEA__lag1,2.089205e-06,DNDGRG3M086SBEA,Prices,lag
+UEMP27OV__rollz12,2.0051461e-06,UEMP27OV,Labor Market,rolling_stat
+WPSID62__rollstd6,1.9958366e-06,WPSID62,Prices,rolling_stat
+USTPU__rollstd12,1.9504064e-06,USTPU,Labor Market,rolling_stat
+BUSLOANS__rollz12,1.944318e-06,BUSLOANS,Money and Credit,rolling_stat
+WPSFD49502__rollmean6,1.9422787e-06,WPSFD49502,Prices,rolling_stat
+USWTRADE__rollmean24,1.9238398e-06,USWTRADE,Labor Market,rolling_stat
+DTCOLNVHFNM__rollz24,1.8985795e-06,DTCOLNVHFNM,Money and Credit,rolling_stat
+CUUR0000SA0L2__rollmean24,1.8821098e-06,CUUR0000SA0L2,Prices,rolling_stat
+UNRATE__rollmean12,1.8572072e-06,UNRATE,Labor Market,rolling_stat
+UEMP15OV__lag12,1.8196959e-06,UEMP15OV,Labor Market,lag
+CES1021000001__rollmean6,1.8155351e-06,CES1021000001,Labor Market,rolling_stat
+CUSR0000SA0L5__rollmean12,1.742749e-06,CUSR0000SA0L5,Prices,rolling_stat
+TB6MS__mom12,1.6773587e-06,TB6MS,Interest and Exchange Rates,momentum
+CUUR0000SAD__rollz12,1.649848e-06,CUUR0000SAD,Prices,rolling_stat
+DSERRG3M086SBEA__rollz12,1.577311e-06,DSERRG3M086SBEA,Prices,rolling_stat
+DTCOLNVHFNM__rollstd6,1.5580544e-06,DTCOLNVHFNM,Money and Credit,rolling_stat
+CES2000000008__rollmean24,1.5499809e-06,CES2000000008,Prices,rolling_stat
+INDPRO__rollmean6,1.5200652e-06,INDPRO,Output and Income,rolling_stat
+WPSFD49207__rollz24,1.5042814e-06,WPSFD49207,Prices,rolling_stat
+GS1__lag12,1.5032098e-06,GS1,Interest and Exchange Rates,lag
+PAYEMS__rollmean24,1.4339116e-06,PAYEMS,Labor Market,rolling_stat
+IPNMAT__rollz24,1.4330134e-06,IPNMAT,Output and Income,rolling_stat
+M1SL__rollz24,1.4282896e-06,M1SL,Money and Credit,rolling_stat
+TOTRESNS__rollz12,1.4072172e-06,TOTRESNS,Money and Credit,rolling_stat
+HOUST__rollstd24,1.4058661e-06,HOUST,Housing,rolling_stat
+HOUSTW__rollmean12,1.4011173e-06,HOUSTW,Housing,rolling_stat
+PCEPI__rollz12,1.359077e-06,PCEPI,Prices,rolling_stat
+CUSR0000SAC__rollstd12,1.3443133e-06,CUSR0000SAC,Prices,rolling_stat
+CUSR0000SAC__rollmean24,1.3140118e-06,CUSR0000SAC,Prices,rolling_stat
+CUSR0000SAS__lag3,1.298598e-06,CUSR0000SAS,Prices,lag
+CPIAUCSL__rollz24,1.2850477e-06,CPIAUCSL,Prices,rolling_stat
+WPSFD49502__rollstd24,1.2803555e-06,WPSFD49502,Prices,rolling_stat
+GS10__lag9,1.2078119e-06,GS10,Interest and Exchange Rates,lag
+CUMFNS__rollz6,1.20419e-06,CUMFNS,Output and Income,rolling_stat
+M2SL__rollmean24,1.1650242e-06,M2SL,Money and Credit,rolling_stat
+SP500_RETURN,1.1363509e-06,SP500_RETURN,Stock Market,volatility
+UEMP15OV__rollmean12,1.1236214e-06,UEMP15OV,Labor Market,rolling_stat
+UEMP15T26__rollz24,1.1033604e-06,UEMP15T26,Labor Market,rolling_stat
+UNRATE__lag1,1.1019978e-06,UNRATE,Labor Market,lag
+CUSR0000SAC__lag9,1.0986885e-06,CUSR0000SAC,Prices,lag
+USTPU__rollmean12,1.0476127e-06,USTPU,Labor Market,rolling_stat
+DNDGRG3M086SBEA__mom12,1.0070794e-06,DNDGRG3M086SBEA,Prices,momentum
+IPFINAL__rollmean12,9.887859e-07,IPFINAL,Output and Income,rolling_stat
+MANEMP__rollmean12,9.702172e-07,MANEMP,Labor Market,rolling_stat
+SP500__realizedvol12,9.627272e-07,SP500__realizedvol12,Stock Market,volatility
+HOUSTNE__rollz6,9.539116e-07,HOUSTNE,Housing,rolling_stat
+INDPRO__mom12,9.258442e-07,INDPRO,Output and Income,momentum
+IPBUSEQ__rollmean6,9.1704874e-07,IPBUSEQ,Output and Income,rolling_stat
+INDPRO__drawdown60,8.397659e-07,INDPRO,Output and Income,drawdown
+WPSFD49207__rollmean6,8.1460075e-07,WPSFD49207,Prices,rolling_stat
+CES3000000008__rollz12,8.039741e-07,CES3000000008,Prices,rolling_stat
+RPI__rollmean6,7.981548e-07,RPI,Output and Income,rolling_stat
+PCEPI__rollz24,7.4428806e-07,PCEPI,Prices,rolling_stat
+WPSFD49207__rollstd24,7.312677e-07,WPSFD49207,Prices,rolling_stat
+IPNMAT__rollstd12,7.216962e-07,IPNMAT,Output and Income,rolling_stat
+INDPRO__rollstd12,7.181367e-07,INDPRO,Output and Income,rolling_stat
+IPMANSICS__rollmean24,7.1683223e-07,IPMANSICS,Output and Income,rolling_stat
+CPITRNSL__rollz24,6.91998e-07,CPITRNSL,Prices,rolling_stat
+WPSFD49502__rollz12,6.8355473e-07,WPSFD49502,Prices,rolling_stat
+AWOTMAN__lag3,6.4753385e-07,AWOTMAN,Labor Market,lag
+MANEMP__rollstd24,5.8721855e-07,MANEMP,Labor Market,rolling_stat
+IPFINAL__rollmean6,5.715714e-07,IPFINAL,Output and Income,rolling_stat
+INVEST__rollz24,5.6874865e-07,INVEST,Money and Credit,rolling_stat
+CES2000000008__rollz24,5.63374e-07,CES2000000008,Prices,rolling_stat
+USGOOD__rollmean24,5.36297e-07,USGOOD,Labor Market,rolling_stat
+IPNCONGD__rollz24,5.097426e-07,IPNCONGD,Output and Income,rolling_stat
+USTRADE__rollmean12,4.719186e-07,USTRADE,Labor Market,rolling_stat
+T1YFFM__rollz6,4.6796325e-07,T1YFFM,Interest and Exchange Rates,rolling_stat
+CPIAPPSL__rollz24,4.3792255e-07,CPIAPPSL,Prices,rolling_stat
+CUUR0000SAD__rollmean12,4.2084906e-07,CUUR0000SAD,Prices,rolling_stat
+DTCOLNVHFNM__rollz12,4.175215e-07,DTCOLNVHFNM,Money and Credit,rolling_stat
+TOTRESNS__rollz6,4.1343995e-07,TOTRESNS,Money and Credit,rolling_stat
+PERMITW__rollmean12,3.8982705e-07,PERMITW,Housing,rolling_stat
+UEMPMEAN__lag1,3.8836603e-07,UEMPMEAN,Labor Market,lag
+UEMP27OV__rollz24,3.520927e-07,UEMP27OV,Labor Market,rolling_stat
+SP500__rollz24,3.3295717e-07,SP500,Stock Market,rolling_stat
+AAA__mom3,3.1485865e-07,AAA,Interest and Exchange Rates,momentum
+USFIRE__rollmean12,3.124584e-07,USFIRE,Labor Market,rolling_stat
+GS5__rollmean6,2.9723688e-07,GS5,Interest and Exchange Rates,rolling_stat
+NONBORRES__rollmean12,2.651711e-07,NONBORRES,Money and Credit,rolling_stat
+CUSR0000SA0L5__rollmean24,2.5945363e-07,CUSR0000SA0L5,Prices,rolling_stat
+M2SL__rollz24,2.4375007e-07,M2SL,Money and Credit,rolling_stat
+UEMPLT5__rollz6,2.1873312e-07,UEMPLT5,Labor Market,rolling_stat
+GS5__rollstd24,2.1445285e-07,GS5,Interest and Exchange Rates,rolling_stat
+DNDGRG3M086SBEA__lag9,2.1292759e-07,DNDGRG3M086SBEA,Prices,lag
+OILPRICEx__lag1,1.988215e-07,OILPRICEx,Prices,lag
+USTRADE__rollz6,1.9475912e-07,USTRADE,Labor Market,rolling_stat
+TB6MS__lag12,1.73008e-07,TB6MS,Interest and Exchange Rates,lag
+IPNCONGD__rollz12,1.6364783e-07,IPNCONGD,Output and Income,rolling_stat
+USWTRADE__mom3,1.6268787e-07,USWTRADE,Labor Market,momentum
+OILPRICEx__rollmean6,1.4924416e-07,OILPRICEx,Prices,rolling_stat
+USWTRADE__mom12,1.4371048e-07,USWTRADE,Labor Market,momentum
+USCONS__rollstd6,1.18205776e-07,USCONS,Labor Market,rolling_stat
+UEMPLT5__rollz24,1.1784192e-07,UEMPLT5,Labor Market,rolling_stat
+AWHMAN__rollstd6,9.283238e-08,AWHMAN,Labor Market,rolling_stat
+TB3MS__mom12,8.424813e-08,TB3MS,Interest and Exchange Rates,momentum
+TOTRESNS__rollz24,8.302941e-08,TOTRESNS,Money and Credit,rolling_stat
+CES0600000008__rollmean6,7.9616115e-08,CES0600000008,Prices,rolling_stat
+USGOOD__rollstd24,7.647283e-08,USGOOD,Labor Market,rolling_stat
+CES0600000008__rollmean24,5.2517944e-08,CES0600000008,Prices,rolling_stat
+INDPRO__drawdown36,4.040113e-08,INDPRO,Output and Income,drawdown
+HOUSTS__rollstd12,3.704835e-08,HOUSTS,Housing,rolling_stat
+IPBUSEQ__rollmean12,2.2270056e-08,IPBUSEQ,Output and Income,rolling_stat
+CUSR0000SAC__lag1,1.0153764e-08,CUSR0000SAC,Prices,lag
+M2SL__rollz12,1.9897013e-09,M2SL,Money and Credit,rolling_stat
+AWOTMAN__lag12,0.0,AWOTMAN,Labor Market,lag
+UNRATE__lag12,0.0,UNRATE,Labor Market,lag
+MANEMP__rollmean24,0.0,MANEMP,Labor Market,rolling_stat
+USGOOD__rollmean6,0.0,USGOOD,Labor Market,rolling_stat
+PAYEMS__rollmean12,0.0,PAYEMS,Labor Market,rolling_stat
+IPDMAT__rollmean12,0.0,IPDMAT,Output and Income,rolling_stat
+WPSFD49502__lag1,0.0,WPSFD49502,Prices,lag
+AAA__lag9,0.0,AAA,Interest and Exchange Rates,lag
+IPMAT__rollmean12,0.0,IPMAT,Output and Income,rolling_stat
+AWHMAN__rollmean6,0.0,AWHMAN,Labor Market,rolling_stat
+CUMFNS__rollmean12,0.0,CUMFNS,Output and Income,rolling_stat
+USGOOD__mom12,0.0,USGOOD,Labor Market,momentum
+IPMANSICS__rollmean12,0.0,IPMANSICS,Output and Income,rolling_stat
+PAYEMS__drawdown36,0.0,PAYEMS,Labor Market,drawdown
+W875RX1__rollmean6,0.0,W875RX1,Output and Income,rolling_stat
+CLF16OV__rollmean12,0.0,CLF16OV,Labor Market,rolling_stat
+CLF16OV__rollz24,0.0,CLF16OV,Labor Market,rolling_stat
+CUMFNS__rollstd24,0.0,CUMFNS,Output and Income,rolling_stat
+USWTRADE__rollmean12,0.0,USWTRADE,Labor Market,rolling_stat
+IPMAT__mom12,0.0,IPMAT,Output and Income,momentum
+IPDMAT__mom12,0.0,IPDMAT,Output and Income,momentum
+GS5__mom6,0.0,GS5,Interest and Exchange Rates,momentum
+T1YFFM__mom12,0.0,T1YFFM,Interest and Exchange Rates,momentum
+IPFPNSS__rollmean12,0.0,IPFPNSS,Output and Income,rolling_stat
+INDPRO__rollmean12,0.0,INDPRO,Output and Income,rolling_stat
+SRVPRD__rollmean12,0.0,SRVPRD,Labor Market,rolling_stat
+DMANEMP__rollmean12,0.0,DMANEMP,Labor Market,rolling_stat
+NDMANEMP__rollmean12,0.0,NDMANEMP,Labor Market,rolling_stat
+SRVPRD__rollmean6,0.0,SRVPRD,Labor Market,rolling_stat
+IPMANSICS__mom12,0.0,IPMANSICS,Output and Income,momentum
+USGOOD__rollmean12,0.0,USGOOD,Labor Market,rolling_stat
+CUUR0000SA0L2__lag12,0.0,CUUR0000SA0L2,Prices,lag
+CUSR0000SA0L5__lag1,0.0,CUSR0000SA0L5,Prices,lag
+PERMIT__rollstd24,0.0,PERMIT,Housing,rolling_stat
+CUSR0000SA0L5__rollz24,0.0,CUSR0000SA0L5,Prices,rolling_stat
+PCEPI__rollz6,0.0,PCEPI,Prices,rolling_stat
+PAYEMS__drawdown60,0.0,PAYEMS,Labor Market,drawdown
