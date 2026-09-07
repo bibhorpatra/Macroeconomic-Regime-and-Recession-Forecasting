@@ -1,0 +1,1881 @@
+feature,source_series,group,feat_type
+RPI__base,RPI,Output and Income,base
+W875RX1__base,W875RX1,Output and Income,base
+INDPRO__base,INDPRO,Output and Income,base
+IPFPNSS__base,IPFPNSS,Output and Income,base
+IPFINAL__base,IPFINAL,Output and Income,base
+IPCONGD__base,IPCONGD,Output and Income,base
+IPDCONGD__base,IPDCONGD,Output and Income,base
+IPNCONGD__base,IPNCONGD,Output and Income,base
+IPBUSEQ__base,IPBUSEQ,Output and Income,base
+IPMAT__base,IPMAT,Output and Income,base
+IPDMAT__base,IPDMAT,Output and Income,base
+IPNMAT__base,IPNMAT,Output and Income,base
+IPMANSICS__base,IPMANSICS,Output and Income,base
+IPB51222S__base,IPB51222S,Output and Income,base
+IPFUELS__base,IPFUELS,Output and Income,base
+CUMFNS__base,CUMFNS,Output and Income,base
+CLF16OV__base,CLF16OV,Labor Market,base
+CE16OV__base,CE16OV,Labor Market,base
+UNRATE__base,UNRATE,Labor Market,base
+UEMPMEAN__base,UEMPMEAN,Labor Market,base
+UEMPLT5__base,UEMPLT5,Labor Market,base
+UEMP5TO14__base,UEMP5TO14,Labor Market,base
+UEMP15OV__base,UEMP15OV,Labor Market,base
+UEMP15T26__base,UEMP15T26,Labor Market,base
+UEMP27OV__base,UEMP27OV,Labor Market,base
+PAYEMS__base,PAYEMS,Labor Market,base
+USGOOD__base,USGOOD,Labor Market,base
+CES1021000001__base,CES1021000001,Labor Market,base
+USCONS__base,USCONS,Labor Market,base
+MANEMP__base,MANEMP,Labor Market,base
+DMANEMP__base,DMANEMP,Labor Market,base
+NDMANEMP__base,NDMANEMP,Labor Market,base
+SRVPRD__base,SRVPRD,Labor Market,base
+USTPU__base,USTPU,Labor Market,base
+USWTRADE__base,USWTRADE,Labor Market,base
+USTRADE__base,USTRADE,Labor Market,base
+USFIRE__base,USFIRE,Labor Market,base
+USGOVT__base,USGOVT,Labor Market,base
+CES0600000007__base,CES0600000007,Labor Market,base
+AWOTMAN__base,AWOTMAN,Labor Market,base
+AWHMAN__base,AWHMAN,Labor Market,base
+HOUST__base,HOUST,Housing,base
+HOUSTNE__base,HOUSTNE,Housing,base
+HOUSTMW__base,HOUSTMW,Housing,base
+HOUSTS__base,HOUSTS,Housing,base
+HOUSTW__base,HOUSTW,Housing,base
+PERMIT__base,PERMIT,Housing,base
+PERMITNE__base,PERMITNE,Housing,base
+PERMITMW__base,PERMITMW,Housing,base
+PERMITS__base,PERMITS,Housing,base
+PERMITW__base,PERMITW,Housing,base
+DPCERA3M086SBEA__base,DPCERA3M086SBEA,"Consumption, Orders and Inventories",base
+M1SL__base,M1SL,Money and Credit,base
+M2SL__base,M2SL,Money and Credit,base
+M2REAL__base,M2REAL,Money and Credit,base
+TOTRESNS__base,TOTRESNS,Money and Credit,base
+NONBORRES__base,NONBORRES,Money and Credit,base
+BUSLOANS__base,BUSLOANS,Money and Credit,base
+REALLN__base,REALLN,Money and Credit,base
+NONREVSL__base,NONREVSL,Money and Credit,base
+DTCOLNVHFNM__base,DTCOLNVHFNM,Money and Credit,base
+DTCTHFNM__base,DTCTHFNM,Money and Credit,base
+INVEST__base,INVEST,Money and Credit,base
+FEDFUNDS__base,FEDFUNDS,Interest and Exchange Rates,base
+TB3MS__base,TB3MS,Interest and Exchange Rates,base
+TB6MS__base,TB6MS,Interest and Exchange Rates,base
+GS1__base,GS1,Interest and Exchange Rates,base
+GS5__base,GS5,Interest and Exchange Rates,base
+GS10__base,GS10,Interest and Exchange Rates,base
+AAA__base,AAA,Interest and Exchange Rates,base
+BAA__base,BAA,Interest and Exchange Rates,base
+WPSFD49207__base,WPSFD49207,Prices,base
+WPSFD49502__base,WPSFD49502,Prices,base
+WPSID61__base,WPSID61,Prices,base
+WPSID62__base,WPSID62,Prices,base
+OILPRICEx__base,OILPRICEx,Prices,base
+PPICMM__base,PPICMM,Prices,base
+CPIAUCSL__base,CPIAUCSL,Prices,base
+CPIAPPSL__base,CPIAPPSL,Prices,base
+CPITRNSL__base,CPITRNSL,Prices,base
+CPIMEDSL__base,CPIMEDSL,Prices,base
+CUSR0000SAC__base,CUSR0000SAC,Prices,base
+CUUR0000SAD__base,CUUR0000SAD,Prices,base
+CUSR0000SAS__base,CUSR0000SAS,Prices,base
+CPIULFSL__base,CPIULFSL,Prices,base
+CUUR0000SA0L2__base,CUUR0000SA0L2,Prices,base
+CUSR0000SA0L5__base,CUSR0000SA0L5,Prices,base
+PCEPI__base,PCEPI,Prices,base
+DDURRG3M086SBEA__base,DDURRG3M086SBEA,Prices,base
+DNDGRG3M086SBEA__base,DNDGRG3M086SBEA,Prices,base
+DSERRG3M086SBEA__base,DSERRG3M086SBEA,Prices,base
+CES0600000008__base,CES0600000008,Prices,base
+CES2000000008__base,CES2000000008,Prices,base
+CES3000000008__base,CES3000000008,Prices,base
+CONSPI__base,CONSPI,Money and Credit,base
+TB3SMFFM__base,TB3SMFFM,Interest and Exchange Rates,base
+TB6SMFFM__base,TB6SMFFM,Interest and Exchange Rates,base
+T1YFFM__base,T1YFFM,Interest and Exchange Rates,base
+T5YFFM__base,T5YFFM,Interest and Exchange Rates,base
+T10YFFM__base,T10YFFM,Interest and Exchange Rates,base
+AAAFFM__base,AAAFFM,Interest and Exchange Rates,base
+BAAFFM__base,BAAFFM,Interest and Exchange Rates,base
+SP500__base,SP500,Stock Market,base
+RPI__lag1,RPI,Output and Income,lag
+RPI__lag3,RPI,Output and Income,lag
+RPI__lag6,RPI,Output and Income,lag
+RPI__lag9,RPI,Output and Income,lag
+RPI__lag12,RPI,Output and Income,lag
+W875RX1__lag1,W875RX1,Output and Income,lag
+W875RX1__lag3,W875RX1,Output and Income,lag
+W875RX1__lag6,W875RX1,Output and Income,lag
+W875RX1__lag9,W875RX1,Output and Income,lag
+W875RX1__lag12,W875RX1,Output and Income,lag
+INDPRO__lag1,INDPRO,Output and Income,lag
+INDPRO__lag3,INDPRO,Output and Income,lag
+INDPRO__lag6,INDPRO,Output and Income,lag
+INDPRO__lag9,INDPRO,Output and Income,lag
+INDPRO__lag12,INDPRO,Output and Income,lag
+IPFPNSS__lag1,IPFPNSS,Output and Income,lag
+IPFPNSS__lag3,IPFPNSS,Output and Income,lag
+IPFPNSS__lag6,IPFPNSS,Output and Income,lag
+IPFPNSS__lag9,IPFPNSS,Output and Income,lag
+IPFPNSS__lag12,IPFPNSS,Output and Income,lag
+IPFINAL__lag1,IPFINAL,Output and Income,lag
+IPFINAL__lag3,IPFINAL,Output and Income,lag
+IPFINAL__lag6,IPFINAL,Output and Income,lag
+IPFINAL__lag9,IPFINAL,Output and Income,lag
+IPFINAL__lag12,IPFINAL,Output and Income,lag
+IPCONGD__lag1,IPCONGD,Output and Income,lag
+IPCONGD__lag3,IPCONGD,Output and Income,lag
+IPCONGD__lag6,IPCONGD,Output and Income,lag
+IPCONGD__lag9,IPCONGD,Output and Income,lag
+IPCONGD__lag12,IPCONGD,Output and Income,lag
+IPDCONGD__lag1,IPDCONGD,Output and Income,lag
+IPDCONGD__lag3,IPDCONGD,Output and Income,lag
+IPDCONGD__lag6,IPDCONGD,Output and Income,lag
+IPDCONGD__lag9,IPDCONGD,Output and Income,lag
+IPDCONGD__lag12,IPDCONGD,Output and Income,lag
+IPNCONGD__lag1,IPNCONGD,Output and Income,lag
+IPNCONGD__lag3,IPNCONGD,Output and Income,lag
+IPNCONGD__lag6,IPNCONGD,Output and Income,lag
+IPNCONGD__lag9,IPNCONGD,Output and Income,lag
+IPNCONGD__lag12,IPNCONGD,Output and Income,lag
+IPBUSEQ__lag1,IPBUSEQ,Output and Income,lag
+IPBUSEQ__lag3,IPBUSEQ,Output and Income,lag
+IPBUSEQ__lag6,IPBUSEQ,Output and Income,lag
+IPBUSEQ__lag9,IPBUSEQ,Output and Income,lag
+IPBUSEQ__lag12,IPBUSEQ,Output and Income,lag
+IPMAT__lag1,IPMAT,Output and Income,lag
+IPMAT__lag3,IPMAT,Output and Income,lag
+IPMAT__lag6,IPMAT,Output and Income,lag
+IPMAT__lag9,IPMAT,Output and Income,lag
+IPMAT__lag12,IPMAT,Output and Income,lag
+IPDMAT__lag1,IPDMAT,Output and Income,lag
+IPDMAT__lag3,IPDMAT,Output and Income,lag
+IPDMAT__lag6,IPDMAT,Output and Income,lag
+IPDMAT__lag9,IPDMAT,Output and Income,lag
+IPDMAT__lag12,IPDMAT,Output and Income,lag
+IPNMAT__lag1,IPNMAT,Output and Income,lag
+IPNMAT__lag3,IPNMAT,Output and Income,lag
+IPNMAT__lag6,IPNMAT,Output and Income,lag
+IPNMAT__lag9,IPNMAT,Output and Income,lag
+IPNMAT__lag12,IPNMAT,Output and Income,lag
+IPMANSICS__lag1,IPMANSICS,Output and Income,lag
+IPMANSICS__lag3,IPMANSICS,Output and Income,lag
+IPMANSICS__lag6,IPMANSICS,Output and Income,lag
+IPMANSICS__lag9,IPMANSICS,Output and Income,lag
+IPMANSICS__lag12,IPMANSICS,Output and Income,lag
+IPB51222S__lag1,IPB51222S,Output and Income,lag
+IPB51222S__lag3,IPB51222S,Output and Income,lag
+IPB51222S__lag6,IPB51222S,Output and Income,lag
+IPB51222S__lag9,IPB51222S,Output and Income,lag
+IPB51222S__lag12,IPB51222S,Output and Income,lag
+IPFUELS__lag1,IPFUELS,Output and Income,lag
+IPFUELS__lag3,IPFUELS,Output and Income,lag
+IPFUELS__lag6,IPFUELS,Output and Income,lag
+IPFUELS__lag9,IPFUELS,Output and Income,lag
+IPFUELS__lag12,IPFUELS,Output and Income,lag
+CUMFNS__lag1,CUMFNS,Output and Income,lag
+CUMFNS__lag3,CUMFNS,Output and Income,lag
+CUMFNS__lag6,CUMFNS,Output and Income,lag
+CUMFNS__lag9,CUMFNS,Output and Income,lag
+CUMFNS__lag12,CUMFNS,Output and Income,lag
+CLF16OV__lag1,CLF16OV,Labor Market,lag
+CLF16OV__lag3,CLF16OV,Labor Market,lag
+CLF16OV__lag6,CLF16OV,Labor Market,lag
+CLF16OV__lag9,CLF16OV,Labor Market,lag
+CLF16OV__lag12,CLF16OV,Labor Market,lag
+CE16OV__lag1,CE16OV,Labor Market,lag
+CE16OV__lag3,CE16OV,Labor Market,lag
+CE16OV__lag6,CE16OV,Labor Market,lag
+CE16OV__lag9,CE16OV,Labor Market,lag
+CE16OV__lag12,CE16OV,Labor Market,lag
+UNRATE__lag1,UNRATE,Labor Market,lag
+UNRATE__lag3,UNRATE,Labor Market,lag
+UNRATE__lag6,UNRATE,Labor Market,lag
+UNRATE__lag9,UNRATE,Labor Market,lag
+UNRATE__lag12,UNRATE,Labor Market,lag
+UEMPMEAN__lag1,UEMPMEAN,Labor Market,lag
+UEMPMEAN__lag3,UEMPMEAN,Labor Market,lag
+UEMPMEAN__lag6,UEMPMEAN,Labor Market,lag
+UEMPMEAN__lag9,UEMPMEAN,Labor Market,lag
+UEMPMEAN__lag12,UEMPMEAN,Labor Market,lag
+UEMPLT5__lag1,UEMPLT5,Labor Market,lag
+UEMPLT5__lag3,UEMPLT5,Labor Market,lag
+UEMPLT5__lag6,UEMPLT5,Labor Market,lag
+UEMPLT5__lag9,UEMPLT5,Labor Market,lag
+UEMPLT5__lag12,UEMPLT5,Labor Market,lag
+UEMP5TO14__lag1,UEMP5TO14,Labor Market,lag
+UEMP5TO14__lag3,UEMP5TO14,Labor Market,lag
+UEMP5TO14__lag6,UEMP5TO14,Labor Market,lag
+UEMP5TO14__lag9,UEMP5TO14,Labor Market,lag
+UEMP5TO14__lag12,UEMP5TO14,Labor Market,lag
+UEMP15OV__lag1,UEMP15OV,Labor Market,lag
+UEMP15OV__lag3,UEMP15OV,Labor Market,lag
+UEMP15OV__lag6,UEMP15OV,Labor Market,lag
+UEMP15OV__lag9,UEMP15OV,Labor Market,lag
+UEMP15OV__lag12,UEMP15OV,Labor Market,lag
+UEMP15T26__lag1,UEMP15T26,Labor Market,lag
+UEMP15T26__lag3,UEMP15T26,Labor Market,lag
+UEMP15T26__lag6,UEMP15T26,Labor Market,lag
+UEMP15T26__lag9,UEMP15T26,Labor Market,lag
+UEMP15T26__lag12,UEMP15T26,Labor Market,lag
+UEMP27OV__lag1,UEMP27OV,Labor Market,lag
+UEMP27OV__lag3,UEMP27OV,Labor Market,lag
+UEMP27OV__lag6,UEMP27OV,Labor Market,lag
+UEMP27OV__lag9,UEMP27OV,Labor Market,lag
+UEMP27OV__lag12,UEMP27OV,Labor Market,lag
+PAYEMS__lag1,PAYEMS,Labor Market,lag
+PAYEMS__lag3,PAYEMS,Labor Market,lag
+PAYEMS__lag6,PAYEMS,Labor Market,lag
+PAYEMS__lag9,PAYEMS,Labor Market,lag
+PAYEMS__lag12,PAYEMS,Labor Market,lag
+USGOOD__lag1,USGOOD,Labor Market,lag
+USGOOD__lag3,USGOOD,Labor Market,lag
+USGOOD__lag6,USGOOD,Labor Market,lag
+USGOOD__lag9,USGOOD,Labor Market,lag
+USGOOD__lag12,USGOOD,Labor Market,lag
+CES1021000001__lag1,CES1021000001,Labor Market,lag
+CES1021000001__lag3,CES1021000001,Labor Market,lag
+CES1021000001__lag6,CES1021000001,Labor Market,lag
+CES1021000001__lag9,CES1021000001,Labor Market,lag
+CES1021000001__lag12,CES1021000001,Labor Market,lag
+USCONS__lag1,USCONS,Labor Market,lag
+USCONS__lag3,USCONS,Labor Market,lag
+USCONS__lag6,USCONS,Labor Market,lag
+USCONS__lag9,USCONS,Labor Market,lag
+USCONS__lag12,USCONS,Labor Market,lag
+MANEMP__lag1,MANEMP,Labor Market,lag
+MANEMP__lag3,MANEMP,Labor Market,lag
+MANEMP__lag6,MANEMP,Labor Market,lag
+MANEMP__lag9,MANEMP,Labor Market,lag
+MANEMP__lag12,MANEMP,Labor Market,lag
+DMANEMP__lag1,DMANEMP,Labor Market,lag
+DMANEMP__lag3,DMANEMP,Labor Market,lag
+DMANEMP__lag6,DMANEMP,Labor Market,lag
+DMANEMP__lag9,DMANEMP,Labor Market,lag
+DMANEMP__lag12,DMANEMP,Labor Market,lag
+NDMANEMP__lag1,NDMANEMP,Labor Market,lag
+NDMANEMP__lag3,NDMANEMP,Labor Market,lag
+NDMANEMP__lag6,NDMANEMP,Labor Market,lag
+NDMANEMP__lag9,NDMANEMP,Labor Market,lag
+NDMANEMP__lag12,NDMANEMP,Labor Market,lag
+SRVPRD__lag1,SRVPRD,Labor Market,lag
+SRVPRD__lag3,SRVPRD,Labor Market,lag
+SRVPRD__lag6,SRVPRD,Labor Market,lag
+SRVPRD__lag9,SRVPRD,Labor Market,lag
+SRVPRD__lag12,SRVPRD,Labor Market,lag
+USTPU__lag1,USTPU,Labor Market,lag
+USTPU__lag3,USTPU,Labor Market,lag
+USTPU__lag6,USTPU,Labor Market,lag
+USTPU__lag9,USTPU,Labor Market,lag
+USTPU__lag12,USTPU,Labor Market,lag
+USWTRADE__lag1,USWTRADE,Labor Market,lag
+USWTRADE__lag3,USWTRADE,Labor Market,lag
+USWTRADE__lag6,USWTRADE,Labor Market,lag
+USWTRADE__lag9,USWTRADE,Labor Market,lag
+USWTRADE__lag12,USWTRADE,Labor Market,lag
+USTRADE__lag1,USTRADE,Labor Market,lag
+USTRADE__lag3,USTRADE,Labor Market,lag
+USTRADE__lag6,USTRADE,Labor Market,lag
+USTRADE__lag9,USTRADE,Labor Market,lag
+USTRADE__lag12,USTRADE,Labor Market,lag
+USFIRE__lag1,USFIRE,Labor Market,lag
+USFIRE__lag3,USFIRE,Labor Market,lag
+USFIRE__lag6,USFIRE,Labor Market,lag
+USFIRE__lag9,USFIRE,Labor Market,lag
+USFIRE__lag12,USFIRE,Labor Market,lag
+USGOVT__lag1,USGOVT,Labor Market,lag
+USGOVT__lag3,USGOVT,Labor Market,lag
+USGOVT__lag6,USGOVT,Labor Market,lag
+USGOVT__lag9,USGOVT,Labor Market,lag
+USGOVT__lag12,USGOVT,Labor Market,lag
+CES0600000007__lag1,CES0600000007,Labor Market,lag
+CES0600000007__lag3,CES0600000007,Labor Market,lag
+CES0600000007__lag6,CES0600000007,Labor Market,lag
+CES0600000007__lag9,CES0600000007,Labor Market,lag
+CES0600000007__lag12,CES0600000007,Labor Market,lag
+AWOTMAN__lag1,AWOTMAN,Labor Market,lag
+AWOTMAN__lag3,AWOTMAN,Labor Market,lag
+AWOTMAN__lag6,AWOTMAN,Labor Market,lag
+AWOTMAN__lag9,AWOTMAN,Labor Market,lag
+AWOTMAN__lag12,AWOTMAN,Labor Market,lag
+AWHMAN__lag1,AWHMAN,Labor Market,lag
+AWHMAN__lag3,AWHMAN,Labor Market,lag
+AWHMAN__lag6,AWHMAN,Labor Market,lag
+AWHMAN__lag9,AWHMAN,Labor Market,lag
+AWHMAN__lag12,AWHMAN,Labor Market,lag
+HOUST__lag1,HOUST,Housing,lag
+HOUST__lag3,HOUST,Housing,lag
+HOUST__lag6,HOUST,Housing,lag
+HOUST__lag9,HOUST,Housing,lag
+HOUST__lag12,HOUST,Housing,lag
+HOUSTNE__lag1,HOUSTNE,Housing,lag
+HOUSTNE__lag3,HOUSTNE,Housing,lag
+HOUSTNE__lag6,HOUSTNE,Housing,lag
+HOUSTNE__lag9,HOUSTNE,Housing,lag
+HOUSTNE__lag12,HOUSTNE,Housing,lag
+HOUSTMW__lag1,HOUSTMW,Housing,lag
+HOUSTMW__lag3,HOUSTMW,Housing,lag
+HOUSTMW__lag6,HOUSTMW,Housing,lag
+HOUSTMW__lag9,HOUSTMW,Housing,lag
+HOUSTMW__lag12,HOUSTMW,Housing,lag
+HOUSTS__lag1,HOUSTS,Housing,lag
+HOUSTS__lag3,HOUSTS,Housing,lag
+HOUSTS__lag6,HOUSTS,Housing,lag
+HOUSTS__lag9,HOUSTS,Housing,lag
+HOUSTS__lag12,HOUSTS,Housing,lag
+HOUSTW__lag1,HOUSTW,Housing,lag
+HOUSTW__lag3,HOUSTW,Housing,lag
+HOUSTW__lag6,HOUSTW,Housing,lag
+HOUSTW__lag9,HOUSTW,Housing,lag
+HOUSTW__lag12,HOUSTW,Housing,lag
+PERMIT__lag1,PERMIT,Housing,lag
+PERMIT__lag3,PERMIT,Housing,lag
+PERMIT__lag6,PERMIT,Housing,lag
+PERMIT__lag9,PERMIT,Housing,lag
+PERMIT__lag12,PERMIT,Housing,lag
+PERMITNE__lag1,PERMITNE,Housing,lag
+PERMITNE__lag3,PERMITNE,Housing,lag
+PERMITNE__lag6,PERMITNE,Housing,lag
+PERMITNE__lag9,PERMITNE,Housing,lag
+PERMITNE__lag12,PERMITNE,Housing,lag
+PERMITMW__lag1,PERMITMW,Housing,lag
+PERMITMW__lag3,PERMITMW,Housing,lag
+PERMITMW__lag6,PERMITMW,Housing,lag
+PERMITMW__lag9,PERMITMW,Housing,lag
+PERMITMW__lag12,PERMITMW,Housing,lag
+PERMITS__lag1,PERMITS,Housing,lag
+PERMITS__lag3,PERMITS,Housing,lag
+PERMITS__lag6,PERMITS,Housing,lag
+PERMITS__lag9,PERMITS,Housing,lag
+PERMITS__lag12,PERMITS,Housing,lag
+PERMITW__lag1,PERMITW,Housing,lag
+PERMITW__lag3,PERMITW,Housing,lag
+PERMITW__lag6,PERMITW,Housing,lag
+PERMITW__lag9,PERMITW,Housing,lag
+PERMITW__lag12,PERMITW,Housing,lag
+DPCERA3M086SBEA__lag1,DPCERA3M086SBEA,"Consumption, Orders and Inventories",lag
+DPCERA3M086SBEA__lag3,DPCERA3M086SBEA,"Consumption, Orders and Inventories",lag
+DPCERA3M086SBEA__lag6,DPCERA3M086SBEA,"Consumption, Orders and Inventories",lag
+DPCERA3M086SBEA__lag9,DPCERA3M086SBEA,"Consumption, Orders and Inventories",lag
+DPCERA3M086SBEA__lag12,DPCERA3M086SBEA,"Consumption, Orders and Inventories",lag
+M1SL__lag1,M1SL,Money and Credit,lag
+M1SL__lag3,M1SL,Money and Credit,lag
+M1SL__lag6,M1SL,Money and Credit,lag
+M1SL__lag9,M1SL,Money and Credit,lag
+M1SL__lag12,M1SL,Money and Credit,lag
+M2SL__lag1,M2SL,Money and Credit,lag
+M2SL__lag3,M2SL,Money and Credit,lag
+M2SL__lag6,M2SL,Money and Credit,lag
+M2SL__lag9,M2SL,Money and Credit,lag
+M2SL__lag12,M2SL,Money and Credit,lag
+M2REAL__lag1,M2REAL,Money and Credit,lag
+M2REAL__lag3,M2REAL,Money and Credit,lag
+M2REAL__lag6,M2REAL,Money and Credit,lag
+M2REAL__lag9,M2REAL,Money and Credit,lag
+M2REAL__lag12,M2REAL,Money and Credit,lag
+TOTRESNS__lag1,TOTRESNS,Money and Credit,lag
+TOTRESNS__lag3,TOTRESNS,Money and Credit,lag
+TOTRESNS__lag6,TOTRESNS,Money and Credit,lag
+TOTRESNS__lag9,TOTRESNS,Money and Credit,lag
+TOTRESNS__lag12,TOTRESNS,Money and Credit,lag
+NONBORRES__lag1,NONBORRES,Money and Credit,lag
+NONBORRES__lag3,NONBORRES,Money and Credit,lag
+NONBORRES__lag6,NONBORRES,Money and Credit,lag
+NONBORRES__lag9,NONBORRES,Money and Credit,lag
+NONBORRES__lag12,NONBORRES,Money and Credit,lag
+BUSLOANS__lag1,BUSLOANS,Money and Credit,lag
+BUSLOANS__lag3,BUSLOANS,Money and Credit,lag
+BUSLOANS__lag6,BUSLOANS,Money and Credit,lag
+BUSLOANS__lag9,BUSLOANS,Money and Credit,lag
+BUSLOANS__lag12,BUSLOANS,Money and Credit,lag
+REALLN__lag1,REALLN,Money and Credit,lag
+REALLN__lag3,REALLN,Money and Credit,lag
+REALLN__lag6,REALLN,Money and Credit,lag
+REALLN__lag9,REALLN,Money and Credit,lag
+REALLN__lag12,REALLN,Money and Credit,lag
+NONREVSL__lag1,NONREVSL,Money and Credit,lag
+NONREVSL__lag3,NONREVSL,Money and Credit,lag
+NONREVSL__lag6,NONREVSL,Money and Credit,lag
+NONREVSL__lag9,NONREVSL,Money and Credit,lag
+NONREVSL__lag12,NONREVSL,Money and Credit,lag
+DTCOLNVHFNM__lag1,DTCOLNVHFNM,Money and Credit,lag
+DTCOLNVHFNM__lag3,DTCOLNVHFNM,Money and Credit,lag
+DTCOLNVHFNM__lag6,DTCOLNVHFNM,Money and Credit,lag
+DTCOLNVHFNM__lag9,DTCOLNVHFNM,Money and Credit,lag
+DTCOLNVHFNM__lag12,DTCOLNVHFNM,Money and Credit,lag
+DTCTHFNM__lag1,DTCTHFNM,Money and Credit,lag
+DTCTHFNM__lag3,DTCTHFNM,Money and Credit,lag
+DTCTHFNM__lag6,DTCTHFNM,Money and Credit,lag
+DTCTHFNM__lag9,DTCTHFNM,Money and Credit,lag
+DTCTHFNM__lag12,DTCTHFNM,Money and Credit,lag
+INVEST__lag1,INVEST,Money and Credit,lag
+INVEST__lag3,INVEST,Money and Credit,lag
+INVEST__lag6,INVEST,Money and Credit,lag
+INVEST__lag9,INVEST,Money and Credit,lag
+INVEST__lag12,INVEST,Money and Credit,lag
+FEDFUNDS__lag1,FEDFUNDS,Interest and Exchange Rates,lag
+FEDFUNDS__lag3,FEDFUNDS,Interest and Exchange Rates,lag
+FEDFUNDS__lag6,FEDFUNDS,Interest and Exchange Rates,lag
+FEDFUNDS__lag9,FEDFUNDS,Interest and Exchange Rates,lag
+FEDFUNDS__lag12,FEDFUNDS,Interest and Exchange Rates,lag
+TB3MS__lag1,TB3MS,Interest and Exchange Rates,lag
+TB3MS__lag3,TB3MS,Interest and Exchange Rates,lag
+TB3MS__lag6,TB3MS,Interest and Exchange Rates,lag
+TB3MS__lag9,TB3MS,Interest and Exchange Rates,lag
+TB3MS__lag12,TB3MS,Interest and Exchange Rates,lag
+TB6MS__lag1,TB6MS,Interest and Exchange Rates,lag
+TB6MS__lag3,TB6MS,Interest and Exchange Rates,lag
+TB6MS__lag6,TB6MS,Interest and Exchange Rates,lag
+TB6MS__lag9,TB6MS,Interest and Exchange Rates,lag
+TB6MS__lag12,TB6MS,Interest and Exchange Rates,lag
+GS1__lag1,GS1,Interest and Exchange Rates,lag
+GS1__lag3,GS1,Interest and Exchange Rates,lag
+GS1__lag6,GS1,Interest and Exchange Rates,lag
+GS1__lag9,GS1,Interest and Exchange Rates,lag
+GS1__lag12,GS1,Interest and Exchange Rates,lag
+GS5__lag1,GS5,Interest and Exchange Rates,lag
+GS5__lag3,GS5,Interest and Exchange Rates,lag
+GS5__lag6,GS5,Interest and Exchange Rates,lag
+GS5__lag9,GS5,Interest and Exchange Rates,lag
+GS5__lag12,GS5,Interest and Exchange Rates,lag
+GS10__lag1,GS10,Interest and Exchange Rates,lag
+GS10__lag3,GS10,Interest and Exchange Rates,lag
+GS10__lag6,GS10,Interest and Exchange Rates,lag
+GS10__lag9,GS10,Interest and Exchange Rates,lag
+GS10__lag12,GS10,Interest and Exchange Rates,lag
+AAA__lag1,AAA,Interest and Exchange Rates,lag
+AAA__lag3,AAA,Interest and Exchange Rates,lag
+AAA__lag6,AAA,Interest and Exchange Rates,lag
+AAA__lag9,AAA,Interest and Exchange Rates,lag
+AAA__lag12,AAA,Interest and Exchange Rates,lag
+BAA__lag1,BAA,Interest and Exchange Rates,lag
+BAA__lag3,BAA,Interest and Exchange Rates,lag
+BAA__lag6,BAA,Interest and Exchange Rates,lag
+BAA__lag9,BAA,Interest and Exchange Rates,lag
+BAA__lag12,BAA,Interest and Exchange Rates,lag
+WPSFD49207__lag1,WPSFD49207,Prices,lag
+WPSFD49207__lag3,WPSFD49207,Prices,lag
+WPSFD49207__lag6,WPSFD49207,Prices,lag
+WPSFD49207__lag9,WPSFD49207,Prices,lag
+WPSFD49207__lag12,WPSFD49207,Prices,lag
+WPSFD49502__lag1,WPSFD49502,Prices,lag
+WPSFD49502__lag3,WPSFD49502,Prices,lag
+WPSFD49502__lag6,WPSFD49502,Prices,lag
+WPSFD49502__lag9,WPSFD49502,Prices,lag
+WPSFD49502__lag12,WPSFD49502,Prices,lag
+WPSID61__lag1,WPSID61,Prices,lag
+WPSID61__lag3,WPSID61,Prices,lag
+WPSID61__lag6,WPSID61,Prices,lag
+WPSID61__lag9,WPSID61,Prices,lag
+WPSID61__lag12,WPSID61,Prices,lag
+WPSID62__lag1,WPSID62,Prices,lag
+WPSID62__lag3,WPSID62,Prices,lag
+WPSID62__lag6,WPSID62,Prices,lag
+WPSID62__lag9,WPSID62,Prices,lag
+WPSID62__lag12,WPSID62,Prices,lag
+OILPRICEx__lag1,OILPRICEx,Prices,lag
+OILPRICEx__lag3,OILPRICEx,Prices,lag
+OILPRICEx__lag6,OILPRICEx,Prices,lag
+OILPRICEx__lag9,OILPRICEx,Prices,lag
+OILPRICEx__lag12,OILPRICEx,Prices,lag
+PPICMM__lag1,PPICMM,Prices,lag
+PPICMM__lag3,PPICMM,Prices,lag
+PPICMM__lag6,PPICMM,Prices,lag
+PPICMM__lag9,PPICMM,Prices,lag
+PPICMM__lag12,PPICMM,Prices,lag
+CPIAUCSL__lag1,CPIAUCSL,Prices,lag
+CPIAUCSL__lag3,CPIAUCSL,Prices,lag
+CPIAUCSL__lag6,CPIAUCSL,Prices,lag
+CPIAUCSL__lag9,CPIAUCSL,Prices,lag
+CPIAUCSL__lag12,CPIAUCSL,Prices,lag
+CPIAPPSL__lag1,CPIAPPSL,Prices,lag
+CPIAPPSL__lag3,CPIAPPSL,Prices,lag
+CPIAPPSL__lag6,CPIAPPSL,Prices,lag
+CPIAPPSL__lag9,CPIAPPSL,Prices,lag
+CPIAPPSL__lag12,CPIAPPSL,Prices,lag
+CPITRNSL__lag1,CPITRNSL,Prices,lag
+CPITRNSL__lag3,CPITRNSL,Prices,lag
+CPITRNSL__lag6,CPITRNSL,Prices,lag
+CPITRNSL__lag9,CPITRNSL,Prices,lag
+CPITRNSL__lag12,CPITRNSL,Prices,lag
+CPIMEDSL__lag1,CPIMEDSL,Prices,lag
+CPIMEDSL__lag3,CPIMEDSL,Prices,lag
+CPIMEDSL__lag6,CPIMEDSL,Prices,lag
+CPIMEDSL__lag9,CPIMEDSL,Prices,lag
+CPIMEDSL__lag12,CPIMEDSL,Prices,lag
+CUSR0000SAC__lag1,CUSR0000SAC,Prices,lag
+CUSR0000SAC__lag3,CUSR0000SAC,Prices,lag
+CUSR0000SAC__lag6,CUSR0000SAC,Prices,lag
+CUSR0000SAC__lag9,CUSR0000SAC,Prices,lag
+CUSR0000SAC__lag12,CUSR0000SAC,Prices,lag
+CUUR0000SAD__lag1,CUUR0000SAD,Prices,lag
+CUUR0000SAD__lag3,CUUR0000SAD,Prices,lag
+CUUR0000SAD__lag6,CUUR0000SAD,Prices,lag
+CUUR0000SAD__lag9,CUUR0000SAD,Prices,lag
+CUUR0000SAD__lag12,CUUR0000SAD,Prices,lag
+CUSR0000SAS__lag1,CUSR0000SAS,Prices,lag
+CUSR0000SAS__lag3,CUSR0000SAS,Prices,lag
+CUSR0000SAS__lag6,CUSR0000SAS,Prices,lag
+CUSR0000SAS__lag9,CUSR0000SAS,Prices,lag
+CUSR0000SAS__lag12,CUSR0000SAS,Prices,lag
+CPIULFSL__lag1,CPIULFSL,Prices,lag
+CPIULFSL__lag3,CPIULFSL,Prices,lag
+CPIULFSL__lag6,CPIULFSL,Prices,lag
+CPIULFSL__lag9,CPIULFSL,Prices,lag
+CPIULFSL__lag12,CPIULFSL,Prices,lag
+CUUR0000SA0L2__lag1,CUUR0000SA0L2,Prices,lag
+CUUR0000SA0L2__lag3,CUUR0000SA0L2,Prices,lag
+CUUR0000SA0L2__lag6,CUUR0000SA0L2,Prices,lag
+CUUR0000SA0L2__lag9,CUUR0000SA0L2,Prices,lag
+CUUR0000SA0L2__lag12,CUUR0000SA0L2,Prices,lag
+CUSR0000SA0L5__lag1,CUSR0000SA0L5,Prices,lag
+CUSR0000SA0L5__lag3,CUSR0000SA0L5,Prices,lag
+CUSR0000SA0L5__lag6,CUSR0000SA0L5,Prices,lag
+CUSR0000SA0L5__lag9,CUSR0000SA0L5,Prices,lag
+CUSR0000SA0L5__lag12,CUSR0000SA0L5,Prices,lag
+PCEPI__lag1,PCEPI,Prices,lag
+PCEPI__lag3,PCEPI,Prices,lag
+PCEPI__lag6,PCEPI,Prices,lag
+PCEPI__lag9,PCEPI,Prices,lag
+PCEPI__lag12,PCEPI,Prices,lag
+DDURRG3M086SBEA__lag1,DDURRG3M086SBEA,Prices,lag
+DDURRG3M086SBEA__lag3,DDURRG3M086SBEA,Prices,lag
+DDURRG3M086SBEA__lag6,DDURRG3M086SBEA,Prices,lag
+DDURRG3M086SBEA__lag9,DDURRG3M086SBEA,Prices,lag
+DDURRG3M086SBEA__lag12,DDURRG3M086SBEA,Prices,lag
+DNDGRG3M086SBEA__lag1,DNDGRG3M086SBEA,Prices,lag
+DNDGRG3M086SBEA__lag3,DNDGRG3M086SBEA,Prices,lag
+DNDGRG3M086SBEA__lag6,DNDGRG3M086SBEA,Prices,lag
+DNDGRG3M086SBEA__lag9,DNDGRG3M086SBEA,Prices,lag
+DNDGRG3M086SBEA__lag12,DNDGRG3M086SBEA,Prices,lag
+DSERRG3M086SBEA__lag1,DSERRG3M086SBEA,Prices,lag
+DSERRG3M086SBEA__lag3,DSERRG3M086SBEA,Prices,lag
+DSERRG3M086SBEA__lag6,DSERRG3M086SBEA,Prices,lag
+DSERRG3M086SBEA__lag9,DSERRG3M086SBEA,Prices,lag
+DSERRG3M086SBEA__lag12,DSERRG3M086SBEA,Prices,lag
+CES0600000008__lag1,CES0600000008,Prices,lag
+CES0600000008__lag3,CES0600000008,Prices,lag
+CES0600000008__lag6,CES0600000008,Prices,lag
+CES0600000008__lag9,CES0600000008,Prices,lag
+CES0600000008__lag12,CES0600000008,Prices,lag
+CES2000000008__lag1,CES2000000008,Prices,lag
+CES2000000008__lag3,CES2000000008,Prices,lag
+CES2000000008__lag6,CES2000000008,Prices,lag
+CES2000000008__lag9,CES2000000008,Prices,lag
+CES2000000008__lag12,CES2000000008,Prices,lag
+CES3000000008__lag1,CES3000000008,Prices,lag
+CES3000000008__lag3,CES3000000008,Prices,lag
+CES3000000008__lag6,CES3000000008,Prices,lag
+CES3000000008__lag9,CES3000000008,Prices,lag
+CES3000000008__lag12,CES3000000008,Prices,lag
+CONSPI__lag1,CONSPI,Money and Credit,lag
+CONSPI__lag3,CONSPI,Money and Credit,lag
+CONSPI__lag6,CONSPI,Money and Credit,lag
+CONSPI__lag9,CONSPI,Money and Credit,lag
+CONSPI__lag12,CONSPI,Money and Credit,lag
+TB3SMFFM__lag1,TB3SMFFM,Interest and Exchange Rates,lag
+TB3SMFFM__lag3,TB3SMFFM,Interest and Exchange Rates,lag
+TB3SMFFM__lag6,TB3SMFFM,Interest and Exchange Rates,lag
+TB3SMFFM__lag9,TB3SMFFM,Interest and Exchange Rates,lag
+TB3SMFFM__lag12,TB3SMFFM,Interest and Exchange Rates,lag
+TB6SMFFM__lag1,TB6SMFFM,Interest and Exchange Rates,lag
+TB6SMFFM__lag3,TB6SMFFM,Interest and Exchange Rates,lag
+TB6SMFFM__lag6,TB6SMFFM,Interest and Exchange Rates,lag
+TB6SMFFM__lag9,TB6SMFFM,Interest and Exchange Rates,lag
+TB6SMFFM__lag12,TB6SMFFM,Interest and Exchange Rates,lag
+T1YFFM__lag1,T1YFFM,Interest and Exchange Rates,lag
+T1YFFM__lag3,T1YFFM,Interest and Exchange Rates,lag
+T1YFFM__lag6,T1YFFM,Interest and Exchange Rates,lag
+T1YFFM__lag9,T1YFFM,Interest and Exchange Rates,lag
+T1YFFM__lag12,T1YFFM,Interest and Exchange Rates,lag
+T5YFFM__lag1,T5YFFM,Interest and Exchange Rates,lag
+T5YFFM__lag3,T5YFFM,Interest and Exchange Rates,lag
+T5YFFM__lag6,T5YFFM,Interest and Exchange Rates,lag
+T5YFFM__lag9,T5YFFM,Interest and Exchange Rates,lag
+T5YFFM__lag12,T5YFFM,Interest and Exchange Rates,lag
+T10YFFM__lag1,T10YFFM,Interest and Exchange Rates,lag
+T10YFFM__lag3,T10YFFM,Interest and Exchange Rates,lag
+T10YFFM__lag6,T10YFFM,Interest and Exchange Rates,lag
+T10YFFM__lag9,T10YFFM,Interest and Exchange Rates,lag
+T10YFFM__lag12,T10YFFM,Interest and Exchange Rates,lag
+AAAFFM__lag1,AAAFFM,Interest and Exchange Rates,lag
+AAAFFM__lag3,AAAFFM,Interest and Exchange Rates,lag
+AAAFFM__lag6,AAAFFM,Interest and Exchange Rates,lag
+AAAFFM__lag9,AAAFFM,Interest and Exchange Rates,lag
+AAAFFM__lag12,AAAFFM,Interest and Exchange Rates,lag
+BAAFFM__lag1,BAAFFM,Interest and Exchange Rates,lag
+BAAFFM__lag3,BAAFFM,Interest and Exchange Rates,lag
+BAAFFM__lag6,BAAFFM,Interest and Exchange Rates,lag
+BAAFFM__lag9,BAAFFM,Interest and Exchange Rates,lag
+BAAFFM__lag12,BAAFFM,Interest and Exchange Rates,lag
+SP500__lag1,SP500,Stock Market,lag
+SP500__lag3,SP500,Stock Market,lag
+SP500__lag6,SP500,Stock Market,lag
+SP500__lag9,SP500,Stock Market,lag
+SP500__lag12,SP500,Stock Market,lag
+TERM_SPREAD_10Y3M,TERM_SPREAD_10Y3M,Interest and Exchange Rates,spread
+TERM_SPREAD_10YFF,TERM_SPREAD_10YFF,Interest and Exchange Rates,spread
+CREDIT_SPREAD_BAA_AAA,CREDIT_SPREAD_BAA_AAA,Interest and Exchange Rates,spread
+CREDIT_SPREAD_BAA_10Y,CREDIT_SPREAD_BAA_10Y,Interest and Exchange Rates,spread
+FF_TBILL_SPREAD,FF_TBILL_SPREAD,Interest and Exchange Rates,spread
+RPI__mom3,RPI,Output and Income,momentum
+RPI__mom6,RPI,Output and Income,momentum
+RPI__mom12,RPI,Output and Income,momentum
+W875RX1__mom3,W875RX1,Output and Income,momentum
+W875RX1__mom6,W875RX1,Output and Income,momentum
+W875RX1__mom12,W875RX1,Output and Income,momentum
+INDPRO__mom3,INDPRO,Output and Income,momentum
+INDPRO__mom6,INDPRO,Output and Income,momentum
+INDPRO__mom12,INDPRO,Output and Income,momentum
+IPFPNSS__mom3,IPFPNSS,Output and Income,momentum
+IPFPNSS__mom6,IPFPNSS,Output and Income,momentum
+IPFPNSS__mom12,IPFPNSS,Output and Income,momentum
+IPFINAL__mom3,IPFINAL,Output and Income,momentum
+IPFINAL__mom6,IPFINAL,Output and Income,momentum
+IPFINAL__mom12,IPFINAL,Output and Income,momentum
+IPCONGD__mom3,IPCONGD,Output and Income,momentum
+IPCONGD__mom6,IPCONGD,Output and Income,momentum
+IPCONGD__mom12,IPCONGD,Output and Income,momentum
+IPDCONGD__mom3,IPDCONGD,Output and Income,momentum
+IPDCONGD__mom6,IPDCONGD,Output and Income,momentum
+IPDCONGD__mom12,IPDCONGD,Output and Income,momentum
+IPNCONGD__mom3,IPNCONGD,Output and Income,momentum
+IPNCONGD__mom6,IPNCONGD,Output and Income,momentum
+IPNCONGD__mom12,IPNCONGD,Output and Income,momentum
+IPBUSEQ__mom3,IPBUSEQ,Output and Income,momentum
+IPBUSEQ__mom6,IPBUSEQ,Output and Income,momentum
+IPBUSEQ__mom12,IPBUSEQ,Output and Income,momentum
+IPMAT__mom3,IPMAT,Output and Income,momentum
+IPMAT__mom6,IPMAT,Output and Income,momentum
+IPMAT__mom12,IPMAT,Output and Income,momentum
+IPDMAT__mom3,IPDMAT,Output and Income,momentum
+IPDMAT__mom6,IPDMAT,Output and Income,momentum
+IPDMAT__mom12,IPDMAT,Output and Income,momentum
+IPNMAT__mom3,IPNMAT,Output and Income,momentum
+IPNMAT__mom6,IPNMAT,Output and Income,momentum
+IPNMAT__mom12,IPNMAT,Output and Income,momentum
+IPMANSICS__mom3,IPMANSICS,Output and Income,momentum
+IPMANSICS__mom6,IPMANSICS,Output and Income,momentum
+IPMANSICS__mom12,IPMANSICS,Output and Income,momentum
+IPB51222S__mom3,IPB51222S,Output and Income,momentum
+IPB51222S__mom6,IPB51222S,Output and Income,momentum
+IPB51222S__mom12,IPB51222S,Output and Income,momentum
+IPFUELS__mom3,IPFUELS,Output and Income,momentum
+IPFUELS__mom6,IPFUELS,Output and Income,momentum
+IPFUELS__mom12,IPFUELS,Output and Income,momentum
+CUMFNS__mom3,CUMFNS,Output and Income,momentum
+CUMFNS__mom6,CUMFNS,Output and Income,momentum
+CUMFNS__mom12,CUMFNS,Output and Income,momentum
+CLF16OV__mom3,CLF16OV,Labor Market,momentum
+CLF16OV__mom6,CLF16OV,Labor Market,momentum
+CLF16OV__mom12,CLF16OV,Labor Market,momentum
+CE16OV__mom3,CE16OV,Labor Market,momentum
+CE16OV__mom6,CE16OV,Labor Market,momentum
+CE16OV__mom12,CE16OV,Labor Market,momentum
+UNRATE__mom3,UNRATE,Labor Market,momentum
+UNRATE__mom6,UNRATE,Labor Market,momentum
+UNRATE__mom12,UNRATE,Labor Market,momentum
+UEMPMEAN__mom3,UEMPMEAN,Labor Market,momentum
+UEMPMEAN__mom6,UEMPMEAN,Labor Market,momentum
+UEMPMEAN__mom12,UEMPMEAN,Labor Market,momentum
+UEMPLT5__mom3,UEMPLT5,Labor Market,momentum
+UEMPLT5__mom6,UEMPLT5,Labor Market,momentum
+UEMPLT5__mom12,UEMPLT5,Labor Market,momentum
+UEMP5TO14__mom3,UEMP5TO14,Labor Market,momentum
+UEMP5TO14__mom6,UEMP5TO14,Labor Market,momentum
+UEMP5TO14__mom12,UEMP5TO14,Labor Market,momentum
+UEMP15OV__mom3,UEMP15OV,Labor Market,momentum
+UEMP15OV__mom6,UEMP15OV,Labor Market,momentum
+UEMP15OV__mom12,UEMP15OV,Labor Market,momentum
+UEMP15T26__mom3,UEMP15T26,Labor Market,momentum
+UEMP15T26__mom6,UEMP15T26,Labor Market,momentum
+UEMP15T26__mom12,UEMP15T26,Labor Market,momentum
+UEMP27OV__mom3,UEMP27OV,Labor Market,momentum
+UEMP27OV__mom6,UEMP27OV,Labor Market,momentum
+UEMP27OV__mom12,UEMP27OV,Labor Market,momentum
+PAYEMS__mom3,PAYEMS,Labor Market,momentum
+PAYEMS__mom6,PAYEMS,Labor Market,momentum
+PAYEMS__mom12,PAYEMS,Labor Market,momentum
+USGOOD__mom3,USGOOD,Labor Market,momentum
+USGOOD__mom6,USGOOD,Labor Market,momentum
+USGOOD__mom12,USGOOD,Labor Market,momentum
+CES1021000001__mom3,CES1021000001,Labor Market,momentum
+CES1021000001__mom6,CES1021000001,Labor Market,momentum
+CES1021000001__mom12,CES1021000001,Labor Market,momentum
+USCONS__mom3,USCONS,Labor Market,momentum
+USCONS__mom6,USCONS,Labor Market,momentum
+USCONS__mom12,USCONS,Labor Market,momentum
+MANEMP__mom3,MANEMP,Labor Market,momentum
+MANEMP__mom6,MANEMP,Labor Market,momentum
+MANEMP__mom12,MANEMP,Labor Market,momentum
+DMANEMP__mom3,DMANEMP,Labor Market,momentum
+DMANEMP__mom6,DMANEMP,Labor Market,momentum
+DMANEMP__mom12,DMANEMP,Labor Market,momentum
+NDMANEMP__mom3,NDMANEMP,Labor Market,momentum
+NDMANEMP__mom6,NDMANEMP,Labor Market,momentum
+NDMANEMP__mom12,NDMANEMP,Labor Market,momentum
+SRVPRD__mom3,SRVPRD,Labor Market,momentum
+SRVPRD__mom6,SRVPRD,Labor Market,momentum
+SRVPRD__mom12,SRVPRD,Labor Market,momentum
+USTPU__mom3,USTPU,Labor Market,momentum
+USTPU__mom6,USTPU,Labor Market,momentum
+USTPU__mom12,USTPU,Labor Market,momentum
+USWTRADE__mom3,USWTRADE,Labor Market,momentum
+USWTRADE__mom6,USWTRADE,Labor Market,momentum
+USWTRADE__mom12,USWTRADE,Labor Market,momentum
+USTRADE__mom3,USTRADE,Labor Market,momentum
+USTRADE__mom6,USTRADE,Labor Market,momentum
+USTRADE__mom12,USTRADE,Labor Market,momentum
+USFIRE__mom3,USFIRE,Labor Market,momentum
+USFIRE__mom6,USFIRE,Labor Market,momentum
+USFIRE__mom12,USFIRE,Labor Market,momentum
+USGOVT__mom3,USGOVT,Labor Market,momentum
+USGOVT__mom6,USGOVT,Labor Market,momentum
+USGOVT__mom12,USGOVT,Labor Market,momentum
+CES0600000007__mom3,CES0600000007,Labor Market,momentum
+CES0600000007__mom6,CES0600000007,Labor Market,momentum
+CES0600000007__mom12,CES0600000007,Labor Market,momentum
+AWOTMAN__mom3,AWOTMAN,Labor Market,momentum
+AWOTMAN__mom6,AWOTMAN,Labor Market,momentum
+AWOTMAN__mom12,AWOTMAN,Labor Market,momentum
+AWHMAN__mom3,AWHMAN,Labor Market,momentum
+AWHMAN__mom6,AWHMAN,Labor Market,momentum
+AWHMAN__mom12,AWHMAN,Labor Market,momentum
+HOUST__mom3,HOUST,Housing,momentum
+HOUST__mom6,HOUST,Housing,momentum
+HOUST__mom12,HOUST,Housing,momentum
+HOUSTNE__mom3,HOUSTNE,Housing,momentum
+HOUSTNE__mom6,HOUSTNE,Housing,momentum
+HOUSTNE__mom12,HOUSTNE,Housing,momentum
+HOUSTMW__mom3,HOUSTMW,Housing,momentum
+HOUSTMW__mom6,HOUSTMW,Housing,momentum
+HOUSTMW__mom12,HOUSTMW,Housing,momentum
+HOUSTS__mom3,HOUSTS,Housing,momentum
+HOUSTS__mom6,HOUSTS,Housing,momentum
+HOUSTS__mom12,HOUSTS,Housing,momentum
+HOUSTW__mom3,HOUSTW,Housing,momentum
+HOUSTW__mom6,HOUSTW,Housing,momentum
+HOUSTW__mom12,HOUSTW,Housing,momentum
+PERMIT__mom3,PERMIT,Housing,momentum
+PERMIT__mom6,PERMIT,Housing,momentum
+PERMIT__mom12,PERMIT,Housing,momentum
+PERMITNE__mom3,PERMITNE,Housing,momentum
+PERMITNE__mom6,PERMITNE,Housing,momentum
+PERMITNE__mom12,PERMITNE,Housing,momentum
+PERMITMW__mom3,PERMITMW,Housing,momentum
+PERMITMW__mom6,PERMITMW,Housing,momentum
+PERMITMW__mom12,PERMITMW,Housing,momentum
+PERMITS__mom3,PERMITS,Housing,momentum
+PERMITS__mom6,PERMITS,Housing,momentum
+PERMITS__mom12,PERMITS,Housing,momentum
+PERMITW__mom3,PERMITW,Housing,momentum
+PERMITW__mom6,PERMITW,Housing,momentum
+PERMITW__mom12,PERMITW,Housing,momentum
+DPCERA3M086SBEA__mom3,DPCERA3M086SBEA,"Consumption, Orders and Inventories",momentum
+DPCERA3M086SBEA__mom6,DPCERA3M086SBEA,"Consumption, Orders and Inventories",momentum
+DPCERA3M086SBEA__mom12,DPCERA3M086SBEA,"Consumption, Orders and Inventories",momentum
+M1SL__mom3,M1SL,Money and Credit,momentum
+M1SL__mom6,M1SL,Money and Credit,momentum
+M1SL__mom12,M1SL,Money and Credit,momentum
+M2SL__mom3,M2SL,Money and Credit,momentum
+M2SL__mom6,M2SL,Money and Credit,momentum
+M2SL__mom12,M2SL,Money and Credit,momentum
+M2REAL__mom3,M2REAL,Money and Credit,momentum
+M2REAL__mom6,M2REAL,Money and Credit,momentum
+M2REAL__mom12,M2REAL,Money and Credit,momentum
+TOTRESNS__mom3,TOTRESNS,Money and Credit,momentum
+TOTRESNS__mom6,TOTRESNS,Money and Credit,momentum
+TOTRESNS__mom12,TOTRESNS,Money and Credit,momentum
+NONBORRES__mom3,NONBORRES,Money and Credit,momentum
+NONBORRES__mom6,NONBORRES,Money and Credit,momentum
+NONBORRES__mom12,NONBORRES,Money and Credit,momentum
+BUSLOANS__mom3,BUSLOANS,Money and Credit,momentum
+BUSLOANS__mom6,BUSLOANS,Money and Credit,momentum
+BUSLOANS__mom12,BUSLOANS,Money and Credit,momentum
+REALLN__mom3,REALLN,Money and Credit,momentum
+REALLN__mom6,REALLN,Money and Credit,momentum
+REALLN__mom12,REALLN,Money and Credit,momentum
+NONREVSL__mom3,NONREVSL,Money and Credit,momentum
+NONREVSL__mom6,NONREVSL,Money and Credit,momentum
+NONREVSL__mom12,NONREVSL,Money and Credit,momentum
+DTCOLNVHFNM__mom3,DTCOLNVHFNM,Money and Credit,momentum
+DTCOLNVHFNM__mom6,DTCOLNVHFNM,Money and Credit,momentum
+DTCOLNVHFNM__mom12,DTCOLNVHFNM,Money and Credit,momentum
+DTCTHFNM__mom3,DTCTHFNM,Money and Credit,momentum
+DTCTHFNM__mom6,DTCTHFNM,Money and Credit,momentum
+DTCTHFNM__mom12,DTCTHFNM,Money and Credit,momentum
+INVEST__mom3,INVEST,Money and Credit,momentum
+INVEST__mom6,INVEST,Money and Credit,momentum
+INVEST__mom12,INVEST,Money and Credit,momentum
+FEDFUNDS__mom3,FEDFUNDS,Interest and Exchange Rates,momentum
+FEDFUNDS__mom6,FEDFUNDS,Interest and Exchange Rates,momentum
+FEDFUNDS__mom12,FEDFUNDS,Interest and Exchange Rates,momentum
+TB3MS__mom3,TB3MS,Interest and Exchange Rates,momentum
+TB3MS__mom6,TB3MS,Interest and Exchange Rates,momentum
+TB3MS__mom12,TB3MS,Interest and Exchange Rates,momentum
+TB6MS__mom3,TB6MS,Interest and Exchange Rates,momentum
+TB6MS__mom6,TB6MS,Interest and Exchange Rates,momentum
+TB6MS__mom12,TB6MS,Interest and Exchange Rates,momentum
+GS1__mom3,GS1,Interest and Exchange Rates,momentum
+GS1__mom6,GS1,Interest and Exchange Rates,momentum
+GS1__mom12,GS1,Interest and Exchange Rates,momentum
+GS5__mom3,GS5,Interest and Exchange Rates,momentum
+GS5__mom6,GS5,Interest and Exchange Rates,momentum
+GS5__mom12,GS5,Interest and Exchange Rates,momentum
+GS10__mom3,GS10,Interest and Exchange Rates,momentum
+GS10__mom6,GS10,Interest and Exchange Rates,momentum
+GS10__mom12,GS10,Interest and Exchange Rates,momentum
+AAA__mom3,AAA,Interest and Exchange Rates,momentum
+AAA__mom6,AAA,Interest and Exchange Rates,momentum
+AAA__mom12,AAA,Interest and Exchange Rates,momentum
+BAA__mom3,BAA,Interest and Exchange Rates,momentum
+BAA__mom6,BAA,Interest and Exchange Rates,momentum
+BAA__mom12,BAA,Interest and Exchange Rates,momentum
+WPSFD49207__mom3,WPSFD49207,Prices,momentum
+WPSFD49207__mom6,WPSFD49207,Prices,momentum
+WPSFD49207__mom12,WPSFD49207,Prices,momentum
+WPSFD49502__mom3,WPSFD49502,Prices,momentum
+WPSFD49502__mom6,WPSFD49502,Prices,momentum
+WPSFD49502__mom12,WPSFD49502,Prices,momentum
+WPSID61__mom3,WPSID61,Prices,momentum
+WPSID61__mom6,WPSID61,Prices,momentum
+WPSID61__mom12,WPSID61,Prices,momentum
+WPSID62__mom3,WPSID62,Prices,momentum
+WPSID62__mom6,WPSID62,Prices,momentum
+WPSID62__mom12,WPSID62,Prices,momentum
+OILPRICEx__mom3,OILPRICEx,Prices,momentum
+OILPRICEx__mom6,OILPRICEx,Prices,momentum
+OILPRICEx__mom12,OILPRICEx,Prices,momentum
+PPICMM__mom3,PPICMM,Prices,momentum
+PPICMM__mom6,PPICMM,Prices,momentum
+PPICMM__mom12,PPICMM,Prices,momentum
+CPIAUCSL__mom3,CPIAUCSL,Prices,momentum
+CPIAUCSL__mom6,CPIAUCSL,Prices,momentum
+CPIAUCSL__mom12,CPIAUCSL,Prices,momentum
+CPIAPPSL__mom3,CPIAPPSL,Prices,momentum
+CPIAPPSL__mom6,CPIAPPSL,Prices,momentum
+CPIAPPSL__mom12,CPIAPPSL,Prices,momentum
+CPITRNSL__mom3,CPITRNSL,Prices,momentum
+CPITRNSL__mom6,CPITRNSL,Prices,momentum
+CPITRNSL__mom12,CPITRNSL,Prices,momentum
+CPIMEDSL__mom3,CPIMEDSL,Prices,momentum
+CPIMEDSL__mom6,CPIMEDSL,Prices,momentum
+CPIMEDSL__mom12,CPIMEDSL,Prices,momentum
+CUSR0000SAC__mom3,CUSR0000SAC,Prices,momentum
+CUSR0000SAC__mom6,CUSR0000SAC,Prices,momentum
+CUSR0000SAC__mom12,CUSR0000SAC,Prices,momentum
+CUUR0000SAD__mom3,CUUR0000SAD,Prices,momentum
+CUUR0000SAD__mom6,CUUR0000SAD,Prices,momentum
+CUUR0000SAD__mom12,CUUR0000SAD,Prices,momentum
+CUSR0000SAS__mom3,CUSR0000SAS,Prices,momentum
+CUSR0000SAS__mom6,CUSR0000SAS,Prices,momentum
+CUSR0000SAS__mom12,CUSR0000SAS,Prices,momentum
+CPIULFSL__mom3,CPIULFSL,Prices,momentum
+CPIULFSL__mom6,CPIULFSL,Prices,momentum
+CPIULFSL__mom12,CPIULFSL,Prices,momentum
+CUUR0000SA0L2__mom3,CUUR0000SA0L2,Prices,momentum
+CUUR0000SA0L2__mom6,CUUR0000SA0L2,Prices,momentum
+CUUR0000SA0L2__mom12,CUUR0000SA0L2,Prices,momentum
+CUSR0000SA0L5__mom3,CUSR0000SA0L5,Prices,momentum
+CUSR0000SA0L5__mom6,CUSR0000SA0L5,Prices,momentum
+CUSR0000SA0L5__mom12,CUSR0000SA0L5,Prices,momentum
+PCEPI__mom3,PCEPI,Prices,momentum
+PCEPI__mom6,PCEPI,Prices,momentum
+PCEPI__mom12,PCEPI,Prices,momentum
+DDURRG3M086SBEA__mom3,DDURRG3M086SBEA,Prices,momentum
+DDURRG3M086SBEA__mom6,DDURRG3M086SBEA,Prices,momentum
+DDURRG3M086SBEA__mom12,DDURRG3M086SBEA,Prices,momentum
+DNDGRG3M086SBEA__mom3,DNDGRG3M086SBEA,Prices,momentum
+DNDGRG3M086SBEA__mom6,DNDGRG3M086SBEA,Prices,momentum
+DNDGRG3M086SBEA__mom12,DNDGRG3M086SBEA,Prices,momentum
+DSERRG3M086SBEA__mom3,DSERRG3M086SBEA,Prices,momentum
+DSERRG3M086SBEA__mom6,DSERRG3M086SBEA,Prices,momentum
+DSERRG3M086SBEA__mom12,DSERRG3M086SBEA,Prices,momentum
+CES0600000008__mom3,CES0600000008,Prices,momentum
+CES0600000008__mom6,CES0600000008,Prices,momentum
+CES0600000008__mom12,CES0600000008,Prices,momentum
+CES2000000008__mom3,CES2000000008,Prices,momentum
+CES2000000008__mom6,CES2000000008,Prices,momentum
+CES2000000008__mom12,CES2000000008,Prices,momentum
+CES3000000008__mom3,CES3000000008,Prices,momentum
+CES3000000008__mom6,CES3000000008,Prices,momentum
+CES3000000008__mom12,CES3000000008,Prices,momentum
+CONSPI__mom3,CONSPI,Money and Credit,momentum
+CONSPI__mom6,CONSPI,Money and Credit,momentum
+CONSPI__mom12,CONSPI,Money and Credit,momentum
+TB3SMFFM__mom3,TB3SMFFM,Interest and Exchange Rates,momentum
+TB3SMFFM__mom6,TB3SMFFM,Interest and Exchange Rates,momentum
+TB3SMFFM__mom12,TB3SMFFM,Interest and Exchange Rates,momentum
+TB6SMFFM__mom3,TB6SMFFM,Interest and Exchange Rates,momentum
+TB6SMFFM__mom6,TB6SMFFM,Interest and Exchange Rates,momentum
+TB6SMFFM__mom12,TB6SMFFM,Interest and Exchange Rates,momentum
+T1YFFM__mom3,T1YFFM,Interest and Exchange Rates,momentum
+T1YFFM__mom6,T1YFFM,Interest and Exchange Rates,momentum
+T1YFFM__mom12,T1YFFM,Interest and Exchange Rates,momentum
+T5YFFM__mom3,T5YFFM,Interest and Exchange Rates,momentum
+T5YFFM__mom6,T5YFFM,Interest and Exchange Rates,momentum
+T5YFFM__mom12,T5YFFM,Interest and Exchange Rates,momentum
+T10YFFM__mom3,T10YFFM,Interest and Exchange Rates,momentum
+T10YFFM__mom6,T10YFFM,Interest and Exchange Rates,momentum
+T10YFFM__mom12,T10YFFM,Interest and Exchange Rates,momentum
+AAAFFM__mom3,AAAFFM,Interest and Exchange Rates,momentum
+AAAFFM__mom6,AAAFFM,Interest and Exchange Rates,momentum
+AAAFFM__mom12,AAAFFM,Interest and Exchange Rates,momentum
+BAAFFM__mom3,BAAFFM,Interest and Exchange Rates,momentum
+BAAFFM__mom6,BAAFFM,Interest and Exchange Rates,momentum
+BAAFFM__mom12,BAAFFM,Interest and Exchange Rates,momentum
+SP500__mom3,SP500,Stock Market,momentum
+SP500__mom6,SP500,Stock Market,momentum
+SP500__mom12,SP500,Stock Market,momentum
+RPI__rollmean6,RPI,Output and Income,rolling_stat
+RPI__rollstd6,RPI,Output and Income,rolling_stat
+RPI__rollz6,RPI,Output and Income,rolling_stat
+RPI__rollmean12,RPI,Output and Income,rolling_stat
+RPI__rollstd12,RPI,Output and Income,rolling_stat
+RPI__rollz12,RPI,Output and Income,rolling_stat
+RPI__rollmean24,RPI,Output and Income,rolling_stat
+RPI__rollstd24,RPI,Output and Income,rolling_stat
+RPI__rollz24,RPI,Output and Income,rolling_stat
+W875RX1__rollmean6,W875RX1,Output and Income,rolling_stat
+W875RX1__rollstd6,W875RX1,Output and Income,rolling_stat
+W875RX1__rollz6,W875RX1,Output and Income,rolling_stat
+W875RX1__rollmean12,W875RX1,Output and Income,rolling_stat
+W875RX1__rollstd12,W875RX1,Output and Income,rolling_stat
+W875RX1__rollz12,W875RX1,Output and Income,rolling_stat
+W875RX1__rollmean24,W875RX1,Output and Income,rolling_stat
+W875RX1__rollstd24,W875RX1,Output and Income,rolling_stat
+W875RX1__rollz24,W875RX1,Output and Income,rolling_stat
+INDPRO__rollmean6,INDPRO,Output and Income,rolling_stat
+INDPRO__rollstd6,INDPRO,Output and Income,rolling_stat
+INDPRO__rollz6,INDPRO,Output and Income,rolling_stat
+INDPRO__rollmean12,INDPRO,Output and Income,rolling_stat
+INDPRO__rollstd12,INDPRO,Output and Income,rolling_stat
+INDPRO__rollz12,INDPRO,Output and Income,rolling_stat
+INDPRO__rollmean24,INDPRO,Output and Income,rolling_stat
+INDPRO__rollstd24,INDPRO,Output and Income,rolling_stat
+INDPRO__rollz24,INDPRO,Output and Income,rolling_stat
+IPFPNSS__rollmean6,IPFPNSS,Output and Income,rolling_stat
+IPFPNSS__rollstd6,IPFPNSS,Output and Income,rolling_stat
+IPFPNSS__rollz6,IPFPNSS,Output and Income,rolling_stat
+IPFPNSS__rollmean12,IPFPNSS,Output and Income,rolling_stat
+IPFPNSS__rollstd12,IPFPNSS,Output and Income,rolling_stat
+IPFPNSS__rollz12,IPFPNSS,Output and Income,rolling_stat
+IPFPNSS__rollmean24,IPFPNSS,Output and Income,rolling_stat
+IPFPNSS__rollstd24,IPFPNSS,Output and Income,rolling_stat
+IPFPNSS__rollz24,IPFPNSS,Output and Income,rolling_stat
+IPFINAL__rollmean6,IPFINAL,Output and Income,rolling_stat
+IPFINAL__rollstd6,IPFINAL,Output and Income,rolling_stat
+IPFINAL__rollz6,IPFINAL,Output and Income,rolling_stat
+IPFINAL__rollmean12,IPFINAL,Output and Income,rolling_stat
+IPFINAL__rollstd12,IPFINAL,Output and Income,rolling_stat
+IPFINAL__rollz12,IPFINAL,Output and Income,rolling_stat
+IPFINAL__rollmean24,IPFINAL,Output and Income,rolling_stat
+IPFINAL__rollstd24,IPFINAL,Output and Income,rolling_stat
+IPFINAL__rollz24,IPFINAL,Output and Income,rolling_stat
+IPCONGD__rollmean6,IPCONGD,Output and Income,rolling_stat
+IPCONGD__rollstd6,IPCONGD,Output and Income,rolling_stat
+IPCONGD__rollz6,IPCONGD,Output and Income,rolling_stat
+IPCONGD__rollmean12,IPCONGD,Output and Income,rolling_stat
+IPCONGD__rollstd12,IPCONGD,Output and Income,rolling_stat
+IPCONGD__rollz12,IPCONGD,Output and Income,rolling_stat
+IPCONGD__rollmean24,IPCONGD,Output and Income,rolling_stat
+IPCONGD__rollstd24,IPCONGD,Output and Income,rolling_stat
+IPCONGD__rollz24,IPCONGD,Output and Income,rolling_stat
+IPDCONGD__rollmean6,IPDCONGD,Output and Income,rolling_stat
+IPDCONGD__rollstd6,IPDCONGD,Output and Income,rolling_stat
+IPDCONGD__rollz6,IPDCONGD,Output and Income,rolling_stat
+IPDCONGD__rollmean12,IPDCONGD,Output and Income,rolling_stat
+IPDCONGD__rollstd12,IPDCONGD,Output and Income,rolling_stat
+IPDCONGD__rollz12,IPDCONGD,Output and Income,rolling_stat
+IPDCONGD__rollmean24,IPDCONGD,Output and Income,rolling_stat
+IPDCONGD__rollstd24,IPDCONGD,Output and Income,rolling_stat
+IPDCONGD__rollz24,IPDCONGD,Output and Income,rolling_stat
+IPNCONGD__rollmean6,IPNCONGD,Output and Income,rolling_stat
+IPNCONGD__rollstd6,IPNCONGD,Output and Income,rolling_stat
+IPNCONGD__rollz6,IPNCONGD,Output and Income,rolling_stat
+IPNCONGD__rollmean12,IPNCONGD,Output and Income,rolling_stat
+IPNCONGD__rollstd12,IPNCONGD,Output and Income,rolling_stat
+IPNCONGD__rollz12,IPNCONGD,Output and Income,rolling_stat
+IPNCONGD__rollmean24,IPNCONGD,Output and Income,rolling_stat
+IPNCONGD__rollstd24,IPNCONGD,Output and Income,rolling_stat
+IPNCONGD__rollz24,IPNCONGD,Output and Income,rolling_stat
+IPBUSEQ__rollmean6,IPBUSEQ,Output and Income,rolling_stat
+IPBUSEQ__rollstd6,IPBUSEQ,Output and Income,rolling_stat
+IPBUSEQ__rollz6,IPBUSEQ,Output and Income,rolling_stat
+IPBUSEQ__rollmean12,IPBUSEQ,Output and Income,rolling_stat
+IPBUSEQ__rollstd12,IPBUSEQ,Output and Income,rolling_stat
+IPBUSEQ__rollz12,IPBUSEQ,Output and Income,rolling_stat
+IPBUSEQ__rollmean24,IPBUSEQ,Output and Income,rolling_stat
+IPBUSEQ__rollstd24,IPBUSEQ,Output and Income,rolling_stat
+IPBUSEQ__rollz24,IPBUSEQ,Output and Income,rolling_stat
+IPMAT__rollmean6,IPMAT,Output and Income,rolling_stat
+IPMAT__rollstd6,IPMAT,Output and Income,rolling_stat
+IPMAT__rollz6,IPMAT,Output and Income,rolling_stat
+IPMAT__rollmean12,IPMAT,Output and Income,rolling_stat
+IPMAT__rollstd12,IPMAT,Output and Income,rolling_stat
+IPMAT__rollz12,IPMAT,Output and Income,rolling_stat
+IPMAT__rollmean24,IPMAT,Output and Income,rolling_stat
+IPMAT__rollstd24,IPMAT,Output and Income,rolling_stat
+IPMAT__rollz24,IPMAT,Output and Income,rolling_stat
+IPDMAT__rollmean6,IPDMAT,Output and Income,rolling_stat
+IPDMAT__rollstd6,IPDMAT,Output and Income,rolling_stat
+IPDMAT__rollz6,IPDMAT,Output and Income,rolling_stat
+IPDMAT__rollmean12,IPDMAT,Output and Income,rolling_stat
+IPDMAT__rollstd12,IPDMAT,Output and Income,rolling_stat
+IPDMAT__rollz12,IPDMAT,Output and Income,rolling_stat
+IPDMAT__rollmean24,IPDMAT,Output and Income,rolling_stat
+IPDMAT__rollstd24,IPDMAT,Output and Income,rolling_stat
+IPDMAT__rollz24,IPDMAT,Output and Income,rolling_stat
+IPNMAT__rollmean6,IPNMAT,Output and Income,rolling_stat
+IPNMAT__rollstd6,IPNMAT,Output and Income,rolling_stat
+IPNMAT__rollz6,IPNMAT,Output and Income,rolling_stat
+IPNMAT__rollmean12,IPNMAT,Output and Income,rolling_stat
+IPNMAT__rollstd12,IPNMAT,Output and Income,rolling_stat
+IPNMAT__rollz12,IPNMAT,Output and Income,rolling_stat
+IPNMAT__rollmean24,IPNMAT,Output and Income,rolling_stat
+IPNMAT__rollstd24,IPNMAT,Output and Income,rolling_stat
+IPNMAT__rollz24,IPNMAT,Output and Income,rolling_stat
+IPMANSICS__rollmean6,IPMANSICS,Output and Income,rolling_stat
+IPMANSICS__rollstd6,IPMANSICS,Output and Income,rolling_stat
+IPMANSICS__rollz6,IPMANSICS,Output and Income,rolling_stat
+IPMANSICS__rollmean12,IPMANSICS,Output and Income,rolling_stat
+IPMANSICS__rollstd12,IPMANSICS,Output and Income,rolling_stat
+IPMANSICS__rollz12,IPMANSICS,Output and Income,rolling_stat
+IPMANSICS__rollmean24,IPMANSICS,Output and Income,rolling_stat
+IPMANSICS__rollstd24,IPMANSICS,Output and Income,rolling_stat
+IPMANSICS__rollz24,IPMANSICS,Output and Income,rolling_stat
+IPB51222S__rollmean6,IPB51222S,Output and Income,rolling_stat
+IPB51222S__rollstd6,IPB51222S,Output and Income,rolling_stat
+IPB51222S__rollz6,IPB51222S,Output and Income,rolling_stat
+IPB51222S__rollmean12,IPB51222S,Output and Income,rolling_stat
+IPB51222S__rollstd12,IPB51222S,Output and Income,rolling_stat
+IPB51222S__rollz12,IPB51222S,Output and Income,rolling_stat
+IPB51222S__rollmean24,IPB51222S,Output and Income,rolling_stat
+IPB51222S__rollstd24,IPB51222S,Output and Income,rolling_stat
+IPB51222S__rollz24,IPB51222S,Output and Income,rolling_stat
+IPFUELS__rollmean6,IPFUELS,Output and Income,rolling_stat
+IPFUELS__rollstd6,IPFUELS,Output and Income,rolling_stat
+IPFUELS__rollz6,IPFUELS,Output and Income,rolling_stat
+IPFUELS__rollmean12,IPFUELS,Output and Income,rolling_stat
+IPFUELS__rollstd12,IPFUELS,Output and Income,rolling_stat
+IPFUELS__rollz12,IPFUELS,Output and Income,rolling_stat
+IPFUELS__rollmean24,IPFUELS,Output and Income,rolling_stat
+IPFUELS__rollstd24,IPFUELS,Output and Income,rolling_stat
+IPFUELS__rollz24,IPFUELS,Output and Income,rolling_stat
+CUMFNS__rollmean6,CUMFNS,Output and Income,rolling_stat
+CUMFNS__rollstd6,CUMFNS,Output and Income,rolling_stat
+CUMFNS__rollz6,CUMFNS,Output and Income,rolling_stat
+CUMFNS__rollmean12,CUMFNS,Output and Income,rolling_stat
+CUMFNS__rollstd12,CUMFNS,Output and Income,rolling_stat
+CUMFNS__rollz12,CUMFNS,Output and Income,rolling_stat
+CUMFNS__rollmean24,CUMFNS,Output and Income,rolling_stat
+CUMFNS__rollstd24,CUMFNS,Output and Income,rolling_stat
+CUMFNS__rollz24,CUMFNS,Output and Income,rolling_stat
+CLF16OV__rollmean6,CLF16OV,Labor Market,rolling_stat
+CLF16OV__rollstd6,CLF16OV,Labor Market,rolling_stat
+CLF16OV__rollz6,CLF16OV,Labor Market,rolling_stat
+CLF16OV__rollmean12,CLF16OV,Labor Market,rolling_stat
+CLF16OV__rollstd12,CLF16OV,Labor Market,rolling_stat
+CLF16OV__rollz12,CLF16OV,Labor Market,rolling_stat
+CLF16OV__rollmean24,CLF16OV,Labor Market,rolling_stat
+CLF16OV__rollstd24,CLF16OV,Labor Market,rolling_stat
+CLF16OV__rollz24,CLF16OV,Labor Market,rolling_stat
+CE16OV__rollmean6,CE16OV,Labor Market,rolling_stat
+CE16OV__rollstd6,CE16OV,Labor Market,rolling_stat
+CE16OV__rollz6,CE16OV,Labor Market,rolling_stat
+CE16OV__rollmean12,CE16OV,Labor Market,rolling_stat
+CE16OV__rollstd12,CE16OV,Labor Market,rolling_stat
+CE16OV__rollz12,CE16OV,Labor Market,rolling_stat
+CE16OV__rollmean24,CE16OV,Labor Market,rolling_stat
+CE16OV__rollstd24,CE16OV,Labor Market,rolling_stat
+CE16OV__rollz24,CE16OV,Labor Market,rolling_stat
+UNRATE__rollmean6,UNRATE,Labor Market,rolling_stat
+UNRATE__rollstd6,UNRATE,Labor Market,rolling_stat
+UNRATE__rollz6,UNRATE,Labor Market,rolling_stat
+UNRATE__rollmean12,UNRATE,Labor Market,rolling_stat
+UNRATE__rollstd12,UNRATE,Labor Market,rolling_stat
+UNRATE__rollz12,UNRATE,Labor Market,rolling_stat
+UNRATE__rollmean24,UNRATE,Labor Market,rolling_stat
+UNRATE__rollstd24,UNRATE,Labor Market,rolling_stat
+UNRATE__rollz24,UNRATE,Labor Market,rolling_stat
+UEMPMEAN__rollmean6,UEMPMEAN,Labor Market,rolling_stat
+UEMPMEAN__rollstd6,UEMPMEAN,Labor Market,rolling_stat
+UEMPMEAN__rollz6,UEMPMEAN,Labor Market,rolling_stat
+UEMPMEAN__rollmean12,UEMPMEAN,Labor Market,rolling_stat
+UEMPMEAN__rollstd12,UEMPMEAN,Labor Market,rolling_stat
+UEMPMEAN__rollz12,UEMPMEAN,Labor Market,rolling_stat
+UEMPMEAN__rollmean24,UEMPMEAN,Labor Market,rolling_stat
+UEMPMEAN__rollstd24,UEMPMEAN,Labor Market,rolling_stat
+UEMPMEAN__rollz24,UEMPMEAN,Labor Market,rolling_stat
+UEMPLT5__rollmean6,UEMPLT5,Labor Market,rolling_stat
+UEMPLT5__rollstd6,UEMPLT5,Labor Market,rolling_stat
+UEMPLT5__rollz6,UEMPLT5,Labor Market,rolling_stat
+UEMPLT5__rollmean12,UEMPLT5,Labor Market,rolling_stat
+UEMPLT5__rollstd12,UEMPLT5,Labor Market,rolling_stat
+UEMPLT5__rollz12,UEMPLT5,Labor Market,rolling_stat
+UEMPLT5__rollmean24,UEMPLT5,Labor Market,rolling_stat
+UEMPLT5__rollstd24,UEMPLT5,Labor Market,rolling_stat
+UEMPLT5__rollz24,UEMPLT5,Labor Market,rolling_stat
+UEMP5TO14__rollmean6,UEMP5TO14,Labor Market,rolling_stat
+UEMP5TO14__rollstd6,UEMP5TO14,Labor Market,rolling_stat
+UEMP5TO14__rollz6,UEMP5TO14,Labor Market,rolling_stat
+UEMP5TO14__rollmean12,UEMP5TO14,Labor Market,rolling_stat
+UEMP5TO14__rollstd12,UEMP5TO14,Labor Market,rolling_stat
+UEMP5TO14__rollz12,UEMP5TO14,Labor Market,rolling_stat
+UEMP5TO14__rollmean24,UEMP5TO14,Labor Market,rolling_stat
+UEMP5TO14__rollstd24,UEMP5TO14,Labor Market,rolling_stat
+UEMP5TO14__rollz24,UEMP5TO14,Labor Market,rolling_stat
+UEMP15OV__rollmean6,UEMP15OV,Labor Market,rolling_stat
+UEMP15OV__rollstd6,UEMP15OV,Labor Market,rolling_stat
+UEMP15OV__rollz6,UEMP15OV,Labor Market,rolling_stat
+UEMP15OV__rollmean12,UEMP15OV,Labor Market,rolling_stat
+UEMP15OV__rollstd12,UEMP15OV,Labor Market,rolling_stat
+UEMP15OV__rollz12,UEMP15OV,Labor Market,rolling_stat
+UEMP15OV__rollmean24,UEMP15OV,Labor Market,rolling_stat
+UEMP15OV__rollstd24,UEMP15OV,Labor Market,rolling_stat
+UEMP15OV__rollz24,UEMP15OV,Labor Market,rolling_stat
+UEMP15T26__rollmean6,UEMP15T26,Labor Market,rolling_stat
+UEMP15T26__rollstd6,UEMP15T26,Labor Market,rolling_stat
+UEMP15T26__rollz6,UEMP15T26,Labor Market,rolling_stat
+UEMP15T26__rollmean12,UEMP15T26,Labor Market,rolling_stat
+UEMP15T26__rollstd12,UEMP15T26,Labor Market,rolling_stat
+UEMP15T26__rollz12,UEMP15T26,Labor Market,rolling_stat
+UEMP15T26__rollmean24,UEMP15T26,Labor Market,rolling_stat
+UEMP15T26__rollstd24,UEMP15T26,Labor Market,rolling_stat
+UEMP15T26__rollz24,UEMP15T26,Labor Market,rolling_stat
+UEMP27OV__rollmean6,UEMP27OV,Labor Market,rolling_stat
+UEMP27OV__rollstd6,UEMP27OV,Labor Market,rolling_stat
+UEMP27OV__rollz6,UEMP27OV,Labor Market,rolling_stat
+UEMP27OV__rollmean12,UEMP27OV,Labor Market,rolling_stat
+UEMP27OV__rollstd12,UEMP27OV,Labor Market,rolling_stat
+UEMP27OV__rollz12,UEMP27OV,Labor Market,rolling_stat
+UEMP27OV__rollmean24,UEMP27OV,Labor Market,rolling_stat
+UEMP27OV__rollstd24,UEMP27OV,Labor Market,rolling_stat
+UEMP27OV__rollz24,UEMP27OV,Labor Market,rolling_stat
+PAYEMS__rollmean6,PAYEMS,Labor Market,rolling_stat
+PAYEMS__rollstd6,PAYEMS,Labor Market,rolling_stat
+PAYEMS__rollz6,PAYEMS,Labor Market,rolling_stat
+PAYEMS__rollmean12,PAYEMS,Labor Market,rolling_stat
+PAYEMS__rollstd12,PAYEMS,Labor Market,rolling_stat
+PAYEMS__rollz12,PAYEMS,Labor Market,rolling_stat
+PAYEMS__rollmean24,PAYEMS,Labor Market,rolling_stat
+PAYEMS__rollstd24,PAYEMS,Labor Market,rolling_stat
+PAYEMS__rollz24,PAYEMS,Labor Market,rolling_stat
+USGOOD__rollmean6,USGOOD,Labor Market,rolling_stat
+USGOOD__rollstd6,USGOOD,Labor Market,rolling_stat
+USGOOD__rollz6,USGOOD,Labor Market,rolling_stat
+USGOOD__rollmean12,USGOOD,Labor Market,rolling_stat
+USGOOD__rollstd12,USGOOD,Labor Market,rolling_stat
+USGOOD__rollz12,USGOOD,Labor Market,rolling_stat
+USGOOD__rollmean24,USGOOD,Labor Market,rolling_stat
+USGOOD__rollstd24,USGOOD,Labor Market,rolling_stat
+USGOOD__rollz24,USGOOD,Labor Market,rolling_stat
+CES1021000001__rollmean6,CES1021000001,Labor Market,rolling_stat
+CES1021000001__rollstd6,CES1021000001,Labor Market,rolling_stat
+CES1021000001__rollz6,CES1021000001,Labor Market,rolling_stat
+CES1021000001__rollmean12,CES1021000001,Labor Market,rolling_stat
+CES1021000001__rollstd12,CES1021000001,Labor Market,rolling_stat
+CES1021000001__rollz12,CES1021000001,Labor Market,rolling_stat
+CES1021000001__rollmean24,CES1021000001,Labor Market,rolling_stat
+CES1021000001__rollstd24,CES1021000001,Labor Market,rolling_stat
+CES1021000001__rollz24,CES1021000001,Labor Market,rolling_stat
+USCONS__rollmean6,USCONS,Labor Market,rolling_stat
+USCONS__rollstd6,USCONS,Labor Market,rolling_stat
+USCONS__rollz6,USCONS,Labor Market,rolling_stat
+USCONS__rollmean12,USCONS,Labor Market,rolling_stat
+USCONS__rollstd12,USCONS,Labor Market,rolling_stat
+USCONS__rollz12,USCONS,Labor Market,rolling_stat
+USCONS__rollmean24,USCONS,Labor Market,rolling_stat
+USCONS__rollstd24,USCONS,Labor Market,rolling_stat
+USCONS__rollz24,USCONS,Labor Market,rolling_stat
+MANEMP__rollmean6,MANEMP,Labor Market,rolling_stat
+MANEMP__rollstd6,MANEMP,Labor Market,rolling_stat
+MANEMP__rollz6,MANEMP,Labor Market,rolling_stat
+MANEMP__rollmean12,MANEMP,Labor Market,rolling_stat
+MANEMP__rollstd12,MANEMP,Labor Market,rolling_stat
+MANEMP__rollz12,MANEMP,Labor Market,rolling_stat
+MANEMP__rollmean24,MANEMP,Labor Market,rolling_stat
+MANEMP__rollstd24,MANEMP,Labor Market,rolling_stat
+MANEMP__rollz24,MANEMP,Labor Market,rolling_stat
+DMANEMP__rollmean6,DMANEMP,Labor Market,rolling_stat
+DMANEMP__rollstd6,DMANEMP,Labor Market,rolling_stat
+DMANEMP__rollz6,DMANEMP,Labor Market,rolling_stat
+DMANEMP__rollmean12,DMANEMP,Labor Market,rolling_stat
+DMANEMP__rollstd12,DMANEMP,Labor Market,rolling_stat
+DMANEMP__rollz12,DMANEMP,Labor Market,rolling_stat
+DMANEMP__rollmean24,DMANEMP,Labor Market,rolling_stat
+DMANEMP__rollstd24,DMANEMP,Labor Market,rolling_stat
+DMANEMP__rollz24,DMANEMP,Labor Market,rolling_stat
+NDMANEMP__rollmean6,NDMANEMP,Labor Market,rolling_stat
+NDMANEMP__rollstd6,NDMANEMP,Labor Market,rolling_stat
+NDMANEMP__rollz6,NDMANEMP,Labor Market,rolling_stat
+NDMANEMP__rollmean12,NDMANEMP,Labor Market,rolling_stat
+NDMANEMP__rollstd12,NDMANEMP,Labor Market,rolling_stat
+NDMANEMP__rollz12,NDMANEMP,Labor Market,rolling_stat
+NDMANEMP__rollmean24,NDMANEMP,Labor Market,rolling_stat
+NDMANEMP__rollstd24,NDMANEMP,Labor Market,rolling_stat
+NDMANEMP__rollz24,NDMANEMP,Labor Market,rolling_stat
+SRVPRD__rollmean6,SRVPRD,Labor Market,rolling_stat
+SRVPRD__rollstd6,SRVPRD,Labor Market,rolling_stat
+SRVPRD__rollz6,SRVPRD,Labor Market,rolling_stat
+SRVPRD__rollmean12,SRVPRD,Labor Market,rolling_stat
+SRVPRD__rollstd12,SRVPRD,Labor Market,rolling_stat
+SRVPRD__rollz12,SRVPRD,Labor Market,rolling_stat
+SRVPRD__rollmean24,SRVPRD,Labor Market,rolling_stat
+SRVPRD__rollstd24,SRVPRD,Labor Market,rolling_stat
+SRVPRD__rollz24,SRVPRD,Labor Market,rolling_stat
+USTPU__rollmean6,USTPU,Labor Market,rolling_stat
+USTPU__rollstd6,USTPU,Labor Market,rolling_stat
+USTPU__rollz6,USTPU,Labor Market,rolling_stat
+USTPU__rollmean12,USTPU,Labor Market,rolling_stat
+USTPU__rollstd12,USTPU,Labor Market,rolling_stat
+USTPU__rollz12,USTPU,Labor Market,rolling_stat
+USTPU__rollmean24,USTPU,Labor Market,rolling_stat
+USTPU__rollstd24,USTPU,Labor Market,rolling_stat
+USTPU__rollz24,USTPU,Labor Market,rolling_stat
+USWTRADE__rollmean6,USWTRADE,Labor Market,rolling_stat
+USWTRADE__rollstd6,USWTRADE,Labor Market,rolling_stat
+USWTRADE__rollz6,USWTRADE,Labor Market,rolling_stat
+USWTRADE__rollmean12,USWTRADE,Labor Market,rolling_stat
+USWTRADE__rollstd12,USWTRADE,Labor Market,rolling_stat
+USWTRADE__rollz12,USWTRADE,Labor Market,rolling_stat
+USWTRADE__rollmean24,USWTRADE,Labor Market,rolling_stat
+USWTRADE__rollstd24,USWTRADE,Labor Market,rolling_stat
+USWTRADE__rollz24,USWTRADE,Labor Market,rolling_stat
+USTRADE__rollmean6,USTRADE,Labor Market,rolling_stat
+USTRADE__rollstd6,USTRADE,Labor Market,rolling_stat
+USTRADE__rollz6,USTRADE,Labor Market,rolling_stat
+USTRADE__rollmean12,USTRADE,Labor Market,rolling_stat
+USTRADE__rollstd12,USTRADE,Labor Market,rolling_stat
+USTRADE__rollz12,USTRADE,Labor Market,rolling_stat
+USTRADE__rollmean24,USTRADE,Labor Market,rolling_stat
+USTRADE__rollstd24,USTRADE,Labor Market,rolling_stat
+USTRADE__rollz24,USTRADE,Labor Market,rolling_stat
+USFIRE__rollmean6,USFIRE,Labor Market,rolling_stat
+USFIRE__rollstd6,USFIRE,Labor Market,rolling_stat
+USFIRE__rollz6,USFIRE,Labor Market,rolling_stat
+USFIRE__rollmean12,USFIRE,Labor Market,rolling_stat
+USFIRE__rollstd12,USFIRE,Labor Market,rolling_stat
+USFIRE__rollz12,USFIRE,Labor Market,rolling_stat
+USFIRE__rollmean24,USFIRE,Labor Market,rolling_stat
+USFIRE__rollstd24,USFIRE,Labor Market,rolling_stat
+USFIRE__rollz24,USFIRE,Labor Market,rolling_stat
+USGOVT__rollmean6,USGOVT,Labor Market,rolling_stat
+USGOVT__rollstd6,USGOVT,Labor Market,rolling_stat
+USGOVT__rollz6,USGOVT,Labor Market,rolling_stat
+USGOVT__rollmean12,USGOVT,Labor Market,rolling_stat
+USGOVT__rollstd12,USGOVT,Labor Market,rolling_stat
+USGOVT__rollz12,USGOVT,Labor Market,rolling_stat
+USGOVT__rollmean24,USGOVT,Labor Market,rolling_stat
+USGOVT__rollstd24,USGOVT,Labor Market,rolling_stat
+USGOVT__rollz24,USGOVT,Labor Market,rolling_stat
+CES0600000007__rollmean6,CES0600000007,Labor Market,rolling_stat
+CES0600000007__rollstd6,CES0600000007,Labor Market,rolling_stat
+CES0600000007__rollz6,CES0600000007,Labor Market,rolling_stat
+CES0600000007__rollmean12,CES0600000007,Labor Market,rolling_stat
+CES0600000007__rollstd12,CES0600000007,Labor Market,rolling_stat
+CES0600000007__rollz12,CES0600000007,Labor Market,rolling_stat
+CES0600000007__rollmean24,CES0600000007,Labor Market,rolling_stat
+CES0600000007__rollstd24,CES0600000007,Labor Market,rolling_stat
+CES0600000007__rollz24,CES0600000007,Labor Market,rolling_stat
+AWOTMAN__rollmean6,AWOTMAN,Labor Market,rolling_stat
+AWOTMAN__rollstd6,AWOTMAN,Labor Market,rolling_stat
+AWOTMAN__rollz6,AWOTMAN,Labor Market,rolling_stat
+AWOTMAN__rollmean12,AWOTMAN,Labor Market,rolling_stat
+AWOTMAN__rollstd12,AWOTMAN,Labor Market,rolling_stat
+AWOTMAN__rollz12,AWOTMAN,Labor Market,rolling_stat
+AWOTMAN__rollmean24,AWOTMAN,Labor Market,rolling_stat
+AWOTMAN__rollstd24,AWOTMAN,Labor Market,rolling_stat
+AWOTMAN__rollz24,AWOTMAN,Labor Market,rolling_stat
+AWHMAN__rollmean6,AWHMAN,Labor Market,rolling_stat
+AWHMAN__rollstd6,AWHMAN,Labor Market,rolling_stat
+AWHMAN__rollz6,AWHMAN,Labor Market,rolling_stat
+AWHMAN__rollmean12,AWHMAN,Labor Market,rolling_stat
+AWHMAN__rollstd12,AWHMAN,Labor Market,rolling_stat
+AWHMAN__rollz12,AWHMAN,Labor Market,rolling_stat
+AWHMAN__rollmean24,AWHMAN,Labor Market,rolling_stat
+AWHMAN__rollstd24,AWHMAN,Labor Market,rolling_stat
+AWHMAN__rollz24,AWHMAN,Labor Market,rolling_stat
+HOUST__rollmean6,HOUST,Housing,rolling_stat
+HOUST__rollstd6,HOUST,Housing,rolling_stat
+HOUST__rollz6,HOUST,Housing,rolling_stat
+HOUST__rollmean12,HOUST,Housing,rolling_stat
+HOUST__rollstd12,HOUST,Housing,rolling_stat
+HOUST__rollz12,HOUST,Housing,rolling_stat
+HOUST__rollmean24,HOUST,Housing,rolling_stat
+HOUST__rollstd24,HOUST,Housing,rolling_stat
+HOUST__rollz24,HOUST,Housing,rolling_stat
+HOUSTNE__rollmean6,HOUSTNE,Housing,rolling_stat
+HOUSTNE__rollstd6,HOUSTNE,Housing,rolling_stat
+HOUSTNE__rollz6,HOUSTNE,Housing,rolling_stat
+HOUSTNE__rollmean12,HOUSTNE,Housing,rolling_stat
+HOUSTNE__rollstd12,HOUSTNE,Housing,rolling_stat
+HOUSTNE__rollz12,HOUSTNE,Housing,rolling_stat
+HOUSTNE__rollmean24,HOUSTNE,Housing,rolling_stat
+HOUSTNE__rollstd24,HOUSTNE,Housing,rolling_stat
+HOUSTNE__rollz24,HOUSTNE,Housing,rolling_stat
+HOUSTMW__rollmean6,HOUSTMW,Housing,rolling_stat
+HOUSTMW__rollstd6,HOUSTMW,Housing,rolling_stat
+HOUSTMW__rollz6,HOUSTMW,Housing,rolling_stat
+HOUSTMW__rollmean12,HOUSTMW,Housing,rolling_stat
+HOUSTMW__rollstd12,HOUSTMW,Housing,rolling_stat
+HOUSTMW__rollz12,HOUSTMW,Housing,rolling_stat
+HOUSTMW__rollmean24,HOUSTMW,Housing,rolling_stat
+HOUSTMW__rollstd24,HOUSTMW,Housing,rolling_stat
+HOUSTMW__rollz24,HOUSTMW,Housing,rolling_stat
+HOUSTS__rollmean6,HOUSTS,Housing,rolling_stat
+HOUSTS__rollstd6,HOUSTS,Housing,rolling_stat
+HOUSTS__rollz6,HOUSTS,Housing,rolling_stat
+HOUSTS__rollmean12,HOUSTS,Housing,rolling_stat
+HOUSTS__rollstd12,HOUSTS,Housing,rolling_stat
+HOUSTS__rollz12,HOUSTS,Housing,rolling_stat
+HOUSTS__rollmean24,HOUSTS,Housing,rolling_stat
+HOUSTS__rollstd24,HOUSTS,Housing,rolling_stat
+HOUSTS__rollz24,HOUSTS,Housing,rolling_stat
+HOUSTW__rollmean6,HOUSTW,Housing,rolling_stat
+HOUSTW__rollstd6,HOUSTW,Housing,rolling_stat
+HOUSTW__rollz6,HOUSTW,Housing,rolling_stat
+HOUSTW__rollmean12,HOUSTW,Housing,rolling_stat
+HOUSTW__rollstd12,HOUSTW,Housing,rolling_stat
+HOUSTW__rollz12,HOUSTW,Housing,rolling_stat
+HOUSTW__rollmean24,HOUSTW,Housing,rolling_stat
+HOUSTW__rollstd24,HOUSTW,Housing,rolling_stat
+HOUSTW__rollz24,HOUSTW,Housing,rolling_stat
+PERMIT__rollmean6,PERMIT,Housing,rolling_stat
+PERMIT__rollstd6,PERMIT,Housing,rolling_stat
+PERMIT__rollz6,PERMIT,Housing,rolling_stat
+PERMIT__rollmean12,PERMIT,Housing,rolling_stat
+PERMIT__rollstd12,PERMIT,Housing,rolling_stat
+PERMIT__rollz12,PERMIT,Housing,rolling_stat
+PERMIT__rollmean24,PERMIT,Housing,rolling_stat
+PERMIT__rollstd24,PERMIT,Housing,rolling_stat
+PERMIT__rollz24,PERMIT,Housing,rolling_stat
+PERMITNE__rollmean6,PERMITNE,Housing,rolling_stat
+PERMITNE__rollstd6,PERMITNE,Housing,rolling_stat
+PERMITNE__rollz6,PERMITNE,Housing,rolling_stat
+PERMITNE__rollmean12,PERMITNE,Housing,rolling_stat
+PERMITNE__rollstd12,PERMITNE,Housing,rolling_stat
+PERMITNE__rollz12,PERMITNE,Housing,rolling_stat
+PERMITNE__rollmean24,PERMITNE,Housing,rolling_stat
+PERMITNE__rollstd24,PERMITNE,Housing,rolling_stat
+PERMITNE__rollz24,PERMITNE,Housing,rolling_stat
+PERMITMW__rollmean6,PERMITMW,Housing,rolling_stat
+PERMITMW__rollstd6,PERMITMW,Housing,rolling_stat
+PERMITMW__rollz6,PERMITMW,Housing,rolling_stat
+PERMITMW__rollmean12,PERMITMW,Housing,rolling_stat
+PERMITMW__rollstd12,PERMITMW,Housing,rolling_stat
+PERMITMW__rollz12,PERMITMW,Housing,rolling_stat
+PERMITMW__rollmean24,PERMITMW,Housing,rolling_stat
+PERMITMW__rollstd24,PERMITMW,Housing,rolling_stat
+PERMITMW__rollz24,PERMITMW,Housing,rolling_stat
+PERMITS__rollmean6,PERMITS,Housing,rolling_stat
+PERMITS__rollstd6,PERMITS,Housing,rolling_stat
+PERMITS__rollz6,PERMITS,Housing,rolling_stat
+PERMITS__rollmean12,PERMITS,Housing,rolling_stat
+PERMITS__rollstd12,PERMITS,Housing,rolling_stat
+PERMITS__rollz12,PERMITS,Housing,rolling_stat
+PERMITS__rollmean24,PERMITS,Housing,rolling_stat
+PERMITS__rollstd24,PERMITS,Housing,rolling_stat
+PERMITS__rollz24,PERMITS,Housing,rolling_stat
+PERMITW__rollmean6,PERMITW,Housing,rolling_stat
+PERMITW__rollstd6,PERMITW,Housing,rolling_stat
+PERMITW__rollz6,PERMITW,Housing,rolling_stat
+PERMITW__rollmean12,PERMITW,Housing,rolling_stat
+PERMITW__rollstd12,PERMITW,Housing,rolling_stat
+PERMITW__rollz12,PERMITW,Housing,rolling_stat
+PERMITW__rollmean24,PERMITW,Housing,rolling_stat
+PERMITW__rollstd24,PERMITW,Housing,rolling_stat
+PERMITW__rollz24,PERMITW,Housing,rolling_stat
+DPCERA3M086SBEA__rollmean6,DPCERA3M086SBEA,"Consumption, Orders and Inventories",rolling_stat
+DPCERA3M086SBEA__rollstd6,DPCERA3M086SBEA,"Consumption, Orders and Inventories",rolling_stat
+DPCERA3M086SBEA__rollz6,DPCERA3M086SBEA,"Consumption, Orders and Inventories",rolling_stat
+DPCERA3M086SBEA__rollmean12,DPCERA3M086SBEA,"Consumption, Orders and Inventories",rolling_stat
+DPCERA3M086SBEA__rollstd12,DPCERA3M086SBEA,"Consumption, Orders and Inventories",rolling_stat
+DPCERA3M086SBEA__rollz12,DPCERA3M086SBEA,"Consumption, Orders and Inventories",rolling_stat
+DPCERA3M086SBEA__rollmean24,DPCERA3M086SBEA,"Consumption, Orders and Inventories",rolling_stat
+DPCERA3M086SBEA__rollstd24,DPCERA3M086SBEA,"Consumption, Orders and Inventories",rolling_stat
+DPCERA3M086SBEA__rollz24,DPCERA3M086SBEA,"Consumption, Orders and Inventories",rolling_stat
+M1SL__rollmean6,M1SL,Money and Credit,rolling_stat
+M1SL__rollstd6,M1SL,Money and Credit,rolling_stat
+M1SL__rollz6,M1SL,Money and Credit,rolling_stat
+M1SL__rollmean12,M1SL,Money and Credit,rolling_stat
+M1SL__rollstd12,M1SL,Money and Credit,rolling_stat
+M1SL__rollz12,M1SL,Money and Credit,rolling_stat
+M1SL__rollmean24,M1SL,Money and Credit,rolling_stat
+M1SL__rollstd24,M1SL,Money and Credit,rolling_stat
+M1SL__rollz24,M1SL,Money and Credit,rolling_stat
+M2SL__rollmean6,M2SL,Money and Credit,rolling_stat
+M2SL__rollstd6,M2SL,Money and Credit,rolling_stat
+M2SL__rollz6,M2SL,Money and Credit,rolling_stat
+M2SL__rollmean12,M2SL,Money and Credit,rolling_stat
+M2SL__rollstd12,M2SL,Money and Credit,rolling_stat
+M2SL__rollz12,M2SL,Money and Credit,rolling_stat
+M2SL__rollmean24,M2SL,Money and Credit,rolling_stat
+M2SL__rollstd24,M2SL,Money and Credit,rolling_stat
+M2SL__rollz24,M2SL,Money and Credit,rolling_stat
+M2REAL__rollmean6,M2REAL,Money and Credit,rolling_stat
+M2REAL__rollstd6,M2REAL,Money and Credit,rolling_stat
+M2REAL__rollz6,M2REAL,Money and Credit,rolling_stat
+M2REAL__rollmean12,M2REAL,Money and Credit,rolling_stat
+M2REAL__rollstd12,M2REAL,Money and Credit,rolling_stat
+M2REAL__rollz12,M2REAL,Money and Credit,rolling_stat
+M2REAL__rollmean24,M2REAL,Money and Credit,rolling_stat
+M2REAL__rollstd24,M2REAL,Money and Credit,rolling_stat
+M2REAL__rollz24,M2REAL,Money and Credit,rolling_stat
+TOTRESNS__rollmean6,TOTRESNS,Money and Credit,rolling_stat
+TOTRESNS__rollstd6,TOTRESNS,Money and Credit,rolling_stat
+TOTRESNS__rollz6,TOTRESNS,Money and Credit,rolling_stat
+TOTRESNS__rollmean12,TOTRESNS,Money and Credit,rolling_stat
+TOTRESNS__rollstd12,TOTRESNS,Money and Credit,rolling_stat
+TOTRESNS__rollz12,TOTRESNS,Money and Credit,rolling_stat
+TOTRESNS__rollmean24,TOTRESNS,Money and Credit,rolling_stat
+TOTRESNS__rollstd24,TOTRESNS,Money and Credit,rolling_stat
+TOTRESNS__rollz24,TOTRESNS,Money and Credit,rolling_stat
+NONBORRES__rollmean6,NONBORRES,Money and Credit,rolling_stat
+NONBORRES__rollstd6,NONBORRES,Money and Credit,rolling_stat
+NONBORRES__rollz6,NONBORRES,Money and Credit,rolling_stat
+NONBORRES__rollmean12,NONBORRES,Money and Credit,rolling_stat
+NONBORRES__rollstd12,NONBORRES,Money and Credit,rolling_stat
+NONBORRES__rollz12,NONBORRES,Money and Credit,rolling_stat
+NONBORRES__rollmean24,NONBORRES,Money and Credit,rolling_stat
+NONBORRES__rollstd24,NONBORRES,Money and Credit,rolling_stat
+NONBORRES__rollz24,NONBORRES,Money and Credit,rolling_stat
+BUSLOANS__rollmean6,BUSLOANS,Money and Credit,rolling_stat
+BUSLOANS__rollstd6,BUSLOANS,Money and Credit,rolling_stat
+BUSLOANS__rollz6,BUSLOANS,Money and Credit,rolling_stat
+BUSLOANS__rollmean12,BUSLOANS,Money and Credit,rolling_stat
+BUSLOANS__rollstd12,BUSLOANS,Money and Credit,rolling_stat
+BUSLOANS__rollz12,BUSLOANS,Money and Credit,rolling_stat
+BUSLOANS__rollmean24,BUSLOANS,Money and Credit,rolling_stat
+BUSLOANS__rollstd24,BUSLOANS,Money and Credit,rolling_stat
+BUSLOANS__rollz24,BUSLOANS,Money and Credit,rolling_stat
+REALLN__rollmean6,REALLN,Money and Credit,rolling_stat
+REALLN__rollstd6,REALLN,Money and Credit,rolling_stat
+REALLN__rollz6,REALLN,Money and Credit,rolling_stat
+REALLN__rollmean12,REALLN,Money and Credit,rolling_stat
+REALLN__rollstd12,REALLN,Money and Credit,rolling_stat
+REALLN__rollz12,REALLN,Money and Credit,rolling_stat
+REALLN__rollmean24,REALLN,Money and Credit,rolling_stat
+REALLN__rollstd24,REALLN,Money and Credit,rolling_stat
+REALLN__rollz24,REALLN,Money and Credit,rolling_stat
+NONREVSL__rollmean6,NONREVSL,Money and Credit,rolling_stat
+NONREVSL__rollstd6,NONREVSL,Money and Credit,rolling_stat
+NONREVSL__rollz6,NONREVSL,Money and Credit,rolling_stat
+NONREVSL__rollmean12,NONREVSL,Money and Credit,rolling_stat
+NONREVSL__rollstd12,NONREVSL,Money and Credit,rolling_stat
+NONREVSL__rollz12,NONREVSL,Money and Credit,rolling_stat
+NONREVSL__rollmean24,NONREVSL,Money and Credit,rolling_stat
+NONREVSL__rollstd24,NONREVSL,Money and Credit,rolling_stat
+NONREVSL__rollz24,NONREVSL,Money and Credit,rolling_stat
+DTCOLNVHFNM__rollmean6,DTCOLNVHFNM,Money and Credit,rolling_stat
+DTCOLNVHFNM__rollstd6,DTCOLNVHFNM,Money and Credit,rolling_stat
+DTCOLNVHFNM__rollz6,DTCOLNVHFNM,Money and Credit,rolling_stat
+DTCOLNVHFNM__rollmean12,DTCOLNVHFNM,Money and Credit,rolling_stat
+DTCOLNVHFNM__rollstd12,DTCOLNVHFNM,Money and Credit,rolling_stat
+DTCOLNVHFNM__rollz12,DTCOLNVHFNM,Money and Credit,rolling_stat
+DTCOLNVHFNM__rollmean24,DTCOLNVHFNM,Money and Credit,rolling_stat
+DTCOLNVHFNM__rollstd24,DTCOLNVHFNM,Money and Credit,rolling_stat
+DTCOLNVHFNM__rollz24,DTCOLNVHFNM,Money and Credit,rolling_stat
+DTCTHFNM__rollmean6,DTCTHFNM,Money and Credit,rolling_stat
+DTCTHFNM__rollstd6,DTCTHFNM,Money and Credit,rolling_stat
+DTCTHFNM__rollz6,DTCTHFNM,Money and Credit,rolling_stat
+DTCTHFNM__rollmean12,DTCTHFNM,Money and Credit,rolling_stat
+DTCTHFNM__rollstd12,DTCTHFNM,Money and Credit,rolling_stat
+DTCTHFNM__rollz12,DTCTHFNM,Money and Credit,rolling_stat
+DTCTHFNM__rollmean24,DTCTHFNM,Money and Credit,rolling_stat
+DTCTHFNM__rollstd24,DTCTHFNM,Money and Credit,rolling_stat
+DTCTHFNM__rollz24,DTCTHFNM,Money and Credit,rolling_stat
+INVEST__rollmean6,INVEST,Money and Credit,rolling_stat
+INVEST__rollstd6,INVEST,Money and Credit,rolling_stat
+INVEST__rollz6,INVEST,Money and Credit,rolling_stat
+INVEST__rollmean12,INVEST,Money and Credit,rolling_stat
+INVEST__rollstd12,INVEST,Money and Credit,rolling_stat
+INVEST__rollz12,INVEST,Money and Credit,rolling_stat
+INVEST__rollmean24,INVEST,Money and Credit,rolling_stat
+INVEST__rollstd24,INVEST,Money and Credit,rolling_stat
+INVEST__rollz24,INVEST,Money and Credit,rolling_stat
+FEDFUNDS__rollmean6,FEDFUNDS,Interest and Exchange Rates,rolling_stat
+FEDFUNDS__rollstd6,FEDFUNDS,Interest and Exchange Rates,rolling_stat
+FEDFUNDS__rollz6,FEDFUNDS,Interest and Exchange Rates,rolling_stat
+FEDFUNDS__rollmean12,FEDFUNDS,Interest and Exchange Rates,rolling_stat
+FEDFUNDS__rollstd12,FEDFUNDS,Interest and Exchange Rates,rolling_stat
+FEDFUNDS__rollz12,FEDFUNDS,Interest and Exchange Rates,rolling_stat
+FEDFUNDS__rollmean24,FEDFUNDS,Interest and Exchange Rates,rolling_stat
+FEDFUNDS__rollstd24,FEDFUNDS,Interest and Exchange Rates,rolling_stat
+FEDFUNDS__rollz24,FEDFUNDS,Interest and Exchange Rates,rolling_stat
+TB3MS__rollmean6,TB3MS,Interest and Exchange Rates,rolling_stat
+TB3MS__rollstd6,TB3MS,Interest and Exchange Rates,rolling_stat
+TB3MS__rollz6,TB3MS,Interest and Exchange Rates,rolling_stat
+TB3MS__rollmean12,TB3MS,Interest and Exchange Rates,rolling_stat
+TB3MS__rollstd12,TB3MS,Interest and Exchange Rates,rolling_stat
+TB3MS__rollz12,TB3MS,Interest and Exchange Rates,rolling_stat
+TB3MS__rollmean24,TB3MS,Interest and Exchange Rates,rolling_stat
+TB3MS__rollstd24,TB3MS,Interest and Exchange Rates,rolling_stat
+TB3MS__rollz24,TB3MS,Interest and Exchange Rates,rolling_stat
+TB6MS__rollmean6,TB6MS,Interest and Exchange Rates,rolling_stat
+TB6MS__rollstd6,TB6MS,Interest and Exchange Rates,rolling_stat
+TB6MS__rollz6,TB6MS,Interest and Exchange Rates,rolling_stat
+TB6MS__rollmean12,TB6MS,Interest and Exchange Rates,rolling_stat
+TB6MS__rollstd12,TB6MS,Interest and Exchange Rates,rolling_stat
+TB6MS__rollz12,TB6MS,Interest and Exchange Rates,rolling_stat
+TB6MS__rollmean24,TB6MS,Interest and Exchange Rates,rolling_stat
+TB6MS__rollstd24,TB6MS,Interest and Exchange Rates,rolling_stat
+TB6MS__rollz24,TB6MS,Interest and Exchange Rates,rolling_stat
+GS1__rollmean6,GS1,Interest and Exchange Rates,rolling_stat
+GS1__rollstd6,GS1,Interest and Exchange Rates,rolling_stat
+GS1__rollz6,GS1,Interest and Exchange Rates,rolling_stat
+GS1__rollmean12,GS1,Interest and Exchange Rates,rolling_stat
+GS1__rollstd12,GS1,Interest and Exchange Rates,rolling_stat
+GS1__rollz12,GS1,Interest and Exchange Rates,rolling_stat
+GS1__rollmean24,GS1,Interest and Exchange Rates,rolling_stat
+GS1__rollstd24,GS1,Interest and Exchange Rates,rolling_stat
+GS1__rollz24,GS1,Interest and Exchange Rates,rolling_stat
+GS5__rollmean6,GS5,Interest and Exchange Rates,rolling_stat
+GS5__rollstd6,GS5,Interest and Exchange Rates,rolling_stat
+GS5__rollz6,GS5,Interest and Exchange Rates,rolling_stat
+GS5__rollmean12,GS5,Interest and Exchange Rates,rolling_stat
+GS5__rollstd12,GS5,Interest and Exchange Rates,rolling_stat
+GS5__rollz12,GS5,Interest and Exchange Rates,rolling_stat
+GS5__rollmean24,GS5,Interest and Exchange Rates,rolling_stat
+GS5__rollstd24,GS5,Interest and Exchange Rates,rolling_stat
+GS5__rollz24,GS5,Interest and Exchange Rates,rolling_stat
+GS10__rollmean6,GS10,Interest and Exchange Rates,rolling_stat
+GS10__rollstd6,GS10,Interest and Exchange Rates,rolling_stat
+GS10__rollz6,GS10,Interest and Exchange Rates,rolling_stat
+GS10__rollmean12,GS10,Interest and Exchange Rates,rolling_stat
+GS10__rollstd12,GS10,Interest and Exchange Rates,rolling_stat
+GS10__rollz12,GS10,Interest and Exchange Rates,rolling_stat
+GS10__rollmean24,GS10,Interest and Exchange Rates,rolling_stat
+GS10__rollstd24,GS10,Interest and Exchange Rates,rolling_stat
+GS10__rollz24,GS10,Interest and Exchange Rates,rolling_stat
+AAA__rollmean6,AAA,Interest and Exchange Rates,rolling_stat
+AAA__rollstd6,AAA,Interest and Exchange Rates,rolling_stat
+AAA__rollz6,AAA,Interest and Exchange Rates,rolling_stat
+AAA__rollmean12,AAA,Interest and Exchange Rates,rolling_stat
+AAA__rollstd12,AAA,Interest and Exchange Rates,rolling_stat
+AAA__rollz12,AAA,Interest and Exchange Rates,rolling_stat
+AAA__rollmean24,AAA,Interest and Exchange Rates,rolling_stat
+AAA__rollstd24,AAA,Interest and Exchange Rates,rolling_stat
+AAA__rollz24,AAA,Interest and Exchange Rates,rolling_stat
+BAA__rollmean6,BAA,Interest and Exchange Rates,rolling_stat
+BAA__rollstd6,BAA,Interest and Exchange Rates,rolling_stat
+BAA__rollz6,BAA,Interest and Exchange Rates,rolling_stat
+BAA__rollmean12,BAA,Interest and Exchange Rates,rolling_stat
+BAA__rollstd12,BAA,Interest and Exchange Rates,rolling_stat
+BAA__rollz12,BAA,Interest and Exchange Rates,rolling_stat
+BAA__rollmean24,BAA,Interest and Exchange Rates,rolling_stat
+BAA__rollstd24,BAA,Interest and Exchange Rates,rolling_stat
+BAA__rollz24,BAA,Interest and Exchange Rates,rolling_stat
+WPSFD49207__rollmean6,WPSFD49207,Prices,rolling_stat
+WPSFD49207__rollstd6,WPSFD49207,Prices,rolling_stat
+WPSFD49207__rollz6,WPSFD49207,Prices,rolling_stat
+WPSFD49207__rollmean12,WPSFD49207,Prices,rolling_stat
+WPSFD49207__rollstd12,WPSFD49207,Prices,rolling_stat
+WPSFD49207__rollz12,WPSFD49207,Prices,rolling_stat
+WPSFD49207__rollmean24,WPSFD49207,Prices,rolling_stat
+WPSFD49207__rollstd24,WPSFD49207,Prices,rolling_stat
+WPSFD49207__rollz24,WPSFD49207,Prices,rolling_stat
+WPSFD49502__rollmean6,WPSFD49502,Prices,rolling_stat
+WPSFD49502__rollstd6,WPSFD49502,Prices,rolling_stat
+WPSFD49502__rollz6,WPSFD49502,Prices,rolling_stat
+WPSFD49502__rollmean12,WPSFD49502,Prices,rolling_stat
+WPSFD49502__rollstd12,WPSFD49502,Prices,rolling_stat
+WPSFD49502__rollz12,WPSFD49502,Prices,rolling_stat
+WPSFD49502__rollmean24,WPSFD49502,Prices,rolling_stat
+WPSFD49502__rollstd24,WPSFD49502,Prices,rolling_stat
+WPSFD49502__rollz24,WPSFD49502,Prices,rolling_stat
+WPSID61__rollmean6,WPSID61,Prices,rolling_stat
+WPSID61__rollstd6,WPSID61,Prices,rolling_stat
+WPSID61__rollz6,WPSID61,Prices,rolling_stat
+WPSID61__rollmean12,WPSID61,Prices,rolling_stat
+WPSID61__rollstd12,WPSID61,Prices,rolling_stat
+WPSID61__rollz12,WPSID61,Prices,rolling_stat
+WPSID61__rollmean24,WPSID61,Prices,rolling_stat
+WPSID61__rollstd24,WPSID61,Prices,rolling_stat
+WPSID61__rollz24,WPSID61,Prices,rolling_stat
+WPSID62__rollmean6,WPSID62,Prices,rolling_stat
+WPSID62__rollstd6,WPSID62,Prices,rolling_stat
+WPSID62__rollz6,WPSID62,Prices,rolling_stat
+WPSID62__rollmean12,WPSID62,Prices,rolling_stat
+WPSID62__rollstd12,WPSID62,Prices,rolling_stat
+WPSID62__rollz12,WPSID62,Prices,rolling_stat
+WPSID62__rollmean24,WPSID62,Prices,rolling_stat
+WPSID62__rollstd24,WPSID62,Prices,rolling_stat
+WPSID62__rollz24,WPSID62,Prices,rolling_stat
+OILPRICEx__rollmean6,OILPRICEx,Prices,rolling_stat
+OILPRICEx__rollstd6,OILPRICEx,Prices,rolling_stat
+OILPRICEx__rollz6,OILPRICEx,Prices,rolling_stat
+OILPRICEx__rollmean12,OILPRICEx,Prices,rolling_stat
+OILPRICEx__rollstd12,OILPRICEx,Prices,rolling_stat
+OILPRICEx__rollz12,OILPRICEx,Prices,rolling_stat
+OILPRICEx__rollmean24,OILPRICEx,Prices,rolling_stat
+OILPRICEx__rollstd24,OILPRICEx,Prices,rolling_stat
+OILPRICEx__rollz24,OILPRICEx,Prices,rolling_stat
+PPICMM__rollmean6,PPICMM,Prices,rolling_stat
+PPICMM__rollstd6,PPICMM,Prices,rolling_stat
+PPICMM__rollz6,PPICMM,Prices,rolling_stat
+PPICMM__rollmean12,PPICMM,Prices,rolling_stat
+PPICMM__rollstd12,PPICMM,Prices,rolling_stat
+PPICMM__rollz12,PPICMM,Prices,rolling_stat
+PPICMM__rollmean24,PPICMM,Prices,rolling_stat
+PPICMM__rollstd24,PPICMM,Prices,rolling_stat
+PPICMM__rollz24,PPICMM,Prices,rolling_stat
+CPIAUCSL__rollmean6,CPIAUCSL,Prices,rolling_stat
+CPIAUCSL__rollstd6,CPIAUCSL,Prices,rolling_stat
+CPIAUCSL__rollz6,CPIAUCSL,Prices,rolling_stat
+CPIAUCSL__rollmean12,CPIAUCSL,Prices,rolling_stat
+CPIAUCSL__rollstd12,CPIAUCSL,Prices,rolling_stat
+CPIAUCSL__rollz12,CPIAUCSL,Prices,rolling_stat
+CPIAUCSL__rollmean24,CPIAUCSL,Prices,rolling_stat
+CPIAUCSL__rollstd24,CPIAUCSL,Prices,rolling_stat
+CPIAUCSL__rollz24,CPIAUCSL,Prices,rolling_stat
+CPIAPPSL__rollmean6,CPIAPPSL,Prices,rolling_stat
+CPIAPPSL__rollstd6,CPIAPPSL,Prices,rolling_stat
+CPIAPPSL__rollz6,CPIAPPSL,Prices,rolling_stat
+CPIAPPSL__rollmean12,CPIAPPSL,Prices,rolling_stat
+CPIAPPSL__rollstd12,CPIAPPSL,Prices,rolling_stat
+CPIAPPSL__rollz12,CPIAPPSL,Prices,rolling_stat
+CPIAPPSL__rollmean24,CPIAPPSL,Prices,rolling_stat
+CPIAPPSL__rollstd24,CPIAPPSL,Prices,rolling_stat
+CPIAPPSL__rollz24,CPIAPPSL,Prices,rolling_stat
+CPITRNSL__rollmean6,CPITRNSL,Prices,rolling_stat
+CPITRNSL__rollstd6,CPITRNSL,Prices,rolling_stat
+CPITRNSL__rollz6,CPITRNSL,Prices,rolling_stat
+CPITRNSL__rollmean12,CPITRNSL,Prices,rolling_stat
+CPITRNSL__rollstd12,CPITRNSL,Prices,rolling_stat
+CPITRNSL__rollz12,CPITRNSL,Prices,rolling_stat
+CPITRNSL__rollmean24,CPITRNSL,Prices,rolling_stat
+CPITRNSL__rollstd24,CPITRNSL,Prices,rolling_stat
+CPITRNSL__rollz24,CPITRNSL,Prices,rolling_stat
+CPIMEDSL__rollmean6,CPIMEDSL,Prices,rolling_stat
+CPIMEDSL__rollstd6,CPIMEDSL,Prices,rolling_stat
+CPIMEDSL__rollz6,CPIMEDSL,Prices,rolling_stat
+CPIMEDSL__rollmean12,CPIMEDSL,Prices,rolling_stat
+CPIMEDSL__rollstd12,CPIMEDSL,Prices,rolling_stat
+CPIMEDSL__rollz12,CPIMEDSL,Prices,rolling_stat
+CPIMEDSL__rollmean24,CPIMEDSL,Prices,rolling_stat
+CPIMEDSL__rollstd24,CPIMEDSL,Prices,rolling_stat
+CPIMEDSL__rollz24,CPIMEDSL,Prices,rolling_stat
+CUSR0000SAC__rollmean6,CUSR0000SAC,Prices,rolling_stat
+CUSR0000SAC__rollstd6,CUSR0000SAC,Prices,rolling_stat
+CUSR0000SAC__rollz6,CUSR0000SAC,Prices,rolling_stat
+CUSR0000SAC__rollmean12,CUSR0000SAC,Prices,rolling_stat
+CUSR0000SAC__rollstd12,CUSR0000SAC,Prices,rolling_stat
+CUSR0000SAC__rollz12,CUSR0000SAC,Prices,rolling_stat
+CUSR0000SAC__rollmean24,CUSR0000SAC,Prices,rolling_stat
+CUSR0000SAC__rollstd24,CUSR0000SAC,Prices,rolling_stat
+CUSR0000SAC__rollz24,CUSR0000SAC,Prices,rolling_stat
+CUUR0000SAD__rollmean6,CUUR0000SAD,Prices,rolling_stat
+CUUR0000SAD__rollstd6,CUUR0000SAD,Prices,rolling_stat
+CUUR0000SAD__rollz6,CUUR0000SAD,Prices,rolling_stat
+CUUR0000SAD__rollmean12,CUUR0000SAD,Prices,rolling_stat
+CUUR0000SAD__rollstd12,CUUR0000SAD,Prices,rolling_stat
+CUUR0000SAD__rollz12,CUUR0000SAD,Prices,rolling_stat
+CUUR0000SAD__rollmean24,CUUR0000SAD,Prices,rolling_stat
+CUUR0000SAD__rollstd24,CUUR0000SAD,Prices,rolling_stat
+CUUR0000SAD__rollz24,CUUR0000SAD,Prices,rolling_stat
+CUSR0000SAS__rollmean6,CUSR0000SAS,Prices,rolling_stat
+CUSR0000SAS__rollstd6,CUSR0000SAS,Prices,rolling_stat
+CUSR0000SAS__rollz6,CUSR0000SAS,Prices,rolling_stat
+CUSR0000SAS__rollmean12,CUSR0000SAS,Prices,rolling_stat
+CUSR0000SAS__rollstd12,CUSR0000SAS,Prices,rolling_stat
+CUSR0000SAS__rollz12,CUSR0000SAS,Prices,rolling_stat
+CUSR0000SAS__rollmean24,CUSR0000SAS,Prices,rolling_stat
+CUSR0000SAS__rollstd24,CUSR0000SAS,Prices,rolling_stat
+CUSR0000SAS__rollz24,CUSR0000SAS,Prices,rolling_stat
+CPIULFSL__rollmean6,CPIULFSL,Prices,rolling_stat
+CPIULFSL__rollstd6,CPIULFSL,Prices,rolling_stat
+CPIULFSL__rollz6,CPIULFSL,Prices,rolling_stat
+CPIULFSL__rollmean12,CPIULFSL,Prices,rolling_stat
+CPIULFSL__rollstd12,CPIULFSL,Prices,rolling_stat
+CPIULFSL__rollz12,CPIULFSL,Prices,rolling_stat
+CPIULFSL__rollmean24,CPIULFSL,Prices,rolling_stat
+CPIULFSL__rollstd24,CPIULFSL,Prices,rolling_stat
+CPIULFSL__rollz24,CPIULFSL,Prices,rolling_stat
+CUUR0000SA0L2__rollmean6,CUUR0000SA0L2,Prices,rolling_stat
+CUUR0000SA0L2__rollstd6,CUUR0000SA0L2,Prices,rolling_stat
+CUUR0000SA0L2__rollz6,CUUR0000SA0L2,Prices,rolling_stat
+CUUR0000SA0L2__rollmean12,CUUR0000SA0L2,Prices,rolling_stat
+CUUR0000SA0L2__rollstd12,CUUR0000SA0L2,Prices,rolling_stat
+CUUR0000SA0L2__rollz12,CUUR0000SA0L2,Prices,rolling_stat
+CUUR0000SA0L2__rollmean24,CUUR0000SA0L2,Prices,rolling_stat
+CUUR0000SA0L2__rollstd24,CUUR0000SA0L2,Prices,rolling_stat
+CUUR0000SA0L2__rollz24,CUUR0000SA0L2,Prices,rolling_stat
+CUSR0000SA0L5__rollmean6,CUSR0000SA0L5,Prices,rolling_stat
+CUSR0000SA0L5__rollstd6,CUSR0000SA0L5,Prices,rolling_stat
+CUSR0000SA0L5__rollz6,CUSR0000SA0L5,Prices,rolling_stat
+CUSR0000SA0L5__rollmean12,CUSR0000SA0L5,Prices,rolling_stat
+CUSR0000SA0L5__rollstd12,CUSR0000SA0L5,Prices,rolling_stat
+CUSR0000SA0L5__rollz12,CUSR0000SA0L5,Prices,rolling_stat
+CUSR0000SA0L5__rollmean24,CUSR0000SA0L5,Prices,rolling_stat
+CUSR0000SA0L5__rollstd24,CUSR0000SA0L5,Prices,rolling_stat
+CUSR0000SA0L5__rollz24,CUSR0000SA0L5,Prices,rolling_stat
+PCEPI__rollmean6,PCEPI,Prices,rolling_stat
+PCEPI__rollstd6,PCEPI,Prices,rolling_stat
+PCEPI__rollz6,PCEPI,Prices,rolling_stat
+PCEPI__rollmean12,PCEPI,Prices,rolling_stat
+PCEPI__rollstd12,PCEPI,Prices,rolling_stat
+PCEPI__rollz12,PCEPI,Prices,rolling_stat
+PCEPI__rollmean24,PCEPI,Prices,rolling_stat
+PCEPI__rollstd24,PCEPI,Prices,rolling_stat
+PCEPI__rollz24,PCEPI,Prices,rolling_stat
+DDURRG3M086SBEA__rollmean6,DDURRG3M086SBEA,Prices,rolling_stat
+DDURRG3M086SBEA__rollstd6,DDURRG3M086SBEA,Prices,rolling_stat
+DDURRG3M086SBEA__rollz6,DDURRG3M086SBEA,Prices,rolling_stat
+DDURRG3M086SBEA__rollmean12,DDURRG3M086SBEA,Prices,rolling_stat
+DDURRG3M086SBEA__rollstd12,DDURRG3M086SBEA,Prices,rolling_stat
+DDURRG3M086SBEA__rollz12,DDURRG3M086SBEA,Prices,rolling_stat
+DDURRG3M086SBEA__rollmean24,DDURRG3M086SBEA,Prices,rolling_stat
+DDURRG3M086SBEA__rollstd24,DDURRG3M086SBEA,Prices,rolling_stat
+DDURRG3M086SBEA__rollz24,DDURRG3M086SBEA,Prices,rolling_stat
+DNDGRG3M086SBEA__rollmean6,DNDGRG3M086SBEA,Prices,rolling_stat
+DNDGRG3M086SBEA__rollstd6,DNDGRG3M086SBEA,Prices,rolling_stat
+DNDGRG3M086SBEA__rollz6,DNDGRG3M086SBEA,Prices,rolling_stat
+DNDGRG3M086SBEA__rollmean12,DNDGRG3M086SBEA,Prices,rolling_stat
+DNDGRG3M086SBEA__rollstd12,DNDGRG3M086SBEA,Prices,rolling_stat
+DNDGRG3M086SBEA__rollz12,DNDGRG3M086SBEA,Prices,rolling_stat
+DNDGRG3M086SBEA__rollmean24,DNDGRG3M086SBEA,Prices,rolling_stat
+DNDGRG3M086SBEA__rollstd24,DNDGRG3M086SBEA,Prices,rolling_stat
+DNDGRG3M086SBEA__rollz24,DNDGRG3M086SBEA,Prices,rolling_stat
+DSERRG3M086SBEA__rollmean6,DSERRG3M086SBEA,Prices,rolling_stat
+DSERRG3M086SBEA__rollstd6,DSERRG3M086SBEA,Prices,rolling_stat
+DSERRG3M086SBEA__rollz6,DSERRG3M086SBEA,Prices,rolling_stat
+DSERRG3M086SBEA__rollmean12,DSERRG3M086SBEA,Prices,rolling_stat
+DSERRG3M086SBEA__rollstd12,DSERRG3M086SBEA,Prices,rolling_stat
+DSERRG3M086SBEA__rollz12,DSERRG3M086SBEA,Prices,rolling_stat
+DSERRG3M086SBEA__rollmean24,DSERRG3M086SBEA,Prices,rolling_stat
+DSERRG3M086SBEA__rollstd24,DSERRG3M086SBEA,Prices,rolling_stat
+DSERRG3M086SBEA__rollz24,DSERRG3M086SBEA,Prices,rolling_stat
+CES0600000008__rollmean6,CES0600000008,Prices,rolling_stat
+CES0600000008__rollstd6,CES0600000008,Prices,rolling_stat
+CES0600000008__rollz6,CES0600000008,Prices,rolling_stat
+CES0600000008__rollmean12,CES0600000008,Prices,rolling_stat
+CES0600000008__rollstd12,CES0600000008,Prices,rolling_stat
+CES0600000008__rollz12,CES0600000008,Prices,rolling_stat
+CES0600000008__rollmean24,CES0600000008,Prices,rolling_stat
+CES0600000008__rollstd24,CES0600000008,Prices,rolling_stat
+CES0600000008__rollz24,CES0600000008,Prices,rolling_stat
+CES2000000008__rollmean6,CES2000000008,Prices,rolling_stat
+CES2000000008__rollstd6,CES2000000008,Prices,rolling_stat
+CES2000000008__rollz6,CES2000000008,Prices,rolling_stat
+CES2000000008__rollmean12,CES2000000008,Prices,rolling_stat
+CES2000000008__rollstd12,CES2000000008,Prices,rolling_stat
+CES2000000008__rollz12,CES2000000008,Prices,rolling_stat
+CES2000000008__rollmean24,CES2000000008,Prices,rolling_stat
+CES2000000008__rollstd24,CES2000000008,Prices,rolling_stat
+CES2000000008__rollz24,CES2000000008,Prices,rolling_stat
+CES3000000008__rollmean6,CES3000000008,Prices,rolling_stat
+CES3000000008__rollstd6,CES3000000008,Prices,rolling_stat
+CES3000000008__rollz6,CES3000000008,Prices,rolling_stat
+CES3000000008__rollmean12,CES3000000008,Prices,rolling_stat
+CES3000000008__rollstd12,CES3000000008,Prices,rolling_stat
+CES3000000008__rollz12,CES3000000008,Prices,rolling_stat
+CES3000000008__rollmean24,CES3000000008,Prices,rolling_stat
+CES3000000008__rollstd24,CES3000000008,Prices,rolling_stat
+CES3000000008__rollz24,CES3000000008,Prices,rolling_stat
+CONSPI__rollmean6,CONSPI,Money and Credit,rolling_stat
+CONSPI__rollstd6,CONSPI,Money and Credit,rolling_stat
+CONSPI__rollz6,CONSPI,Money and Credit,rolling_stat
+CONSPI__rollmean12,CONSPI,Money and Credit,rolling_stat
+CONSPI__rollstd12,CONSPI,Money and Credit,rolling_stat
+CONSPI__rollz12,CONSPI,Money and Credit,rolling_stat
+CONSPI__rollmean24,CONSPI,Money and Credit,rolling_stat
+CONSPI__rollstd24,CONSPI,Money and Credit,rolling_stat
+CONSPI__rollz24,CONSPI,Money and Credit,rolling_stat
+TB3SMFFM__rollmean6,TB3SMFFM,Interest and Exchange Rates,rolling_stat
+TB3SMFFM__rollstd6,TB3SMFFM,Interest and Exchange Rates,rolling_stat
+TB3SMFFM__rollz6,TB3SMFFM,Interest and Exchange Rates,rolling_stat
+TB3SMFFM__rollmean12,TB3SMFFM,Interest and Exchange Rates,rolling_stat
+TB3SMFFM__rollstd12,TB3SMFFM,Interest and Exchange Rates,rolling_stat
+TB3SMFFM__rollz12,TB3SMFFM,Interest and Exchange Rates,rolling_stat
+TB3SMFFM__rollmean24,TB3SMFFM,Interest and Exchange Rates,rolling_stat
+TB3SMFFM__rollstd24,TB3SMFFM,Interest and Exchange Rates,rolling_stat
+TB3SMFFM__rollz24,TB3SMFFM,Interest and Exchange Rates,rolling_stat
+TB6SMFFM__rollmean6,TB6SMFFM,Interest and Exchange Rates,rolling_stat
+TB6SMFFM__rollstd6,TB6SMFFM,Interest and Exchange Rates,rolling_stat
+TB6SMFFM__rollz6,TB6SMFFM,Interest and Exchange Rates,rolling_stat
+TB6SMFFM__rollmean12,TB6SMFFM,Interest and Exchange Rates,rolling_stat
+TB6SMFFM__rollstd12,TB6SMFFM,Interest and Exchange Rates,rolling_stat
+TB6SMFFM__rollz12,TB6SMFFM,Interest and Exchange Rates,rolling_stat
+TB6SMFFM__rollmean24,TB6SMFFM,Interest and Exchange Rates,rolling_stat
+TB6SMFFM__rollstd24,TB6SMFFM,Interest and Exchange Rates,rolling_stat
+TB6SMFFM__rollz24,TB6SMFFM,Interest and Exchange Rates,rolling_stat
+T1YFFM__rollmean6,T1YFFM,Interest and Exchange Rates,rolling_stat
+T1YFFM__rollstd6,T1YFFM,Interest and Exchange Rates,rolling_stat
+T1YFFM__rollz6,T1YFFM,Interest and Exchange Rates,rolling_stat
+T1YFFM__rollmean12,T1YFFM,Interest and Exchange Rates,rolling_stat
+T1YFFM__rollstd12,T1YFFM,Interest and Exchange Rates,rolling_stat
+T1YFFM__rollz12,T1YFFM,Interest and Exchange Rates,rolling_stat
+T1YFFM__rollmean24,T1YFFM,Interest and Exchange Rates,rolling_stat
+T1YFFM__rollstd24,T1YFFM,Interest and Exchange Rates,rolling_stat
+T1YFFM__rollz24,T1YFFM,Interest and Exchange Rates,rolling_stat
+T5YFFM__rollmean6,T5YFFM,Interest and Exchange Rates,rolling_stat
+T5YFFM__rollstd6,T5YFFM,Interest and Exchange Rates,rolling_stat
+T5YFFM__rollz6,T5YFFM,Interest and Exchange Rates,rolling_stat
+T5YFFM__rollmean12,T5YFFM,Interest and Exchange Rates,rolling_stat
+T5YFFM__rollstd12,T5YFFM,Interest and Exchange Rates,rolling_stat
+T5YFFM__rollz12,T5YFFM,Interest and Exchange Rates,rolling_stat
+T5YFFM__rollmean24,T5YFFM,Interest and Exchange Rates,rolling_stat
+T5YFFM__rollstd24,T5YFFM,Interest and Exchange Rates,rolling_stat
+T5YFFM__rollz24,T5YFFM,Interest and Exchange Rates,rolling_stat
+T10YFFM__rollmean6,T10YFFM,Interest and Exchange Rates,rolling_stat
+T10YFFM__rollstd6,T10YFFM,Interest and Exchange Rates,rolling_stat
+T10YFFM__rollz6,T10YFFM,Interest and Exchange Rates,rolling_stat
+T10YFFM__rollmean12,T10YFFM,Interest and Exchange Rates,rolling_stat
+T10YFFM__rollstd12,T10YFFM,Interest and Exchange Rates,rolling_stat
+T10YFFM__rollz12,T10YFFM,Interest and Exchange Rates,rolling_stat
+T10YFFM__rollmean24,T10YFFM,Interest and Exchange Rates,rolling_stat
+T10YFFM__rollstd24,T10YFFM,Interest and Exchange Rates,rolling_stat
+T10YFFM__rollz24,T10YFFM,Interest and Exchange Rates,rolling_stat
+AAAFFM__rollmean6,AAAFFM,Interest and Exchange Rates,rolling_stat
+AAAFFM__rollstd6,AAAFFM,Interest and Exchange Rates,rolling_stat
+AAAFFM__rollz6,AAAFFM,Interest and Exchange Rates,rolling_stat
+AAAFFM__rollmean12,AAAFFM,Interest and Exchange Rates,rolling_stat
+AAAFFM__rollstd12,AAAFFM,Interest and Exchange Rates,rolling_stat
+AAAFFM__rollz12,AAAFFM,Interest and Exchange Rates,rolling_stat
+AAAFFM__rollmean24,AAAFFM,Interest and Exchange Rates,rolling_stat
+AAAFFM__rollstd24,AAAFFM,Interest and Exchange Rates,rolling_stat
+AAAFFM__rollz24,AAAFFM,Interest and Exchange Rates,rolling_stat
+BAAFFM__rollmean6,BAAFFM,Interest and Exchange Rates,rolling_stat
+BAAFFM__rollstd6,BAAFFM,Interest and Exchange Rates,rolling_stat
+BAAFFM__rollz6,BAAFFM,Interest and Exchange Rates,rolling_stat
+BAAFFM__rollmean12,BAAFFM,Interest and Exchange Rates,rolling_stat
+BAAFFM__rollstd12,BAAFFM,Interest and Exchange Rates,rolling_stat
+BAAFFM__rollz12,BAAFFM,Interest and Exchange Rates,rolling_stat
+BAAFFM__rollmean24,BAAFFM,Interest and Exchange Rates,rolling_stat
+BAAFFM__rollstd24,BAAFFM,Interest and Exchange Rates,rolling_stat
+BAAFFM__rollz24,BAAFFM,Interest and Exchange Rates,rolling_stat
+SP500__rollmean6,SP500,Stock Market,rolling_stat
+SP500__rollstd6,SP500,Stock Market,rolling_stat
+SP500__rollz6,SP500,Stock Market,rolling_stat
+SP500__rollmean12,SP500,Stock Market,rolling_stat
+SP500__rollstd12,SP500,Stock Market,rolling_stat
+SP500__rollz12,SP500,Stock Market,rolling_stat
+SP500__rollmean24,SP500,Stock Market,rolling_stat
+SP500__rollstd24,SP500,Stock Market,rolling_stat
+SP500__rollz24,SP500,Stock Market,rolling_stat
+SP500__drawdown12,SP500,Stock Market,drawdown
+SP500__drawdown36,SP500,Stock Market,drawdown
+SP500__drawdown60,SP500,Stock Market,drawdown
+INDPRO__drawdown12,INDPRO,Output and Income,drawdown
+INDPRO__drawdown36,INDPRO,Output and Income,drawdown
+INDPRO__drawdown60,INDPRO,Output and Income,drawdown
+PAYEMS__drawdown12,PAYEMS,Labor Market,drawdown
+PAYEMS__drawdown36,PAYEMS,Labor Market,drawdown
+PAYEMS__drawdown60,PAYEMS,Labor Market,drawdown
+HOUST__drawdown12,HOUST,Housing,drawdown
+HOUST__drawdown36,HOUST,Housing,drawdown
+HOUST__drawdown60,HOUST,Housing,drawdown
+SP500_RETURN,SP500_RETURN,Stock Market,volatility
+SP500__realizedvol3,SP500__realizedvol3,Stock Market,volatility
+SP500__realizedvol6,SP500__realizedvol6,Stock Market,volatility
+SP500__realizedvol12,SP500__realizedvol12,Stock Market,volatility
+VIX_LEVEL,VIX_LEVEL,Stock Market,volatility
+VIX_CHANGE,VIX_CHANGE,Stock Market,volatility
+VIX__vol3,VIX__vol3,Stock Market,volatility
+VIX__vol6,VIX__vol6,Stock Market,volatility
+VIX__vol12,VIX__vol12,Stock Market,volatility
