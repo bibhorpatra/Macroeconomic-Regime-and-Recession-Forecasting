@@ -1,0 +1,133 @@
+# =============================================================================
+# Macro-Regime-Forecasting configuration
+# =============================================================================
+# Centralizes every "magic number" used across the pipeline so that split
+# dates, horizons, window sizes, and thresholds are documented in one place
+# and never hardcoded deep inside a module.
+
+# ---------------------------------------------------------------------------
+# Data vintage / provenance
+# ---------------------------------------------------------------------------
+data:
+  vintage_pull_date: "2026-09-06"          # date this run pulled live data
+  fredmd_start_date: "1959-01-01"          # earliest usable FRED-MD history
+  raw_dir: "data/raw"
+  processed_dir: "data/processed"
+  datasets_dir: "data/datasets"
+  predictions_dir: "data/predictions"
+
+# ---------------------------------------------------------------------------
+# Cleaning thresholds (DataCleaning)
+# ---------------------------------------------------------------------------
+cleaning:
+  # NOTE: max_null_rows is tighter than the old project's (10) because our
+  # reconstructed FRED-MD panel (see data_ingestion.py) has a handful of
+  # short-history substitute series; 6 was chosen empirically (see
+  # notebooks/01_data_preparation.ipynb) as the smallest threshold that
+  # still preserves the sample back to 1960-01 rather than 1967/1971.
+  max_null_rows: 6            # drop a row (date) if more than this many series are null
+  max_null_cols: 10          # drop a series (column) if more than this many dates are null
+
+# ---------------------------------------------------------------------------
+# Feature engineering
+# ---------------------------------------------------------------------------
+features:
+  lag_windows: [1, 3, 6, 9, 12]        # multi-horizon lags (months)
+  momentum_windows: [3, 6, 12]         # rate-of-change / pct-change windows (months)
+  rolling_windows: [6, 12, 24]         # rolling mean / std / z-score windows (months)
+  drawdown_windows: [12, 36, 60]       # trailing-max windows for drawdown features (months)
+  volatility_windows: [3, 6, 12]       # realized-volatility (rolling std of returns) windows (months)
+  # Series (post FRED-MD transform, i.e. already stationary "levels" in the sense
+  # of index levels rather than growth rates) that get drawdown-style features.
+  # These are raw levels merged in *before* the FRED-MD stationarity transform,
+  # specifically for computing "% off trailing rolling max".
+  drawdown_source_series: ["SP500", "INDPRO", "PAYEMS", "HOUST"]
+  # Spread definitions: (name, minuend_series, subtrahend_series) using RAW LEVELS
+  # of the underlying rate series (both already present in the FRED-MD panel).
+  spreads:
+    - name: "TERM_SPREAD_10Y3M"
+      minuend: "GS10"
+      subtrahend: "TB3MS"
+      description: "10-Year Treasury yield minus 3-Month T-bill (classic recession-predicting term spread)"
+    - name: "TERM_SPREAD_10YFF"
+      minuend: "GS10"
+      subtrahend: "FEDFUNDS"
+      description: "10-Year Treasury yield minus Fed Funds rate"
+    - name: "CREDIT_SPREAD_BAA_AAA"
+      minuend: "BAA"
+      subtrahend: "AAA"
+      description: "Baa minus Aaa corporate bond yield (credit / default-risk spread)"
+    - name: "CREDIT_SPREAD_BAA_10Y"
+      minuend: "BAA"
+      subtrahend: "GS10"
+      description: "Baa corporate yield minus 10-Year Treasury (credit spread vs risk-free)"
+    # CP_TBILL_SPREAD (3M commercial paper minus 3M T-bill) intentionally
+    # omitted: CP3Mx's free substitute (CPF3M) only starts in 1997 and was
+    # dropped from the cleaned panel (see fredmd_spec.DROPPED_SHORT_HISTORY),
+    # so this spread is not computable over the project's full sample.
+    - name: "FF_TBILL_SPREAD"
+      minuend: "FEDFUNDS"
+      subtrahend: "TB3MS"
+      description: "Fed funds rate minus 3-month T-bill (policy-vs-market short-rate spread)"
+
+# ---------------------------------------------------------------------------
+# Labeling
+# ---------------------------------------------------------------------------
+labeling:
+  recession_series: "USREC"
+  market_stress:
+    drawdown_threshold: -0.15      # S&P500 must be down >=15% from its trailing rolling max
+    drawdown_window: 12            # months, trailing max window used for the drawdown test
+    vix_threshold_percentile: 0.85 # VIX level must be above this point-in-time expanding percentile
+    vix_min_periods: 36            # months of VIX history required before the expanding percentile is defined
+    min_regime_len: 1              # no minimum-duration smoothing applied (kept simple/interpretable)
+
+# ---------------------------------------------------------------------------
+# Horizon / train-test-OOS split
+# ---------------------------------------------------------------------------
+split:
+  horizon: 1                       # h=1 month ahead forecast
+  recession:
+    # NOTE: the old project used 1973-01-01. Our reconstructed feature panel
+    # (see data_ingestion.py honesty notes) has a slightly later usable
+    # start (1961-09, vs. the old project's 1960-03) once the richer
+    # engineered features (up to a 60-month drawdown window) have warmed
+    # up, so the split date is pushed a little later too, since otherwise
+    # there would not be a full 150-month trailing window available for the very
+    # first rolling-backtest step. 1974-06-01 is the earliest date that
+    # still leaves a full 150-month training window before it.
+    split_date: "1974-06-01"       # pre-1974-06 used for CV hyperparameter search
+    cv_n_splits: 3                 # TimeSeriesSplit folds (pre-period has multiple recessions well spread out)
+  market_stress:
+    split_date: "2007-01-01"       # VIX only available from 1990 -> shorter history, later split
+    # Only 2 folds (not the recession target's 3): the pre-2007 period
+    # contains just one clustered stress episode (the 2001-03 dot-com
+    # bust), so a 3-way TimeSeriesSplit puts that entire episode in a
+    # single test fold every time (0 positive labels in EVERY training
+    # fold, so F1 is identically 0 for every hyperparameter candidate,
+    # making the search uninformative). 2 folds gives one fold whose training
+    # portion contains part of that episode, restoring a real signal to
+    # select on. See notebooks/02_recession_model.ipynb /
+    # 03_market_stress_model.ipynb for the diagnostic that found this.
+    cv_n_splits: 2
+  rolling_window: 150               # months in each rolling walk-forward training window
+
+# ---------------------------------------------------------------------------
+# Modeling
+# ---------------------------------------------------------------------------
+modeling:
+  selection_metric: "f1"           # imbalance-appropriate metric for CV hyperparameter selection (default / recession)
+  # Market-stress override: with only ~14 positive months in the entire
+  # pre-OOS period (1992-2006, all from the 2001-03 dot-com bust), even a
+  # 2-fold TimeSeriesSplit's hard 0.5-threshold predictions come out
+  # all-negative for every hyperparameter candidate in some folds, so F1,
+  # accuracy and MCC tie at an identical value for the whole grid, making
+  # selection arbitrary. Average precision (PR-AUC) uses the
+  # continuous predicted probabilities directly, so it still separates
+  # candidates by how well they RANK the few true positives even when the
+  # 0.5-threshold decision doesn't change. See notebooks/03_market_stress_model.ipynb.
+  market_stress_selection_metric: "pr_auc"
+  random_state: 42
+  imbalance:
+    dt_rf: "class_weight_balanced"
+    xgb: "scale_pos_weight"
